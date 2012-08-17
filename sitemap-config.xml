@@ -1,0 +1,4 @@
+<directory path="~/web"
+     url="http://localhost"
+     default_file="index.php"
+/>
