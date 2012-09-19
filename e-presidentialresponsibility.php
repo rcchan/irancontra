@@ -34,7 +34,14 @@
     <li>David Bogen and Michael Lynch, “Taking Account of the Hostile Native: Plausible Deniability and the Production of Conventional History in the Iran-Contra Hearings,” <em>Social Problems</em>, Vol. 36, No. 3 (Jun., 1989), pp. 197-224.</li>
   </ul>
   <ul>
-    <li>The “RICO conspiracy” laws convicted Providence, Rhode Island Mayor Vincent “Buddy” Cianci of presiding over a corrupt political machine. Cianci, a convicted felon, had certainly perfected the art of plausible deniability. While his Director of Administration was caught on videotape accepting bribes on Cianci’s behalf, there was never any direct evidence of Cianci’s involvement in the criminal enterprise that operated on his behalf. Cianci complained bitterly about his conviction in light of the lack of direct evidence. Judge Torres sentenced Cianci to five years in prison. Cianci <a href="http://www.law.suffolk.edu/highlights/stuorgs/lawreview/documents/Koren_Comment_Final.pdf" class="content_link">lost</a> his appeal. Should the same logic used against Cianci have been used against President Reagan? How significant is the fact that one case is about personal political futures and the other is about foreign policy?</li>
+    <li>The “RICO conspiracy” laws convicted Providence, Rhode Island Mayor Vincent “Buddy” 
+Cianci of presiding over a corrupt political machine. Cianci, a convicted felon, had 
+certainly perfected the art of plausible deniability. While his Director of Administration 
+was caught on videotape accepting bribes on Cianci’s behalf, there was never any direct 
+evidence of Cianci’s involvement in the criminal enterprise that operated on his behalf. 
+Cianci complained bitterly about his conviction in light of the lack of direct evidence. 
+Judge Torres sentenced Cianci to five years in prison. Cianci <a 
+href="http://bulk.resource.org/courts.gov/c/F3/378/378.F3d.71.02-2288.02-2166.02-2165.02-2159.02-2158.html" class="content_link">lost</a> his appeal. Should the same logic used against Cianci have been used against President Reagan? How significant is the fact that one case is about personal political futures and the other is about foreign policy?</li>
   </ul>
 </div>
 <div align=center class="top_link"><p>[ <a href="#headertop">Return to top ]</a></p></div>

@@ -34,7 +34,9 @@
 <h3>Additional Resources</h3>
 <div style="margin:0px 0px 0px 20px">
   <ul type="disc">
-    <li>E.J. Dionne Jr., “<a href="https://www.courses.psu.edu/hd_fs/hd_fs597_rxj9/resigning.htm" class="content_link">Resigning on Principle</a>,” <em>New York Times</em>, September 17, 1996; p. A15. On three resignations from the Clinton Administration over changes in the welfare laws. </li>
+    <li>E.J. Dionne Jr., “<a href="http://www.washingtonpost.com/wp-srv/politics/special/welfare/stories/op091796.htm" class="content_link">Resigning on Principle</a>,” 
+<em>Washington Post</em>, September 17, 1996; p. A15. On three resignations from the Clinton 
+Administration over changes in the welfare laws. </li>
   </ul>
   <ul>
     <li>Richard H. Cohn, “<a href="http://www.foreignaffairs.com/articles/65644/richard-h-kohn/always-salute-never-resign" class="content_link">Always Salute, Never Resign</a>,” <em>Foreign Affairs</em> (2009). Arguing that Senior officers who resign over policy disagreements with civilian leaders undermine the principle of civilian control over the military and damage the professionalism of the U.S. armed forces.</li>
