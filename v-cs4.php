@@ -25,7 +25,7 @@ Day 40: August 3, 1987
 The hearings showed, in the words of Co-Chair Sen. Inouye, that “in America, as 200 years ago, the people still rule.”
 
 </p><br /><br /></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/cs-3.php" class="content_link">Previous</a></td><td align="right"><a href="v-new1.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="transcripts/cs-3.php" class="content_link">Previous</a></td><td align="right"></td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>
