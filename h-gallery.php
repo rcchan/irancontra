@@ -1275,7 +1275,8 @@
 							</tr>
 							<tr>
 								<td align="left">
-									<font class="video"><strong><a href="v-gs6.jpg">Senator Mitchell Asks Shultz Whether Reagan Kept Him Out of the Loop</a></strong><br>
+									<font class="video"><strong><a href="v-gs6.php">Senator Mitchell Asks Shultz Whether 
+Reagan Kept Him Out of the Loop</a></strong><br>
 									(5:12)</font>
 								</td>
 							</tr>
