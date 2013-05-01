@@ -36,7 +36,20 @@ The attorney general states that the Department of Justice was not asked if the 
 </td>
 <td align="justify" valign="top">
 
-<object id='cspan-video-player' classid='clsid:d27cdb6eae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0' align='middle' height='500' width='410'><param name='allowScriptAccess' value='true'/><param name='movie' value='http://www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?pid=9643-1&start=14092&end=14195'/><param name='quality' value='high'/><param name='bgcolor' value='#ffffff'/><param name='allowFullScreen' value='true'/><param name='flashvars' value='system=http://www.c-spanvideo.org/common/services/flashXml.php?programid=6592&style=full&start=14092&end=14195'/><embed name='cspan-video-player' src='http://www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?pid=9643-1&start=14092&end=14195' base='http://www.c-spanvideo.org/videoLibrary/assets/swf/' allowScriptAccess='always' bgcolor='#ffffff' quality='high' allowFullScreen='true' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' flashvars='system=http://www.c-spanvideo.org/common/services/flashXml.php?programid=6592&style=full&start=14092&end=14195' align='middle' height='500' width='410'></embed></object>
+<object id='cspan-video-player' classid='clsid:d27cdb6eae6d-11cf-96b8-444553540000'
+codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/
+swflash.cab#version=9,0,0,0' align='middle' height='500' width='410'><param
+name='allowScriptAccess' value='true'/><param name='movie' value='http://
+www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?clipid=4425797'/
+><param name='quality' value='high'/><param name='bgcolor' value='#ffffff'/><param
+name='allowFullScreen' value='true'/><param name='flashvars' value='system=http:/
+/www.c-spanvideo.org/common/services/flashXml.php?clipid=4425797&style=full'/
+><embed name='cspan-video-player' src='http://www.c-spanvideo.org/videoLibrary/
+assets/swf/CSPANPlayer.swf?clipid=4425797' allowScriptAccess='always' bgcolor='#ffffff'
+quality='high' allowFullScreen='true' type='application/x-shockwave-flash' pluginspage='http:/
+/www.macromedia.com/go/getflashplayer' flashvars='system=http://www.c-spanvideo.org/
+common/services/flashXml.php?clipid=4425797&style=full' align='middle' height='500'
+width='410'></embed></object>
    
    
 </td></tr></table><br /><br />

@@ -36,7 +36,20 @@ Sen. Rudman blames much of the affairs on the decisions of the National Security
 </td>
 <td align="justify" valign="top">
 
-<object id='cspan-video-player' classid='clsid:d27cdb6eae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0' align='middle' height='500' width='410'><param name='allowScriptAccess' value='true'/><param name='movie' value='http://www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?clipid=3780484'/><param name='quality' value='high'/><param name='bgcolor' value='#ffffff'/><param name='allowFullScreen' value='true'/><param name='flashvars' value='system=http://www.c-spanvideo.org/common/services/flashXml.php?clipid=3780484&style=full'/><embed name='cspan-video-player' src='http://www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?clipid=3780484' allowScriptAccess='always' bgcolor='#ffffff' quality='high' allowFullScreen='true' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' flashvars='system=http://www.c-spanvideo.org/common/services/flashXml.php?clipid=3780484&style=full' align='middle' height='500' width='410'></embed></object>
+<object id='cspan-video-player' classid='clsid:d27cdb6eae6d-11cf-96b8-444553540000'
+codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/
+swflash.cab#version=9,0,0,0' align='middle' height='500' width='410'><param
+name='allowScriptAccess' value='true'/><param name='movie' value='http://
+www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?clipid=4441690'/
+><param name='quality' value='high'/><param name='bgcolor' value='#ffffff'/><param
+name='allowFullScreen' value='true'/><param name='flashvars' value='system=http:/
+/www.c-spanvideo.org/common/services/flashXml.php?clipid=4441690&style=full'/
+><embed name='cspan-video-player' src='http://www.c-spanvideo.org/videoLibrary/
+assets/swf/CSPANPlayer.swf?clipid=4441690' allowScriptAccess='always' bgcolor='#ffffff'
+quality='high' allowFullScreen='true' type='application/x-shockwave-flash' pluginspage='http:/
+/www.macromedia.com/go/getflashplayer' flashvars='system=http://www.c-spanvideo.org/
+common/services/flashXml.php?clipid=4441690&style=full' align='middle' height='500'
+width='410'></embed></object>
    
    
 </td></tr></table><br /><br />
