@@ -1,7 +1,9 @@
+<? if (preg_match('#/google[a-z0-9]+\.html#', $_SERVER['PATH_INFO'])) { 
+readfile(substr($_SERVER['PATH_INFO'], 1)); die(); } ?>
 <? require ('templates/header.php'); ?>
 <title>Understanding the Iran-Contra Affairs</title>
-<meta name="keywords" content="iran, contra, iran-contra, scandals, iran contra affairs, iran-contra affairs"
-
+<meta name="keywords" content="iran, contra, iran-contra, scandals, iran contra affairs, iran-contra affairs">
+<meta name="google-site-verification" content="KW0G91LDL37kzHBsuwdgyiqT9fTRn1vw4LS9Vrgfi6w" />
 </head>
 <script type="text/javascript">
 
