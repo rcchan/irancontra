@@ -23,9 +23,8 @@
  
  <h3>Video</h3>
  <div align="center">
- 
- <table cellspacing=5><tr><td></td><td><a href="http://millercenter.org/scripps/archive/speeches/detail/3414" target="_" class="content_link"><img src="thumbnails/v-reagan.jpg" border=0 /></a></td><td></td></tr>
- <tr><td></td><td width=150><p><a href="http://millercenter.org/scripps/archive/speeches/detail/3414" target="_" class="content_link">Presidential Address to the Nation on Iran-Contra</a></p></td><td> </td></tr></table>
+
+   <iframe width="100%" height="480" src="https://www.youtube.com/embed/DJ_7ZhpLS80" frameborder="0" gesture="media" allowfullscreen></iframe> 
  
  </div>
  </td>
