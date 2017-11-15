@@ -22,7 +22,7 @@
     
 </td>
 <td align="justify" valign="top">
-<object id='cspan-video-player' classid='clsid:d27cdb6eae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0' align='middle' height='500' width='410'><param name='allowScriptAccess' value='true'/><param name='movie' value='http://www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?clipid=4397801'/><param name='quality' value='high'/><param name='bgcolor' value='#ffffff'/><param name='allowFullScreen' value='true'/><param name='flashvars' value='system=http://www.c-spanvideo.org/common/services/flashXml.php?clipid=4397801&style=full'/><embed name='cspan-video-player' src='http://www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?clipid=4397801' allowScriptAccess='always' bgcolor='#ffffff' quality='high' allowFullScreen='true' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' flashvars='system=http://www.c-spanvideo.org/common/services/flashXml.php?clipid=4397801&style=full' align='middle' height='500' width='410'></embed></object>
+<iframe width="512" height="330" src="//www.c-span.org/video/standalone/?c4397801" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
    </td></tr></table><br /><br />
 </div>
 <? require ('templates/footer.php'); ?>
