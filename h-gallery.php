@@ -10,6 +10,7 @@
 	<tr>
 		<td colspan='2' height='50'>
 			<h2>The Hearings: Video Gallery</h2>
+			<div style="font-weight:bold; text-align: center; border: 1px solid black; margin: 0 15%; padding: 10px;">Some videos embeds are not working due to technical issues with C-SPAN.<br />We are working on fixing the these. Those that should are marked with a *.</b>
 		</td>
 	</tr>
 	<tr>
@@ -179,7 +180,7 @@
 							</tr>
 							<tr>
 								<td align="left">
-									<font class="video"><strong><a href="v-rs5.php">Secord on Reagan's Awareness</a></strong><br>(1:44)</font>
+									<font class="video"><strong><a href="v-rs5.php">Secord on Reagan's Awareness</a>*</strong><br>(1:44)</font>
 								</td>
 							</tr>
 							</tbody></table>
@@ -195,7 +196,7 @@
 							</tr>
 							<tr>
 								<td align="left">
-									<font class="video"><strong><a href="v-rs6.php">Secord and Senator Boren on Secord's Expertise</a></strong><br>(5:05)</font>
+									<font class="video"><strong><a href="v-rs6.php">Secord and Senator Boren on Secord's Expertise</a>*</strong><br>(5:05)</font>
 								</td>
 							</tr>
 							</tbody></table>
@@ -522,7 +523,7 @@
 							</tr>
 							<tr>
 								<td align="left">
-									<font class="video"><strong><a href="v-ah2.php">Hakim on His "Love" for North</a></strong><br>
+									<font class="video"><strong><a href="v-ah2.php">Hakim on His "Love" for North</a>*</strong><br>
 									(3:14)</font>
 								</td>
 							</tr>
@@ -537,7 +538,7 @@
 							</tr>
 							<tr>
 								<td align="left">
-									<font class="video"><strong><a href="v-ah3.php">Hakim on North and the Hostages</a></strong><br>
+									<font class="video"><strong><a href="v-ah3.php">Hakim on North and the Hostages</a>*</strong><br>
 									(5:47)</font>
 								</td>
 							</tr>
@@ -552,7 +553,7 @@
 							</tr>
 							<tr>
 								<td align="left">
-									<font class="video"><strong><a href="v-ah4.php">Hakim on North's Use of Reagan's Name</a></strong><br>
+									<font class="video"><strong><a href="v-ah4.php">Hakim on North's Use of Reagan's Name</a>*</strong><br>
 									(4:36)</font>
 								</td>
 							</tr>
@@ -631,7 +632,7 @@
 							</tr>
 							<tr>
 								<td align="left">
-									<font class="video"><strong><a href="v-fh3.php">Hall Calling North "An American Hero"</a></strong><br>
+									<font class="video"><strong><a href="v-fh3.php">Hall Calling North "An American Hero"</a>*</strong><br>
 									(1:00)</font>
 								</td>
 							</tr>
@@ -960,7 +961,7 @@
 							</tr>
 							<tr>
 								<td align="left">
-									<font class="video"><strong><a href="v-on18.php">Senator Hatch on Covert Operations</a></strong><br>
+									<font class="video"><strong><a href="v-on18.php">Senator Hatch on Covert Operations</a>*</strong><br>
 									(3:53)</font>
 								</td>
 							</tr>
@@ -975,7 +976,7 @@
 							</tr>
 							<tr>
 								<td align="left">
-									<font class="video"><strong><a href="v-on19.php">Senator Rudman on What the People Want</a></strong><br>
+									<font class="video"><strong><a href="v-on19.php">Senator Rudman on What the People Want</a>*</strong><br>
 									(1:21)</font>
 								</td>
 							</tr>
@@ -992,7 +993,7 @@
                 </tr>
                 <tr>
                   <td align="left">
-                    <font class="video"><strong><a href="v-new1.php">Senator Mitchell on Patriotism and Disagreement With Government Policies</a></strong><br>
+                    <font class="video"><strong><a href="v-new1.php">Senator Mitchell on Patriotism and Disagreement With Government Policies</a>*</strong><br>
                     (4:19)</font>
                   </td>
                 </tr>
@@ -1087,7 +1088,7 @@
 							</tr>
 							<tr>
 								<td align="left">
-									<font class="video"><strong><a href="v-jp3.php">Poindexter on Keeping Reagan's Unaware</a></strong><br>
+									<font class="video"><strong><a href="v-jp3.php">Poindexter on Keeping Reagan's Unaware</a>*</strong><br>
 									(7:35)</font>
 								</td>
 							</tr>
@@ -1275,8 +1276,7 @@
 							</tr>
 							<tr>
 								<td align="left">
-									<font class="video"><strong><a href="v-gs6.php">Senator Mitchell Asks Shultz Whether 
-Reagan Kept Him Out of the Loop</a></strong><br>
+									<font class="video"><strong><a href="v-gs6.php">Senator Mitchell Asks Shultz Whether Reagan Kept Him Out of the Loop</a>*</strong><br>
 									(5:12)</font>
 								</td>
 							</tr>
@@ -1290,7 +1290,7 @@ Reagan Kept Him Out of the Loop</a></strong><br>
 							</tr>
 							<tr>
 								<td align="left">
-									<font class="video"><strong><a href="v-gs7.php">Rep. DeWine Asks Shultz Why He Kept Himself Unaware</a></strong><br>
+									<font class="video"><strong><a href="v-gs7.php">Rep. DeWine Asks Shultz Why He Kept Himself Unaware</a>*</strong><br>
 									(2:25)</font>
 								</td>
 							</tr>
