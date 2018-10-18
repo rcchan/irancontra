@@ -22,7 +22,7 @@
     
 </td>
 <td align="justify" valign="top">
-<object id='cspan-video-player' classid='clsid:d27cdb6eae6d-11cf-96b8-444553540000'
+<video controls style="max-width: 100%;"><source src="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/videos/cut/program.5539.MP4-M20.10857.126.mp4" type="video/mp4"></video>
 codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/
 
 swflash.cab#version=9,0,0,0' align='middle' height='500' width='410'><param

@@ -36,7 +36,7 @@ Secretary of Defense Caspar Weinberger raised legal issues regarding the arms tr
 </td>
 <td align="justify" valign="top">
 
-<object id='cspan-video-player' classid='clsid:d27cdb6eae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0' align='middle' height='500' width='410'><param name='allowScriptAccess' value='true'/><param name='movie' value='http://www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?pid=9641-1&start=7195&end=7468'/><param name='quality' value='high'/><param name='bgcolor' value='#ffffff'/><param name='allowFullScreen' value='true'/><param name='flashvars' value='system=http://www.c-spanvideo.org/common/services/flashXml.php?programid=6270&style=full&start=7195&end=7468'/><embed name='cspan-video-player' src='http://www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?pid=9641-1&start=7195&end=7468' base='http://www.c-spanvideo.org/videoLibrary/assets/swf/' allowScriptAccess='always' bgcolor='#ffffff' quality='high' allowFullScreen='true' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' flashvars='system=http://www.c-spanvideo.org/common/services/flashXml.php?programid=6270&style=full&start=7195&end=7468' align='middle' height='500' width='410'></embed></object>
+<video controls style="max-width: 100%;"><source src="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/videos/cut/program.6270.MP4-M20.7195.274.mp4" type="video/mp4"></video>
    
    
 </td></tr></table><br /><br />

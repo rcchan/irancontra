@@ -37,7 +37,7 @@ Sen. Sam Nunn (D-GA) questions Weinberger on the lack of communication among mem
 </td>
 <td align="justify" valign="top">
 
-<object id='cspan-video-player' classid='clsid:d27cdb6eae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0' align='middle' height='500' width='410'><param name='allowScriptAccess' value='true'/><param name='movie' value='http://www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?pid=9648-1&start=3841&end=4148'/><param name='quality' value='high'/><param name='bgcolor' value='#ffffff'/><param name='allowFullScreen' value='true'/><param name='flashvars' value='system=http://www.c-spanvideo.org/common/services/flashXml.php?programid=6275&style=full&start=3841&end=4148'/><embed name='cspan-video-player' src='http://www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?pid=9648-1&start=3841&end=4148' base='http://www.c-spanvideo.org/videoLibrary/assets/swf/' allowScriptAccess='always' bgcolor='#ffffff' quality='high' allowFullScreen='true' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' flashvars='system=http://www.c-spanvideo.org/common/services/flashXml.php?programid=6275&style=full&start=3841&end=4148' align='middle' height='500' width='410'></embed></object>
+<video controls style="max-width: 100%;"><source src="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/videos/cut/program.6275.MP4-M20.3658.307.mp4" type="video/mp4"></video>
    
    
 </td></tr></table><br /><br />
