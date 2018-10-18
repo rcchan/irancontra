@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="h-gallery.php">Video Gallery</a> &raquo; Robert McFarlane</div>
 <table>
 <tr>
@@ -15,7 +15,7 @@
       <td align="center"><strong>Browse Videos</strong></td></tr>
     <tr>
       <td align="center" valign="top">
-      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcome note"><br />
+      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcomenote"><br />
       <a href="h-gallery.php"  class="content_link">VIEW ALL VIDEOS</a> (108)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-os-gallery.php" class="content_link">Opening Statements</a> (4)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-rs-gallery.php" class="content_link">Richard Secord</a> (7)<br>
@@ -38,7 +38,7 @@
     
 </td>
 <td align="justify" valign="top">
-   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcome note">
+   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcomenote">
 <h3>ROBERT MCFARLANE (8) - <a href="profile-mcfarlane.php" class="content_link">Profile</a></h3>
 <p>By the time Robert McFarlane addressed the joint hearings, it had been one-and-a-half years since he was President Reagan’s national security advisor.&nbsp; Still, even after McFarlane served as a crucial member of the official Reagan team from 1983 to 1985, he had a direct hand in the Iran-Contra Affair after he left public office.&nbsp; Disgraced by the emerging scandal, McFarlane attempted suicide in Feburary 1987 by overdosing on Valium.&nbsp; He survived the attempt and later said that he felt a responsibility for the scandal and the tarnish that it had cast on Reagan.&nbsp; For the most part, McFarlane came across as a “tightly controlled, impassive, almost somnambulant witness,” wrote <em>The Washington Post</em>.&nbsp; Yet, his emotional upkeep finally unraveled on his fourth day of testimony, quarreling with legislators such as Sen. Warren Rudman, vice chair of the Senate committee.&nbsp; McFarlane told the panel that he did not want any special treatment because of his recent overdose.&nbsp; “Shoot your best shot,” he declared.</p>
 <div align="center">

@@ -36,7 +36,7 @@ readfile(substr($_SERVER['PATH_INFO'], 1)); die(); } ?>
 <body>
 <? require ('templates/mainbanner.php'); ?>
     
- <div style="position:relative; margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+ <div style="position:relative; margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
  <table><tr><td width="560"align="justify" valign="top">
 <h2>Welcome</h2>
  <p>Welcome to “Understanding the Iran-Contra Affairs,” the only comprehensive website on the famous Reagan-era government scandal, which stemmed from the U.S. government’s policies toward two seemingly unrelated countries, Nicaragua and Iran.&nbsp; Despite stated and repeated denials to Congress and to the public, Reagan Administration officials supported the militant contra rebels in Nicaragua and sold arms to a hostile Iranian government.&nbsp; These events have led to questions about the appropriateness of covert operations, congressional oversight, and even the presidential power to pardon.</p>

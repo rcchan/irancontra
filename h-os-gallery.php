@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="h-gallery.php">Video Gallery</a> &raquo; Opening Statements</div>
 <table>
 <tr>
@@ -15,7 +15,7 @@
       <td align="center"><strong>Browse Videos</strong></td></tr>
     <tr>
       <td align="center" valign="top">
-      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcome note"><br />
+      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcomenote"><br />
       <a href="h-gallery.php"  class="content_link">VIEW ALL VIDEOS</a> (108)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Opening Statements</strong> (4)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-rs-gallery.php" class="content_link">Richard Secord</a> (7)<br>
@@ -37,7 +37,7 @@
     
 </td>
 <td align="justify" valign="top">
-   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcome note">
+   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcomenote">
 <h3>OPENING STATEMENTS (4)</h3>
 <p>On May 5, 1987, the world tuned in to watch the joint hearings of House Select Committee to Investigate Covert Arms Transactions with Iran and the Senate Select Committee on Secret Military Assistance to Iran and the Nicaraguan Opposition—soon to be known as the “Iran-Contra hearings.”</p>
 <p>The hearings were called to order about two months after the release of the <a href="http://hdl.handle.net/2027/mdp.39015014946043" class="content_link">Tower Commission’s Report</a> that was ordered by President Ronald Reagan, which did not blame Reagan directly for the Iran-Contra Affairs, but said he should have been more informed about the events.</p>

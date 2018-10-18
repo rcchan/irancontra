@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="h-gallery.php">Video Gallery</a> &raquo; Oliver North</div>
 <table>
 <tr>
@@ -15,7 +15,7 @@
       <td align="center"><strong>Browse Videos</strong></td></tr>
     <tr>
       <td align="center" valign="top">
-      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcome note"><br />
+      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcomenote"><br />
       <a href="h-gallery.php"  class="content_link">VIEW ALL VIDEOS</a> (108)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-os-gallery.php" class="content_link">Opening Statements</a> (4)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-rs-gallery.php" class="content_link">Richard Secord</a> (7)<br>
@@ -38,7 +38,7 @@
     
 </td>
 <td align="justify" valign="top">
-   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcome note">
+   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcomenote">
 <h3>OLIVER NORTH (22) - <a href="profile-north.php" class="content_link">Profile</a></h3>
 <p>On July 7, 1987, a headline on the front of <em>The Wall Street Journal</em> asked a critical question: “Which Col. North Will Tell His Story to Nation: The Villain Who Deceived or Hero Who Obeyed?”&nbsp; Readers of <em>Washingtonian</em> magazine had voted Lt. Col. Oliver North the top villain of the year—and the biggest hero.&nbsp; It would have been an understatement to call “Ollie” a conundrum.&nbsp; Without a doubt, North was expected to be the star witness of the hearings.&nbsp; Starting the morning of the 7th, he did not disappoint.&nbsp; Just as the American people were listening to North’s testimony from day one, they were also watching the spectacle.&nbsp; “The day-long show proved again that Washington can still outdo Hollywood in the production of high-yield dramatic blockbusters,” declared <em>The Washington Post</em>.&nbsp; “Was he the good guy, the bad guy or the fall guy?” asked The<em> Chicago Tribune</em>.&nbsp; “On Tuesday he revealed himself as the wise guy.”</p>
 <p>Taking place over six straight weekdays, North provided plenty of substance, too.&nbsp; At the start, he vowed, “I came here to tell you the truth—the good, the bad, and the ugly.”&nbsp; He acknowledged shredding key documents, but North maintained that his actions were in line with what his superiors wanted.&nbsp; North claimed that he saw a signed presidential Finding to ship arms to Iran and that President Reagan was aware of the private fundraising for the Contras.&nbsp; He also disclosed that the late CIA Director William Casey was aware of North’s activities, but he deliberately kept the secretaries of state and defense out of the loop.&nbsp; Indeed, North aimed to ensure “plausible deniability” among his superiors (including Reagan).<br />

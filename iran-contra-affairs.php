@@ -30,7 +30,7 @@
 </head>
 <? require ('templates/irancontrabanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note"><div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo;  The Iran Contra Affairs</div>
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote"><div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo;  The Iran Contra Affairs</div>
 <table>
 <tr>
 <td colspan=2 height=50><h2>The Iran Contra Affairs</h2></td></tr>

@@ -4,7 +4,7 @@
 </head>
 <? require ('templates/mainbanner.php'); ?>
     
- <div style="position:relative; margin: 10px 0px 0px 20px; width: 765px" align="center" id="welcome note">
+ <div style="position:relative; margin: 10px 0px 0px 20px; width: 765px" align="center" id="welcomenote">
  
  <div align="left"><br /><h2>About the Project</h2></div>
  <table border=0>

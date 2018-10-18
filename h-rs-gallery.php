@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="h-gallery.php">Video Gallery</a> &raquo; Richard Secord</div>
 <table>
 <tr>
@@ -15,7 +15,7 @@
       <td align="center"><strong>Browse Videos</strong></td></tr>
     <tr>
       <td align="center" valign="top">
-      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcome note"><br />
+      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcomenote"><br />
       <a href="h-gallery.php"  class="content_link">VIEW ALL VIDEOS</a> (108)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-os-gallery.php" class="content_link">Opening Statements</a> (4)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Richard Secord</strong> (7)<br>
@@ -38,7 +38,7 @@
     
 </td>
 <td align="justify" valign="top">
-   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcome note">
+   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcomenote">
 <h3>RICHARD SECORD (7) - <a href="profile-secord.php" class="content_link">Profile</a></h3>
 <p>The testimony started off with a bang.&nbsp; Richard Secord, a retired Major General who ran The Enterprise, gave fascinating, detailed descriptions of private-citizen involvement with the Diversion.&nbsp; By the end of the first day, <em>The Washington Post</em> wrote, Secord’s “absolutely riveting” testimony proved that the hearing would be “dead serious” and “full of surprises.”&nbsp; Secord’s frank demeanor also led to testy interaction with the counsel, as he told Senate Chief Counsel Arthur Liman that he “did not come here to be badgered.”&nbsp; Notably, Secord testified that he believed President Reagan was aware of The Enterprise’s activities.&nbsp; The senators and congressmen who spoke were critical of turning over U.S. policymaking to private hands, but Secord defended his actions.&nbsp; He insisted that the nature of the hearings was causing the world “laugh at us.”</p>
 <div align="center">

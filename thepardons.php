@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/legalaftermathbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 765px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 765px" align="justify" id="welcomenote">
 <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thelegalaftermath.php">The Legal Aftermath</a> &raquo; The Pardons</div>
 <h2><strong>The 1992 Pardons</strong></h2>
 <p>On December 24, 1992, President <a href="profile-bush.php" class="content_link">George H.W. Bush</a> granted pardons to six defendants in the Iran-Contra Affairs. The defendants were <a href="profile-abrams.php" class="content_link">Elliott Abrams</a>, a former assistant secretary of state for Central America; former National Security Adviser <a href="profile-mcfarlane.php" class="content_link">Robert McFarlane</a>; former CIA officials <a href="profile-clarridge.php" class="content_link">Duane Clarridge</a>, <a href="profile-fiers.php" class="content_link">Alan Fiers</a>, and <a href="profile-george.php" class="content_link">Clair George</a>; and former Secretary of Defense <a href="profile-weinberger.php" class="content_link">Caspar Weinberger</a>.</p>

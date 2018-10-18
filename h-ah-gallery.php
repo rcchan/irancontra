@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="h-gallery.php">Video Gallery</a> &raquo; Albert Hakim</div>
 <table>
 <tr>
@@ -15,7 +15,7 @@
       <td align="center"><strong>Browse Videos</strong></td></tr>
     <tr>
       <td align="center" valign="top">
-      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcome note"><br />
+      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcomenote"><br />
       <a href="h-gallery.php"  class="content_link">VIEW ALL VIDEOS</a> (108)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-os-gallery.php" class="content_link">Opening Statements</a> (4)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-rs-gallery.php" class="content_link">Richard Secord</a> (7)<br>
@@ -38,7 +38,7 @@
     
 </td>
 <td align="justify" valign="top">
-   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcome note">
+   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcomenote">
 <h3>ALBERT HAKIM (6) - <a href="profile-hakim.php" class="content_link">Profile</a></h3>
 <p>W. Mark Felt (AKA Deep Throat) never actually said, “Follow the money,” but if the quotation from <em>All the President’s Men</em> applied to Iran-Contra just as it had to Watergate, the trail would lead to Albert Hakim.&nbsp; Along with Maj. Gen. Richard Secord (Ret.), Hakim ran the Enterprise as a business, not a humanitarian organization.&nbsp; When Hakim was questioned by the committees, he had profited several-million dollars by helping turn money from Nicaragua into arms for Iran.&nbsp; Hakim’s testimony featured many notable statements—from his description of his “love” for Lt. Col. Oliver North to his plans for a war with Russia over Iran.&nbsp; Hakim justified using the Enterprise’s profits, which the committees argue should belong to the U.S., in order to fund $200,000 of death benefits for North’s family.&nbsp; Ultimately, Co-Chairman Sen. Daniel Inouye (D-HI) castigated the private network of foreign policy pursued by the Enterprise.&nbsp; “When I look back,” Hakim responds, “I share your opinion.”</p>
 <div align="center">

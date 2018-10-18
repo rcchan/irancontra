@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="h-gallery.php">Video Gallery</a> &raquo; Fawn Hall</div>
 <table>
 <tr>
@@ -15,7 +15,7 @@
       <td align="center"><strong>Browse Videos</strong></td></tr>
     <tr>
       <td align="center" valign="top">
-      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcome note"><br />
+      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcomenote"><br />
       <a href="h-gallery.php"  class="content_link">VIEW ALL VIDEOS</a> (108)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-os-gallery.php" class="content_link">Opening Statements</a> (4)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-rs-gallery.php" class="content_link">Richard Secord</a> (7)<br>
@@ -38,7 +38,7 @@
     
 </td>
 <td align="justify" valign="top">
-   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcome note">
+   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcomenote">
 <h3>FAWN HALL (6) - <a href="profile-hall.php" class="content_link">Profile</a></h3>
 <p>“Near-hysterical excitement” greeted Fawn Hall at a time when “a pretty, appealing witness was desperately needed,” wrote <em>The Washington Post</em>.&nbsp; The former secretary to Lt. Col. Oliver North failed to disappoint, with details of North’s shredding of documents “the most dramatic presentation” so far in the hearings, according to <em>The New York Times.</em>&nbsp; Hall simultaneously came across as an innocent, loyal aide to her boss and as a duplicitous government employee fully aware of what she was doing.&nbsp; Hall started by explaining her simple typing mistake that caused Brunei’s $10 million donation to end up in the wrong Swiss bank account.&nbsp; Later, she stated that she did not question the actions of her boss.&nbsp; “Sometimes,” she declared, “you have to go above the written law.”</p>
 <div align="center">

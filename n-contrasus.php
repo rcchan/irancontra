@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/irancontrabanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width:760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width:760px" align="justify" id="welcomenote">
 <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo;  <a href="iran-contra-affairs.php">The Iran Contra Affairs</a> &raquo;  Nicaragua: U.S. Support for the Contras</div>
 <h2><a name="headertop" id="headertop"></a><br /> The Counterrevolutionaries (The Contras)</h2>
 <h3>U.S. Support for the Contras</h3>

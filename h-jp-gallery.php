@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="h-gallery.php">Video Gallery</a> &raquo; John Poindexter</div>
 <table>
 <tr>
@@ -15,7 +15,7 @@
       <td align="center"><strong>Browse Videos</strong></td></tr>
     <tr>
       <td align="center" valign="top">
-      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcome note"><br />
+      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcomenote"><br />
       <a href="h-gallery.php"  class="content_link">VIEW ALL VIDEOS</a> (108)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-os-gallery.php" class="content_link">Opening Statements</a> (4)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-rs-gallery.php" class="content_link">Richard Secord</a> (7)<br>
@@ -38,7 +38,7 @@
     
 </td>
 <td align="justify" valign="top">
-   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcome note">
+   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcomenote">
 <h3>JOHN POINDEXTER (9) - <a href="profile-poindexter.php" class="content_link">Profile</a></h3>
 <p>Lt. Col. Oliver North was a tough act to follow, but Adm. John Poindexter provided plenty of engaging testimony.&nbsp; Poindexter had resigned as national security advisor after the affair came to light, having served in one of the top two positions in Reagan’s National Security Council for over three years.&nbsp; Contrary to North, Poindexter wore civilian clothing, a deliberate decision he made because “this issue is not a Navy issue,” he said on the first day of hearings.&nbsp; (He also periodically came across as a relaxed witness by smoking a pipe.)&nbsp; Appearance aside, Poindexter gave substantial—and blunt—testimony from the start.&nbsp; He admitted that he tore up the Reagan’s signed Finding that sent arms to Iran in order to avoid “political embarrassment.”&nbsp; Poindexter only discussed the Diversion with North, intentionally keeping Reagan in the dark even though he believed Reagan would have approved of it.&nbsp; Contrary to his predecessor, Robert McFarlane, Poindexter insisted that the Boland Amendment did not apply to the NSC.&nbsp; He testified that the “buck” stopped with him, but he still claimed to “not recall” several key incidents.&nbsp; When Sen. Paul Trible (R-VA) questioned Poindexter’s adherence to the Naval Honor Code, Poindexter defended himself by declaring, “I don't have any regrets for anything that I did.”</p>
 <div align="center">

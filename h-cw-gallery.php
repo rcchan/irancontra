@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="h-gallery.php">Video Gallery</a> &raquo; Caspar Weinberger</div>
 <table>
 <tr>
@@ -15,7 +15,7 @@
       <td align="center"><strong>Browse Videos</strong></td></tr>
     <tr>
       <td align="center" valign="top">
-      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcome note"><br />
+      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcomenote"><br />
       <a href="h-gallery.php"  class="content_link">VIEW ALL VIDEOS</a> (108)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-os-gallery.php" class="content_link">Opening Statements</a> (4)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-rs-gallery.php" class="content_link">Richard Secord</a> (7)<br>
@@ -38,7 +38,7 @@
     
 </td>
 <td align="justify" valign="top">
-   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcome note">
+   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcomenote">
 <h3>CASPAR WEINBERGER (5) - <a href="profile-weinberger.php" class="content_link">Profile</a></h3>
 <p>The final public witness in the Iran-Contra hearings was Secretary of Defense Caspar Weinberger, whose views on Iran policy did not win out despite his protests, he testified.&nbsp; He claimed that he was opposed to the administration’s Iran policy and that reaching out to Iran “was just contrary to everything” he knew.&nbsp; Still, Weinberger’s advice had been trumped by those of Adm. John Poindexter of the National Security Council and the late CIA head William Casey, he said.&nbsp; The secretary of defense testified that he knew of no Iranian official who were moderate or “not virulently anti-American.”&nbsp; Despite his objection, the arms-for-hostages deal went forward.&nbsp; The secretary of defense blamed “people with their own agenda” for preventing the president from hearing the best strategy to deal with Iran.&nbsp; Weinberger testified that he did not recall the president stating that Iran was losing the war, but he would have stepped in to correct Reagan in such a case.&nbsp; “One is not shy about presenting views that seem to me would be in opposition to what I thought was something that was clearly wrong,” he said.</p>
 <div align="center">

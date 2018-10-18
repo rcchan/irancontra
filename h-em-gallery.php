@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="h-gallery.php">Video Gallery</a> &raquo; Edwin Meese</div>
 <table>
 <tr>
@@ -15,7 +15,7 @@
       <td align="center"><strong>Browse Videos</strong></td></tr>
     <tr>
       <td align="center" valign="top">
-      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcome note"><br />
+      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcomenote"><br />
       <a href="h-gallery.php"  class="content_link">VIEW ALL VIDEOS</a> (108)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-os-gallery.php" class="content_link">Opening Statements</a> (4)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-rs-gallery.php" class="content_link">Richard Secord</a> (7)<br>
@@ -38,7 +38,7 @@
     
 </td>
 <td align="justify" valign="top">
-   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcome note">
+   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcomenote">
 <h3>EDWIN MEESE (7) - <a href="profile-meese.php" class="content_link">Profile</a></h3>
 <p>Much of Attorney General Edwin Meese’s two days at the hearings centered on what he uncovered—and what he failed to investigate—in his four-day internal investigation that led to the departure of National Security Council chair Adm. John Poindexter and NSC aide Lt. Col. Oliver North.&nbsp; Meese testified about his interview process, which some committee members criticized as deficient.&nbsp; He stated that Poindexter told him he had “enough hints” from North to know what he was doing.&nbsp; He said that nobody asked him to opine on the legality of NSC covert operations, but “generally,” they would need congressional approval.&nbsp; Sens. Warren Rudman (R-NH), George Mitchell (D-ME), and Sam Nunn (R-GA) each criticized Meese for the carelessness of his internal investigation.&nbsp; Sen. Rudman, the Senate committee’s leading Republican, told Meese that loyal subordinates such as North and Poindexter should have been asked to tell Reagan their interpretation of the truth.&nbsp; Sen. Mitchell engaged in contentious discussions with the attorney general about why he did not take notes at certain meetings in that period and why he failed to secure documents earlier.&nbsp; When Sen. Nunn asked Meese why he did not corroborate North’s account with Poindexter, he said he aimed to “get a coherent story” on Iran, but he just wanted to get “the essential facts” on the Diversion.</p>
 <div align="center">

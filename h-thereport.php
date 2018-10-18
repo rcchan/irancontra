@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
 <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; The Minority Report</div>
 <h2><a name="headertop" id="headertop"></a>The Minority Report</h2>
 <p>Below are excerpts from “The Minority Report” signed onto by six Republican congressmen and two Republican senators:</p>

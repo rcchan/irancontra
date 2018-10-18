@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/enduringissuesbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
 <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="enduringissues.php">Enduring Issues</a> &raquo; Ethics and Public Officials: Following Orders</div>
 <h2><a name="headertop" id="headertop"></a><br />
   Ethics and Public Officials</h2>

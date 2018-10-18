@@ -2,7 +2,7 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
 	<div align="left" class="bread_crumbs">
 		<a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; Video Gallery
 	</div>
@@ -23,7 +23,7 @@
 			</tr>
 			<tr>
 				<td align="center" valign="top">
-					<div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcome note">
+					<div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcomenote">
 						<br/>
 						<strong>VIEW ALL VIDEOS</strong> (108)<br/>
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-os-gallery.php" class="content_link">Opening Statements </a>(4)<br/>
@@ -47,7 +47,7 @@
 			</table>
 		</td>
 		<td align="justify" valign="top">
-			<div style="margin: 0px 0px 0px 10px; width: 490px" align="left" id="welcome note">
+			<div style="margin: 0px 0px 0px 10px; width: 490px" align="left" id="welcomenote">
 				<h3>ALL VIDEOS (108)</h3>
 				<div align="center">
 					<table border="0">

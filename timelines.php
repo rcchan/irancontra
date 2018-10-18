@@ -4,7 +4,7 @@
 </head>
 <? require ('templates/mainbanner.php'); ?>
     
- <div style="position:relative; margin: 10px 0px 0px 20px; width: 765px" align="left" id="welcome note">
+ <div style="position:relative; margin: 10px 0px 0px 20px; width: 765px" align="left" id="welcomenote">
  
  <div align="left" class="bread_crumbs"><a href="index.php">Home</a>
 &raquo; Timelines</div>

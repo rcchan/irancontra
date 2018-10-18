@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
 <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; The Majority Report</div>
 <h2><a name="headertop" id="headertop"></a>The Majority Report</h2>
 <p>The <a href="http://www.archive.org/details/reportofcongress87unit" class="content_link">Report of the Congressional Committees Investigating the Iran-Contra Affair</a> was released on November 18, 1987. </p>

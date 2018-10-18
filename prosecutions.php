@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/legalaftermathbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 765px" align="center" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 765px" align="center" id="welcomenote">
 
 <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thelegalaftermath.php">The Legal Aftermath</a> &raquo; Prosecutions
 </div>

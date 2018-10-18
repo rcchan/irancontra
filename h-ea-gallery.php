@@ -3,7 +3,7 @@
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
     
-<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcome note">
+<div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="h-gallery.php">Video Gallery</a> &raquo; Elliott Abrams</div>
 <table>
 <tr>
@@ -15,7 +15,7 @@
       <td align="center"><strong>Browse Videos</strong></td></tr>
     <tr>
       <td align="center" valign="top">
-      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcome note"><br />
+      <div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcomenote"><br />
       <a href="h-gallery.php"  class="content_link">VIEW ALL VIDEOS</a> (108)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-os-gallery.php" class="content_link">Opening Statements</a> (4)<br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="h-rs-gallery.php" class="content_link">Richard Secord</a> (7)<br>
@@ -38,7 +38,7 @@
     
 </td>
 <td align="justify" valign="top">
-   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcome note">
+   <div style="margin: 0px 0px 0px 10px; width: 490px" align="justify" id="welcomenote">
 <h3>ELLIOTT ABRAMS (5) - <a href="profile-abrams.php" class="content_link">Profile</a></h3>
 <p>At the time of the hearings, Elliott Abrams was serving as assistant secretary of state for inter-American affairs, his third assistant secretary position at the Department of State.&nbsp; Abrams was tasked by Secretary of State George Shultz to “monitor” Lt. Col. Oliver North’s activity in Central America.&nbsp; Abrams testified that he tried to oversee what “Ollie” was doing, but North misled him.&nbsp; Abrams’ testimony turned out to be among the most contentious of the hearings.&nbsp; He consistently denied knowing—or wanting to know—key aspects of the U.S. involvement in Nicaragua, which prompted Rep. Jack Brooks (D-TX) to declare that Abrams “takes more pride in not knowing anything than anybody I ever saw.”</p>
 <div align="center">
