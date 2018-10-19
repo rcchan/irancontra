@@ -61,10 +61,13 @@
   border: 1px solid black;
 }
 
-.galleryvideolink a {
+.galleryvideolink {
   font: 11px Arial, Helvetica, sans-serif;
-  font-weight: bold;
   line-height: 9pt;
+  text-align: left;
+}
+.galleryvideolink a {
+  font-weight: bold;
   color: #a90e0e;
   text-decoration: none;
 }
