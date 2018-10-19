@@ -109,7 +109,7 @@ div.top_link{font-size: 13px; font-color:#000000; text-decoration:none; font-fam
 div.top_link a:link{color:#553300; text-decoration:none}
 div.top_link v:link{color:#553300; text-decoration:none}
 
-<!-- DROP DOWN MENU FORMATTING-->
+/* DROP DOWN MENU FORMATTING */
 ul.dropdown,
 ul.dropdown li,
 ul.dropdown ul {
