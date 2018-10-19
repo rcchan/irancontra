@@ -220,16 +220,6 @@
 </div>
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="v-ac2.php"><img src="thumbnails/fr2.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-ac2.php" class="video">Rodriguez on Bush Meeting 2</a>
-    <br />
-    (1:08)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
     <a href="v-ea1.php"><img src="thumbnails/ea1.jpg" /></a>
   </div>
   <div class="galleryvideolink">
@@ -270,7 +260,7 @@
 </div>
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="v-ea5.php"><img src="thumbnails/ea1.jpg" /></a>
+    <a href="v-ea5.php"><img src="thumbnails/ea5.jpg" /></a>
   </div>
   <div class="galleryvideolink">
     <a href="v-ea5.php" class="video">Abrams and Sen. Inouye on Being "Immoral"</a>
