@@ -54,16 +54,6 @@
 </div>
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="transcripts/ah-2.php"><img src="thumbnails/ah2.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="transcripts/ah-2.php" class="video">Hakim on His "Love" for North</a>
-    <br />
-    (3:14)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
     <a href="transcripts/ah-3.php"><img src="thumbnails/ah3.jpg" /></a>
   </div>
   <div class="galleryvideolink">

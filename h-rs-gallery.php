@@ -64,16 +64,6 @@
 </div>
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="transcripts/rs-3.php"><img src="thumbnails/rs3.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="transcripts/rs-3.php" class="video">Secord and Counsel Getting Testy</a>
-    <br />
-    (1:04)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
     <a href="transcripts/rs-4.php"><img src="thumbnails/rs4.jpg" /></a>
   </div>
   <div class="galleryvideolink">

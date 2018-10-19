@@ -52,16 +52,6 @@
     (1:15)
   </div>
 </div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
-    <a href="transcripts/fr-2.php"><img src="thumbnails/fr2.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="transcripts/fr-2.php" class="video">Rodriguez on Bush Meeting 2</a>
-    <br />
-    (1:08)
-  </div>
-</div>
 </div></div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top </a>]</p></div><br /><br />
 </div>
