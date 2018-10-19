@@ -50,28 +50,6 @@
 			<div style="margin: 0px 0px 0px 10px; width: 490px" align="left" id="welcomenote">
 				<h3>ALL VIDEOS (108)</h3>
 				<div align="center">
-<style>
-.galleryvideocontainer {
-  width: 150px; display: inline-block;
-  vertical-align: top;
-  margin: 5px;
-}
-
-.galleryvideothumbnail img {
-  border: 1px solid black;
-}
-
-.galleryvideolink {
-  font: 11px Arial, Helvetica, sans-serif;
-  line-height: 9pt;
-  text-align: left;
-}
-.galleryvideolink a {
-  font-weight: bold;
-  color: #a90e0e;
-  text-decoration: none;
-}
-</style>
 <? require('gallery.php'); ?>
                                 </div>
                         </div>
