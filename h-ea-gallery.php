@@ -42,47 +42,56 @@
 <h3>ELLIOTT ABRAMS (5) - <a href="profile-abrams.php" class="content_link">Profile</a></h3>
 <p>At the time of the hearings, Elliott Abrams was serving as assistant secretary of state for inter-American affairs, his third assistant secretary position at the Department of State.&nbsp; Abrams was tasked by Secretary of State George Shultz to “monitor” Lt. Col. Oliver North’s activity in Central America.&nbsp; Abrams testified that he tried to oversee what “Ollie” was doing, but North misled him.&nbsp; Abrams’ testimony turned out to be among the most contentious of the hearings.&nbsp; He consistently denied knowing—or wanting to know—key aspects of the U.S. involvement in Nicaragua, which prompted Rep. Jack Brooks (D-TX) to declare that Abrams “takes more pride in not knowing anything than anybody I ever saw.”</p>
 <div align="center">
-  <table border="0"><tr><td>
-    <table width="150"><tr><td><a href="transcripts/ea-1.php"><img src="thumbnails/ea1.jpg" style="border-color:#000" border="1"/></a></td></tr>
-      <tr>
-        <td align="left"><font class="video"><strong><a href="transcripts/ea-1.php">Abrams on &quot;Monitor[ing] Ollie&quot;</a> </strong><br />
-          (2:52)</font></td></tr></table>
-    </td><td>
-      <table width="150"><tr><td><a href="transcripts/ea-2.php"><img src="thumbnails/ea2.jpg" style="border-color:#000" border="1"/></a></td></tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/ea-2.php">Abrams on Soliticiting Brunei</a> </strong><br />
-            (3:49)</font></td></tr></table>
-      </td><td><table width="150">
-        <tr>
-          <td><a href="transcripts/ea-3.php"><img src="thumbnails/ea3.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/ea-3.php">Abrams Arguing With Rep. Brooks</a></strong><br />
-            (2:28)</font></td>
-        </tr>
-      </table></td></tr>
-    <tr>
-      <td><table width="150">
-        <tr>
-          <td><a href="transcripts/ea-4.php"><img src="thumbnails/ea4.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/ea-4.php">Abrams and Sen. Nunn on How to Operate Government</a></strong><br />
-            (0:38)</font></td>
-        </tr>
-      </table></td>
-      <td><table width="150">
-        <tr>
-          <td><a href="transcripts/ea-5.php"><img src="thumbnails/ea5.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/ea-5.php">Abrams and Sen. Inouye on Being &quot;Immoral&quot;</a></strong><br />
-            (3:26)</font></td>
-        </tr>
-      </table></td>
-      <td>&nbsp;</td>
-    </tr>
-  </table>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ea-1.php"><img src="thumbnails/ea1.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ea-1.php" class="video">Abrams on "Monitor[ing] Ollie"</a>
+    <br />
+    (2:52)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ea-2.php"><img src="thumbnails/ea2.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ea-2.php" class="video">Abrams on Soliticiting Brunei</a>
+    <br />
+    (3:49)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ea-3.php"><img src="thumbnails/ea3.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ea-3.php" class="video">Abrams Arguing With Rep. Brooks</a>
+    <br />
+    (2:28)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ea-4.php"><img src="thumbnails/ea4.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ea-4.php" class="video">Abrams and Sen. Nunn on How to Operate Government</a>
+    <br />
+    (0:38)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ea-5.php"><img src="thumbnails/ea5.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ea-5.php" class="video">Abrams and Sen. Inouye on Being "Immoral"</a>
+    <br />
+    (3:26)
+  </div>
+</div>
 </div></div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top </a>]</p></div><br /><br />
 </div>
