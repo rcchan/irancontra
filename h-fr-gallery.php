@@ -42,18 +42,26 @@
 <h3>FELIX RODRIGUEZ (2)</h3>
 <p>Felix Rodriguez, an ex-CIA agent, was a key player in the private efforts to help the Contras in Nicaragua.&nbsp; Rodriguez had a meeting Vice President George H.W. Bush, and he claimed that he told the vice president about his future trip to a Central American country (presumably El Salvador), but not about any Contra connections.&nbsp; Rodriguez says that he set up the meeting through Bush’s National Security Advisor Donald Gregg, who was his supervisor in the Vietnam War.</p>
 <div align="center">
-  <table border="0"><tr><td valign="top">
-    <table width="150"><tr><td valign="top"><a href="transcripts/fr-1.php"><img src="thumbnails/fr1.jpg" style="border-color:#000" border="1"/></a></td></tr>
-      <tr>
-        <td align="left"><font class="video"><strong><a href="transcripts/fr-1.php">Rodriguez on Bush Meeting</a> </strong><br />
-          (1:15)</font></td></tr></table>
-    </td><td valign="top">
-      <table width="150"><tr><td><a href="transcripts/fr-2.php"><img src="thumbnails/fr2.jpg" style="border-color:#000" border="1"/></a></td></tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/ac-2.php">Rodriguez on Bush Meeting 2</a> </strong><br />
-            (1:08)</font></td></tr></table>
-      </td><td>&nbsp;</td></tr>
-  </table>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/fr-1.php"><img src="thumbnails/fr1.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/fr-1.php" class="video">Rodriguez on Bush Meeting</a>
+    <br />
+    (1:15)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/fr-2.php"><img src="thumbnails/fr2.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/fr-2.php" class="video">Rodriguez on Bush Meeting 2</a>
+    <br />
+    (1:08)
+  </div>
+</div>
 </div></div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top </a>]</p></div><br /><br />
 </div>
