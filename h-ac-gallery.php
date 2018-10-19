@@ -42,23 +42,36 @@
 <h3>ADOLFO CALERO (3)</h3>
 <p>Adolfo Calero, leader of the Nicaraguan Democratic Force, provided a sympathetic voice for the Contra cause in Nicaragua.&nbsp; He expresses profound appreciation for the U.S.’s effort to help overthrow the Sandinistas.&nbsp; In particular, Calero’s testimony praises the late CIA Director William Casey.</p>
 <div align="center">
-  <table border="0"><tr><td>
-    <table width="150"><tr><td><a href="transcripts/ac-1.php"><img src="thumbnails/ac1.jpg" style="border-color:#000" border="1"/></a></td></tr>
-      <tr>
-        <td align="left"><font class="video"><strong><a href="transcripts/ac-1.php">Opening Statement By Calero</a> </strong><br />
-          (1:12)</font></td></tr></table>
-    </td><td valign="top">
-      <table width="150"><tr><td><a href="transcripts/ac-2.php"><img src="thumbnails/ac2.jpg" style="border-color:#000" border="1"/></a></td></tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/ac-2.php">Calero On Arms Payment</a> </strong><br />
-            (1:12)</font></td></tr></table>
-      </td><td valign="top">
-        <table width="150"><tr><td><a href="transcripts/ac-3.php"><img src="thumbnails/ac3.jpg" style="border-color:#000" border="1"/></a></td></tr>
-          <tr>
-            <td align="left"><font class="video"><strong><a href="transcripts/ac-3.php">Calero on Reagan, Casey</a> </strong><br />
-              (1:45)</font></td></tr></table>
-        </td></tr>
-  </table>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ac-1.php"><img src="thumbnails/ac1.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ac-1.php" class="video">Opening Statement By Calero</a>
+    <br />
+    (1:12)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ac-2.php"><img src="thumbnails/ac2.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ac-2.php" class="video">Calero On Arms Payment</a>
+    <br />
+    (1:12)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ac-3.php"><img src="thumbnails/ac3.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ac-3.php" class="video">Calero on Reagan, Casey</a>
+    <br />
+    (1:45)
+  </div>
+</div>
 </div></div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top </a>]</p></div><br /><br />
 </div>
