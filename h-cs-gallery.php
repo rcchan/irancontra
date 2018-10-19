@@ -43,39 +43,46 @@
 <p>The public hearings of the House Select Committee to Investigate Covert Arms Transactions with Iran and the Senate Select Committee on Secret Military Assistance to Iran and the Nicaraguan Opposition ended on August 3, 1987.&nbsp; The hearing’s leading members of each party in both the House of Representatives and the Senate gave their conclusions on what they had heard in the past three months.</p>
 <p>Ranking committee member Rep. Dick Cheney (R-WY) stated that the hearings absolved President Reagan of any guilt related to the Iran-Contra Affairs.&nbsp; Vice-Chair Sen. Warren Rudman (R-NH) opined that “a very small group of individuals”—led by former National Security Adviser Adm. John Poindexter—caused the failures.&nbsp; Co-Chair Rep. Lee Hamilton (D-IN) noted that “shortcuts in the democratic process and excessive secrecy” were among the roots of the affairs.&nbsp; Co-Chair Sen. Daniel Inouye (D-HI) concluded the hearings by predicting that&nbsp; the legacy of the hearings would be the insight into both the “extraordinarily frightening views of government they exposed” and the governmental officials who remain “accountable to the people.”</p>
 <div align="center">
-  <table border="0"><tr><td>
-    <table width="150"><tr><td><a href="transcripts/cs-1.php"><img src="thumbnails/cs1.jpg" style="border-color:#000" border="1"/></a></td></tr>
-      <tr>
-        <td align="left"><font class="video"><strong><a href="transcripts/cs-1.php">Closing Statement by Rep. Cheney</a> </strong><br />
-          (6:26)</font></td></tr></table>
-    </td><td>
-      <table width="150"><tr><td><a href="transcripts/cs-2.php"><img src="thumbnails/cs2.jpg" style="border-color:#000" border="1"/></a></td></tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/cs-2.php">Closing Statement by Sen. Rudman</a> </strong><br />
-            (9:24)</font></td></tr></table>
-      </td><td><table width="150">
-        <tr>
-          <td><a href="transcripts/cs-3.php"><img src="thumbnails/cs3.jpg" style="border-color:#000" border="1"/></a></td>
-          </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/cs-3.php">Closing Statement by Rep. Hamilton</a></strong><br />
-            (5:04)</font></td>
-          </tr>
-        </table></td></tr>
-    <tr>
-      <td><table width="150">
-        <tr>
-          <td><a href="transcripts/cs-4.php"><img src="thumbnails/cs4.jpg" style="border-color:#000" border="1"/></a></td>
-          </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/cs-4.php">Closing Statement by Sen. Inouye</a></strong><br />
-            (10:01)</font></td>
-          </tr>
-        </table></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      </tr>
-  </table>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/cs-1.php"><img src="thumbnails/cs1.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/cs-1.php" class="video">Closing Statement by Rep. Cheney</a>
+    <br />
+    (6:26)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/cs-2.php"><img src="thumbnails/cs2.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/cs-2.php" class="video">Closing Statement by Sen. Rudman</a>
+    <br />
+    (9:24)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/cs-3.php"><img src="thumbnails/cs3.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/cs-3.php" class="video">Closing Statement by Rep. Hamilton</a>
+    <br />
+    (5:04)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/cs-4.php"><img src="thumbnails/cs4.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/cs-4.php" class="video">Closing Statement by Sen. Inouye</a>
+    <br />
+    (10:01)
+  </div>
+</div>
 </div></div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div><br /><br />
 </div>
