@@ -36,7 +36,7 @@ Sen. Mitchell tells Colonel North that Americans can be patriots and still disag
 </td>
 <td align="justify" valign="top">
 
-<iframe width="512" height="330" src="//www.c-span.org/video/standalone/?c3945588" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<video controls style="max-width: 100%;"><source src="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/videos/cut/program.144290.MP4-M20.3115.258.mp4" type="video/mp4"></video>
 
    </td></tr></table><br /><br />
 </div>

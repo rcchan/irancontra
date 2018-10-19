@@ -36,7 +36,7 @@ Rep. DeWine opines that Shultz “walked off the field when the score was agains
 </td>
 <td align="justify" valign="top">
 
-<iframe width="512" height="330" src="//www.c-span.org/video/standalone/?c3780428" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<video controls style="max-width: 100%;"><source src="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/videos/cut/program.4729660.MP4-M20.8060.145.mp4" type="video/mp4"></video>
    
    
 </td></tr></table><br /><br />

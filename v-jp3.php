@@ -35,7 +35,7 @@ Even though he assumed Reagan would approve of the Diversion, Poindexter claims 
     
 </td>
 <td align="justify" valign="top">
-<iframe width="512" height="330" src="//www.c-span.org/video/standalone/?c3927325" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<video controls style="max-width: 100%;"><source src="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/videos/cut/program.6029.MP4-M20.8977.457.mp4" type="video/mp4"></video>
    </td></tr></table><br /><br />
 </div>
 <? require ('templates/footer.php'); ?>
