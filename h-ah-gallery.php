@@ -42,55 +42,66 @@
 <h3>ALBERT HAKIM (6) - <a href="profile-hakim.php" class="content_link">Profile</a></h3>
 <p>W. Mark Felt (AKA Deep Throat) never actually said, “Follow the money,” but if the quotation from <em>All the President’s Men</em> applied to Iran-Contra just as it had to Watergate, the trail would lead to Albert Hakim.&nbsp; Along with Maj. Gen. Richard Secord (Ret.), Hakim ran the Enterprise as a business, not a humanitarian organization.&nbsp; When Hakim was questioned by the committees, he had profited several-million dollars by helping turn money from Nicaragua into arms for Iran.&nbsp; Hakim’s testimony featured many notable statements—from his description of his “love” for Lt. Col. Oliver North to his plans for a war with Russia over Iran.&nbsp; Hakim justified using the Enterprise’s profits, which the committees argue should belong to the U.S., in order to fund $200,000 of death benefits for North’s family.&nbsp; Ultimately, Co-Chairman Sen. Daniel Inouye (D-HI) castigated the private network of foreign policy pursued by the Enterprise.&nbsp; “When I look back,” Hakim responds, “I share your opinion.”</p>
 <div align="center">
-  <table border="0"><tr><td valign="top">
-    <table width="150"><tr><td valign="top"><a href="transcripts/ah-1.php"><img src="thumbnails/ah1.jpg" style="border-color:#000" border="1"/></a></td></tr>
-      <tr>
-        <td align="left"><font class="video"><strong><a href="transcripts/ah-1.php">Hakim on &quot;B. Button&quot; and North's Death Insurance</a> </strong><br />
-          (7:59)</font></td></tr></table>
-    </td><td valign="top">
-      <table width="150"><tr><td valign="top"><a href="transcripts/ah-2.php"><img src="thumbnails/ah2.jpg" style="border-color:#000" border="1"/></a></td></tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/ah-2.php">Hakim on His &quot;Love&quot; for North</a> </strong><br />
-            (3:14)</font></td></tr></table>
-      </td><td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/ah-3.php"><img src="thumbnails/ah3.jpg" style="border-color:#000" border="1"/></a></td>
-          </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/ah-3.php">Hakim on North and the Hostages</a></strong><br />
-            (5:47)</font></td>
-          </tr>
-        </table></td></tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/ah-4.php"><img src="thumbnails/ah4.jpg" style="border-color:#000" border="1"/></a></td>
-          </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/ah-4.php">Hakim on North's Use of Reagan's Name</a></strong><br />
-            (4:36)</font></td>
-          </tr>
-        </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/ah-5.php"><img src="thumbnails/ah5.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/ah-5.php">Hakim on War with Russia</a></strong><br />
-            (5:47)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/ah-6.php"><img src="thumbnails/ah6.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/ah-6.php">Hakim Told by Sen. Inouye of the &quot;Drastically Wrong&quot; Situation</a></strong><br />
-            (4:48)</font></td>
-        </tr>
-      </table></td>
-      </tr>
-  </table>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ah-1.php"><img src="thumbnails/ah1.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ah-1.php" class="video">Hakim on "B. Button" and North's Death Insurance</a>
+    <br />
+    (7:59)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ah-2.php"><img src="thumbnails/ah2.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ah-2.php" class="video">Hakim on His "Love" for North</a>
+    <br />
+    (3:14)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ah-3.php"><img src="thumbnails/ah3.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ah-3.php" class="video">Hakim on North and the Hostages</a>
+    <br />
+    (5:47)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ah-4.php"><img src="thumbnails/ah4.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ah-4.php" class="video">Hakim on North's Use of Reagan's Name</a>
+    <br />
+    (4:36)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ah-5.php"><img src="thumbnails/ah5.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ah-5.php" class="video">Hakim on War with Russia</a>
+    <br />
+    (5:47)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/ah-6.php"><img src="thumbnails/ah6.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/ah-6.php" class="video">Hakim Told by Sen. Inouye of the "Drastically Wrong" Situation</a>
+    <br />
+    (4:48)
+  </div>
+</div>
 </div></div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top </a>]</p></div><br /><br />
 </div>
