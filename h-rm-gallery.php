@@ -42,55 +42,86 @@
 <h3>ROBERT MCFARLANE (8) - <a href="profile-mcfarlane.php" class="content_link">Profile</a></h3>
 <p>By the time Robert McFarlane addressed the joint hearings, it had been one-and-a-half years since he was President Reagan’s national security advisor.&nbsp; Still, even after McFarlane served as a crucial member of the official Reagan team from 1983 to 1985, he had a direct hand in the Iran-Contra Affair after he left public office.&nbsp; Disgraced by the emerging scandal, McFarlane attempted suicide in Feburary 1987 by overdosing on Valium.&nbsp; He survived the attempt and later said that he felt a responsibility for the scandal and the tarnish that it had cast on Reagan.&nbsp; For the most part, McFarlane came across as a “tightly controlled, impassive, almost somnambulant witness,” wrote <em>The Washington Post</em>.&nbsp; Yet, his emotional upkeep finally unraveled on his fourth day of testimony, quarreling with legislators such as Sen. Warren Rudman, vice chair of the Senate committee.&nbsp; McFarlane told the panel that he did not want any special treatment because of his recent overdose.&nbsp; “Shoot your best shot,” he declared.</p>
 <div align="center">
-  <table border="0"><tr><td valign="top">
-  <table width="150"><tr><td><a href="transcripts/rm-1.php"><img src="thumbnails/rm1.jpg" style="border-color:#000" border="1"/></a></td></tr>
-      <tr><td align="left"><font class="video"><strong><a href="transcripts/rm-1.php">McFarlane on Reagan's Meeting With Saudi Leader</a> </strong><br />(7:09)</font></td></tr></table>
-    </td><td valign="top">
-  <table width="150"><tr><td><a href="transcripts/rm-2.php"><img src="thumbnails/rm2.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr>
-    <td align="left"><font class="video"><strong><a href="transcripts/rm-2.php">McFarlane on Choosing Freed Hostages</a> </strong><br />
-    (2:06)</font></td></tr></table>
-      </td><td valign="top">
-  <table width="150"><tr><td><a href="transcripts/rm-3.php"><img src="thumbnails/rm3.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr>
-    <td align="left"><font class="video"><strong><a href="transcripts/rm-3.php">McFarlane on Legality and Shredding Documents</a> </strong><br />
-        (4:30)</font></td></tr></table>
-        </td></tr>
-    
-  <tr><td valign="top">
-  <table width="150">
-  <tr><td><a href="transcripts/rm-4.php"><img src="thumbnails/rm4.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr>
-    <td align="left"><font class="video"><strong><a href="transcripts/rm-4.php">McFarlane on Oil-Drilling Equipment</a> </strong><br />
-    (3:11)</font></td></tr></table>
-  </td><td valign="top">
-  <table width="150">
-  <tr><td><a href="transcripts/rm-5.php"><img src="thumbnails/rm5.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr>
-    <td align="left"><font class="video"><strong><a href="transcripts/rm-5.php">McFarlane Contradicting Himself</a> </strong><br />
-    (4:52)</font></td></tr></table>
-  </td><td valign="top">
-  <table width="150">
-  <tr><td><a href="transcripts/rm-6.php"><img src="thumbnails/rm6.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr>
-    <td align="left"><font class="video"><strong><a href="transcripts/rm-6.php">McFarlane and Senator Ruman on DEA Caper</a> </strong><br />
-    (4:33)</font></td></tr></table>
-  </td></tr>
-  <tr><td valign="top">
-  <table width="150">
-  <tr><td><a href="transcripts/rm-7.php"><img src="thumbnails/rm7.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr>
-    <td align="left"><font class="video"><strong><a href="transcripts/rm-7.php">McFarlane and Senator Mitchell on Misleading Testimony</a> </strong><br />
-    (9:51)</font></td></tr></table>
-  </td><td valign="top">
-  <table width="150">
-  <tr><td><a href="transcripts/rm-8.php"><img src="thumbnails/rm8.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr>
-    <td align="left"><font class="video"><strong><a href="transcripts/rm-8.php">McFarlane and Senator Cohen on Casey's Influence</a> </strong><br />
-        (1:45)</font></td></tr></table>
-  </td><td>
-  </td></tr>
-  </table>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rm-1.php"><img src="thumbnails/rm1.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rm-1.php" class="video">McFarlane on Reagan's Meeting With Saudi Leader</a>
+    <br />
+    (7:09)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rm-2.php"><img src="thumbnails/rm2.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rm-2.php" class="video">McFarlane on Choosing Freed Hostages</a>
+    <br />
+    (2:06)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rm-3.php"><img src="thumbnails/rm3.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rm-3.php" class="video">McFarlane on Legality and Shredding Documents</a>
+    <br />
+    (4:30)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rm-4.php"><img src="thumbnails/rm4.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rm-4.php" class="video">McFarlane on Oil-Drilling Equipment</a>
+    <br />
+    (3:11)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rm-5.php"><img src="thumbnails/rm5.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rm-5.php" class="video">McFarlane Contradicting Himself</a>
+    <br />
+    (4:52)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rm-6.php"><img src="thumbnails/rm6.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rm-6.php" class="video">McFarlane and Senator Ruman on DEA Caper</a>
+    <br />
+    (4:33)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rm-7.php"><img src="thumbnails/rm7.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rm-7.php" class="video">McFarlane and Senator Mitchell on Misleading Testimony</a>
+    <br />
+    (9:51)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rm-8.php"><img src="thumbnails/rm8.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rm-8.php" class="video">McFarlane and Senator Cohen on Casey's Influence</a>
+    <br />
+    (1:45)
+  </div>
+</div>
 </div></div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top </a>]</p></div><br /><br />
 </div>
