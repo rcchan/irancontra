@@ -47,213 +47,226 @@
 <p>Finally, Co-Chairman Sen. Daniel Inouye (D-HI), a World War II hero, wrapped up the six days with a memorable speech.&nbsp; Inouye reminded North about cadet honor, declaring, “Members of the military have an obligation to disobey unlawful orders.”&nbsp; Inouye made reference to the Nuremberg Trials, which set off Sullivan, who interrupted the co-chairman to say that his closing statement was “personally and professionally distasteful.”&nbsp; Undeterred, Inouye responded and then finished his speech with a Thomas Jefferson quotation about the importance of “the spirit of resistance to government.”</p>
 <p>With that, on July 14, North’s week of testimony came to an end.&nbsp; As <em>The Washington Post </em>wrote, this section of the hearings proved to be “suspenseful, eventful and surprising up to the last scene of the last act.”</p>
 <div align="center">
-  <table border="0"><tr><td valign="top">
-    <table width="150"><tr><td valign="top"><a href="transcripts/on-1.php"><img src="thumbnails/on1.jpg" style="border-color:#000" border="1"/></a></td></tr>
-      <tr>
-        <td align="left"><font class="video"><strong><a href="transcripts/on-1.php">North Being &quot;Here to Tell It All&quot;</a> </strong><br />
-          (6:07)</font></td></tr></table>
-    </td><td valign="top">
-      <table width="150"><tr><td valign="top"><a href="transcripts/on-2.php"><img src="thumbnails/on2.jpg" style="border-color:#000" border="1"/></a></td></tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/on-2.php">North on Shredding</a> </strong><br />
-            (1:39)</font></td></tr></table>
-      </td><td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/on-3.php"><img src="thumbnails/on3.jpg" style="border-color:#000" border="1"/></a></td>
-          </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/on-3.php">North on More Shredding</a></strong><br />
-            (5:25)</font></td>
-          </tr>
-        </table></td></tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/on-4.php"><img src="thumbnails/on4.jpg" style="border-color:#000" border="1"/></a></td>
-          </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/on-4.php">North on the Signed Arms-For-Hostages Finding</a></strong><br />
-            (11:51)</font></td>
-          </tr>
-        </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/on-5.php"><img src="thumbnails/on5.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/on-5.php">North on Countries Who Wanted to Donate</a></strong><br />
-            (1:49)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/on-6.php"><img src="thumbnails/on6.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/on-6.php">North on Reagan's Knowledge of Private Fundraising</a></strong><br />
-            (1:05)</font></td>
-        </tr>
-      </table></td>
-      </tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/on-7.php"><img src="thumbnails/on7.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/on-7.php">North on the &quot;Neat Idea&quot; of the Diversion</a></strong><br />
-            (2:36)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/on-8.php"><img src="thumbnails/on8.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/on-8.php">North on His Family's Safety and Meetiing Abu Nidal</a></strong><br />
-            (4:56)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/on-9.php"><img src="thumbnails/on9.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/on-9.php">North on Casey's Knowledge</a></strong><br />
-            (3:26)</font></td>
-        </tr>
-      </table></td>
-    </tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on10.php"><img src="thumbnails/on10.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on10.php">North on Who in the Cabinet Knew What</a></strong><br />
-            (4:58)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on11.php"><img src="thumbnails/on11.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on11.php">North on the Democratic Process and &quot;Difference Between Lives and LIes&quot;</a></strong><br />
-            (15:45)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on12.php"><img src="thumbnails/on12.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on12.php">North on Why He's Not Lying Now</a></strong><br />
-            (2:03)</font></td>
-        </tr>
-      </table></td>
-    </tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on13.php"><img src="thumbnails/on13.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on13.php">North on Getting Fired and Covering Up the Diversion</a></strong><br />
-            (19:33)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on14.php"><img src="thumbnails/on14.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on14.php">North on Shredding Embarassing Documents</a></strong><br />
-            (3:50)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on15.php"><img src="thumbnails/on15.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on15.php">North's Lawyer Objecting to &quot;Dreamland&quot; Scenarios</a></strong><br />
-            (2:55)</font></td>
-        </tr>
-      </table></td>
-    </tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on16.php"><img src="thumbnails/on16.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on16.php">North on Reagan's &quot;Body and Soul&quot; Request</a></strong><br />
-            (2:01)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on17.php"><img src="thumbnails/on17.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on17.php">North on Plausible Deniability</a></strong><br />
-            (10:36)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on18.php"><img src="thumbnails/on18.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on18.php">Senator Hatch on Covert Operations</a></strong><br />
-            (3:53)</font></td>
-        </tr>
-      </table></td>
-    </tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on19.php"><img src="thumbnails/on19.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on19.php">Senator Rudman on What the People Want</a></strong><br />
-            (1:21)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on20.php"><img src="thumbnails/on20.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on20.php">North's Final Statement</a></strong><br />
-            (0:44)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on21.php"><img src="thumbnails/on21.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on21.php">Rep. Hamilton on Patriotism</a></strong><br />
-            (2:32)</font></td>
-        </tr>
-      </table></td>
-    </tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="v-on22.php"><img src="thumbnails/on22.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="v-on22.php">Sen. Inouye on Military Ethics and the Nuremberg Trials</a></strong><br />
-            (10:08)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top">&nbsp;</td>
-      <td valign="top">&nbsp;</td>
-    </tr>
-  </table>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/on-1.php"><img src="thumbnails/on1.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/on-1.php" class="video">North Being "Here to Tell It All"</a>
+    <br />
+    (6:07)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/on-2.php"><img src="thumbnails/on2.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/on-2.php" class="video">North on Shredding</a>
+    <br />
+    (1:39)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/on-3.php"><img src="thumbnails/on3.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/on-3.php" class="video">North on More Shredding</a>
+    <br />
+    (5:25)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/on-4.php"><img src="thumbnails/on4.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/on-4.php" class="video">North on the Signed Arms-For-Hostages Finding</a>
+    <br />
+    (11:51)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/on-5.php"><img src="thumbnails/on5.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/on-5.php" class="video">North on Countries Who Wanted to Donate</a>
+    <br />
+    (1:49)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/on-6.php"><img src="thumbnails/on6.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/on-6.php" class="video">North on Reagan's Knowledge of Private Fundraising</a>
+    <br />
+    (1:05)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/on-7.php"><img src="thumbnails/on7.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/on-7.php" class="video">North on the "Neat Idea" of the Diversion</a>
+    <br />
+    (2:36)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/on-8.php"><img src="thumbnails/on8.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/on-8.php" class="video">North on His Family's Safety and Meetiing Abu Nidal</a>
+    <br />
+    (4:56)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/on-9.php"><img src="thumbnails/on9.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/on-9.php" class="video">North on Casey's Knowledge</a>
+    <br />
+    (3:26)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on10.php"><img src="thumbnails/on10.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on10.php" class="video">North on Who in the Cabinet Knew What</a>
+    <br />
+    (4:58)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on11.php"><img src="thumbnails/on11.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on11.php" class="video">North on the Democratic Process and "Difference Between Lives and LIes"</a>
+    <br />
+    (15:45)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on12.php"><img src="thumbnails/on12.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on12.php" class="video">North on Why He's Not Lying Now</a>
+    <br />
+    (2:03)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on13.php"><img src="thumbnails/on13.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on13.php" class="video">North on Getting Fired and Covering Up the Diversion</a>
+    <br />
+    (19:33)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on14.php"><img src="thumbnails/on14.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on14.php" class="video">North on Shredding Embarassing Documents</a>
+    <br />
+    (3:50)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on15.php"><img src="thumbnails/on15.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on15.php" class="video">North's Lawyer Objecting to "Dreamland" Scenarios</a>
+    <br />
+    (2:55)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on16.php"><img src="thumbnails/on16.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on16.php" class="video">North on Reagan's "Body and Soul" Request</a>
+    <br />
+    (2:01)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on17.php"><img src="thumbnails/on17.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on17.php" class="video">North on Plausible Deniability</a>
+    <br />
+    (10:36)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on18.php"><img src="thumbnails/on18.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on18.php" class="video">Senator Hatch on Covert Operations</a>
+    <br />
+    (3:53)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on19.php"><img src="thumbnails/on19.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on19.php" class="video">Senator Rudman on What the People Want</a>
+    <br />
+    (1:21)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on20.php"><img src="thumbnails/on20.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on20.php" class="video">North's Final Statement</a>
+    <br />
+    (0:44)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on21.php"><img src="thumbnails/on21.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on21.php" class="video">Rep. Hamilton on Patriotism</a>
+    <br />
+    (2:32)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="v-on22.php"><img src="thumbnails/on22.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="v-on22.php" class="video">Sen. Inouye on Military Ethics and the Nuremberg Trials</a>
+    <br />
+    (10:08)
+  </div>
+</div>
 </div></div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top </a>]</p></div><br /><br />
 </div>
