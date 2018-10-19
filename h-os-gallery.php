@@ -44,25 +44,47 @@
 <p>Sen. Daniel Inouye (D-HI), the chair of the Senate Select Committee, called the hearing to order by saying he hoped that the facts of the “sad affair” would be revealed.&nbsp; Rep. Lee Hamilton (D-IN), the chair of the House Select Committee, predicted that the hearings would prove that “many things went wrong.”&nbsp; Sen. Warren Rudman (R-NH), vice chair of the Senate committee, asked if the “foreign policy process” was “flawed” or “simply ignored.”&nbsp; Rep. Dick Cheney (R-WY), the ranking Republican on the House committee, largely defended President Ronald Reagan and the power of the Executive Branch.</p>
 <p>With those opening statements, the first of 41 incisive, fascinating days of hearings began.&nbsp; For three months, television cameras would capture all the action.&nbsp; On this site, we feature about 100 clips of testimony involving 13 key figures as well as several members of the special congressional committees formed to investigate the affair.</p>
 <div align="center">
-  <table border="0"><tr><td valign="top">
-  <table width="150"><tr><td><img src="thumbnails/os1.jpg" style="border-color:#000" border="1"/></td></tr>
-  <tr><td align="left"><font class="video"><strong><a href="transcripts/os-1.php">Opening statement by Sen. Inouye</a> </strong><br />(12:13)</font></td></tr></table>
-  </td><td valign="top">
-  <table width="150"><tr><td><a href="transcripts/os-2.php"><img src="thumbnails/os2.jpg" style="border-color:#000" border="1"/></a></td></tr>
-<tr><td align="left"><font class="video"><strong><a href="transcripts/os-2.php">Opening statement by Rep. Hamilton</a> </strong><br />
-(5:59)</font></td></tr></table>
-  </td><td valign="top">
-  <table width="150"><tr><td><a href="transcripts/os-3.php"><img src="thumbnails/os3.jpg" style="border-color:#000" border="1"/></a></td></tr>
-<tr><td align="left"><font class="video"><strong><a href="transcripts/os-3.php">Opening statement by Sen. Rudman</a> </strong><br />(2:29)</font></td></tr></table>
-  </td></tr>
-  
-<tr><td valign="top">
-  <table width="150">
-<tr><td><a href="transcripts/os-4.php"><img src="thumbnails/os4.jpg" style="border-color:#000" border="1"/></a></td></tr>
-<tr><td align="left"><font class="video"><strong><a href="transcripts/os-4.php">Opening statement by Rep. Cheney</a> </strong><br />(4:20)</font></td></tr></table>
-</td><td>&nbsp;</td><td>&nbsp;</td></tr>  
-</table>
-</div></div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/os-1.php"><img src="thumbnails/os1.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/os-1.php" class="video">Opening statement by Sen. Inouye</a>
+    <br />
+    (12:13)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/os-2.php"><img src="thumbnails/os2.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/os-2.php" class="video">Opening statement by Rep. Hamilton</a>
+    <br />
+    (5:59)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/os-3.php"><img src="thumbnails/os3.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/os-3.php" class="video">Opening statement by Sen. Rudman</a>
+    <br />
+    (2:29)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/os-4.php"><img src="thumbnails/os4.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/os-4.php" class="video">Opening statement by Rep. Cheney</a>
+    <br />
+    (4:20)
+  </div>
+</div>
+</div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top </a>]</p></div><br /><br />
 </div>
 <? require ('templates/footer.php'); ?>
