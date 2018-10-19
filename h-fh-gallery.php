@@ -42,55 +42,66 @@
 <h3>FAWN HALL (6) - <a href="profile-hall.php" class="content_link">Profile</a></h3>
 <p>“Near-hysterical excitement” greeted Fawn Hall at a time when “a pretty, appealing witness was desperately needed,” wrote <em>The Washington Post</em>.&nbsp; The former secretary to Lt. Col. Oliver North failed to disappoint, with details of North’s shredding of documents “the most dramatic presentation” so far in the hearings, according to <em>The New York Times.</em>&nbsp; Hall simultaneously came across as an innocent, loyal aide to her boss and as a duplicitous government employee fully aware of what she was doing.&nbsp; Hall started by explaining her simple typing mistake that caused Brunei’s $10 million donation to end up in the wrong Swiss bank account.&nbsp; Later, she stated that she did not question the actions of her boss.&nbsp; “Sometimes,” she declared, “you have to go above the written law.”</p>
 <div align="center">
-  <table border="0"><tr><td valign="top">
-    <table width="150"><tr><td valign="top"><a href="transcripts/fh-1.php"><img src="thumbnails/fh1.jpg" style="border-color:#000" border="1"/></a></td></tr>
-      <tr>
-        <td align="left"><font class="video"><strong><a href="transcripts/fh-1.php">Hall on Swiss Bank Account Number </a> </strong><br />
-          (1:32)</font></td></tr></table>
-    </td><td valign="top">
-      <table width="150"><tr><td valign="top"><a href="transcripts/fh-2.php"><img src="thumbnails/fh2.jpg" style="border-color:#000" border="1"/></a></td></tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/fh-2.php">Hall on Altering Documents</a> </strong><br />
-            (2:02)</font></td></tr></table>
-      </td><td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/fh-3.php"><img src="thumbnails/fh3.jpg" style="border-color:#000" border="1"/></a></td>
-          </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/fh-3.php">Hall Calling North &quot;An American Hero&quot;</a></strong><br />
-            (1:00)</font></td>
-          </tr>
-        </table></td></tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/fh-4.php"><img src="thumbnails/fh4.jpg" style="border-color:#000" border="1"/></a></td>
-          </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/fh-4.php">Hall on Hiding Documents Under Her Clothes</a></strong><br />
-            (2:28)</font></td>
-          </tr>
-        </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/fh-5.php"><img src="thumbnails/fh5.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/fh-5.php">Hall Talks to Sen. Boren About Shredding</a></strong><br />
-            (8:09)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/fh-6.php"><img src="thumbnails/fh6.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/fh-6.php">Hall Talks to Rep. Foley About Going &quot;About the Written Law&quot;</a></strong><br />
-            (2:55)</font></td>
-        </tr>
-      </table></td>
-      </tr>
-  </table>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/fh-1.php"><img src="thumbnails/fh1.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/fh-1.php" class="video">Hall on Swiss Bank Account Number </a>
+    <br />
+    (1:32)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/fh-2.php"><img src="thumbnails/fh2.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/fh-2.php" class="video">Hall on Altering Documents</a>
+    <br />
+    (2:02)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/fh-3.php"><img src="thumbnails/fh3.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/fh-3.php" class="video">Hall Calling North "An American Hero"</a>
+    <br />
+    (1:00)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/fh-4.php"><img src="thumbnails/fh4.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/fh-4.php" class="video">Hall on Hiding Documents Under Her Clothes</a>
+    <br />
+    (2:28)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/fh-5.php"><img src="thumbnails/fh5.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/fh-5.php" class="video">Hall Talks to Sen. Boren About Shredding</a>
+    <br />
+    (8:09)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/fh-6.php"><img src="thumbnails/fh6.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/fh-6.php" class="video">Hall Talks to Rep. Foley About Going "About the Written Law"</a>
+    <br />
+    (2:55)
+  </div>
+</div>
 </div></div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top </a>]</p></div><br /><br />
 </div>
