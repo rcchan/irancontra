@@ -42,68 +42,76 @@
 <h3>EDWIN MEESE (7) - <a href="profile-meese.php" class="content_link">Profile</a></h3>
 <p>Much of Attorney General Edwin Meese’s two days at the hearings centered on what he uncovered—and what he failed to investigate—in his four-day internal investigation that led to the departure of National Security Council chair Adm. John Poindexter and NSC aide Lt. Col. Oliver North.&nbsp; Meese testified about his interview process, which some committee members criticized as deficient.&nbsp; He stated that Poindexter told him he had “enough hints” from North to know what he was doing.&nbsp; He said that nobody asked him to opine on the legality of NSC covert operations, but “generally,” they would need congressional approval.&nbsp; Sens. Warren Rudman (R-NH), George Mitchell (D-ME), and Sam Nunn (R-GA) each criticized Meese for the carelessness of his internal investigation.&nbsp; Sen. Rudman, the Senate committee’s leading Republican, told Meese that loyal subordinates such as North and Poindexter should have been asked to tell Reagan their interpretation of the truth.&nbsp; Sen. Mitchell engaged in contentious discussions with the attorney general about why he did not take notes at certain meetings in that period and why he failed to secure documents earlier.&nbsp; When Sen. Nunn asked Meese why he did not corroborate North’s account with Poindexter, he said he aimed to “get a coherent story” on Iran, but he just wanted to get “the essential facts” on the Diversion.</p>
 <div align="center">
-  <table border="0"><tr><td valign="top">
-    <table width="150"><tr><td valign="top"><a href="transcripts/em-1.php"><img src="thumbnails/em1.jpg" style="border-color:#000" border="1"/></a></td></tr>
-      <tr>
-        <td align="left"><font class="video"><strong><a href="transcripts/em-1.php">Meese Statement on Internal Investigation</a> </strong><br />
-          (2:08)</font></td></tr></table>
-    </td><td valign="top">
-      <table width="150"><tr><td valign="top"><a href="transcripts/em-2.php"><img src="thumbnails/em2.jpg" style="border-color:#000" border="1"/></a></td></tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/em-2.php">Meese on What Poindexter and the White House Knew</a> </strong><br />
-            (1:03)</font></td></tr></table>
-      </td><td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/em-3.php"><img src="thumbnails/em3.jpg" style="border-color:#000" border="1"/></a></td>
-          </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/em-3.php">Meese on Boland's Applicability to the NSC</a></strong><br />
-            (1:43)</font></td>
-          </tr>
-        </table></td></tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/em-4.php"><img src="thumbnails/em4.jpg" style="border-color:#000" border="1"/></a></td>
-          </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/em-4.php">Sen. Rudman Asks Meese Why Reagan Did Not Talk to Poindexter or North</a></strong><br />
-            (6:14)</font></td>
-          </tr>
-        </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/em-5.php"><img src="thumbnails/em5.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/em-5.php">Sen. Mitchell Asks Meese About Not Taking Notes</a></strong><br />
-            (7:39)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/em-6.php"><img src="thumbnails/em6.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/em-6.php">Sen. Mitchell Asks Meese About Not Securing Documents</a></strong><br />
-            (2:26)</font></td>
-        </tr>
-      </table></td>
-      </tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/em-7.php"><img src="thumbnails/em7.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/em-7.php">Sen. Nunn Asks Meese About His Gathering of Information</a></strong><br />
-            (5:40)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top">&nbsp;</td>
-      <td valign="top">&nbsp;</td>
-    </tr>
-  </table>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/em-1.php"><img src="thumbnails/em1.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/em-1.php" class="video">Meese Statement on Internal Investigation</a>
+    <br />
+    (2:08)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/em-2.php"><img src="thumbnails/em2.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/em-2.php" class="video">Meese on What Poindexter and the White House Knew</a>
+    <br />
+    (1:03)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/em-3.php"><img src="thumbnails/em3.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/em-3.php" class="video">Meese on Boland's Applicability to the NSC</a>
+    <br />
+    (1:43)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/em-4.php"><img src="thumbnails/em4.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/em-4.php" class="video">Sen. Rudman Asks Meese Why Reagan Did Not Talk to Poindexter or North</a>
+    <br />
+    (6:14)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/em-5.php"><img src="thumbnails/em5.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/em-5.php" class="video">Sen. Mitchell Asks Meese About Not Taking Notes</a>
+    <br />
+    (7:39)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/em-6.php"><img src="thumbnails/em6.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/em-6.php" class="video">Sen. Mitchell Asks Meese About Not Securing Documents</a>
+    <br />
+    (2:26)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/em-7.php"><img src="thumbnails/em7.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/em-7.php" class="video">Sen. Nunn Asks Meese About His Gathering of Information</a>
+    <br />
+    (5:40)
+  </div>
+</div>
 </div></div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top </a>]</p></div><br /><br />
 </div>
