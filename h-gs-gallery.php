@@ -84,16 +84,6 @@
 </div>
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="transcripts/gs-5.php"><img src="thumbnails/gs5.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="transcripts/gs-5.php" class="video">Shultz on Casey's Power Grab</a>
-    <br />
-    (4:01)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
     <a href="transcripts/gs-6.php"><img src="thumbnails/gs6.jpg" /></a>
   </div>
   <div class="galleryvideolink">
