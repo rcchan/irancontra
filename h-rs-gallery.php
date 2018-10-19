@@ -42,42 +42,76 @@
 <h3>RICHARD SECORD (7) - <a href="profile-secord.php" class="content_link">Profile</a></h3>
 <p>The testimony started off with a bang.&nbsp; Richard Secord, a retired Major General who ran The Enterprise, gave fascinating, detailed descriptions of private-citizen involvement with the Diversion.&nbsp; By the end of the first day, <em>The Washington Post</em> wrote, Secord’s “absolutely riveting” testimony proved that the hearing would be “dead serious” and “full of surprises.”&nbsp; Secord’s frank demeanor also led to testy interaction with the counsel, as he told Senate Chief Counsel Arthur Liman that he “did not come here to be badgered.”&nbsp; Notably, Secord testified that he believed President Reagan was aware of The Enterprise’s activities.&nbsp; The senators and congressmen who spoke were critical of turning over U.S. policymaking to private hands, but Secord defended his actions.&nbsp; He insisted that the nature of the hearings was causing the world “laugh at us.”</p>
 <div align="center">
-  <table border="0"><tr><td valign="top">
-  <table width="150"><tr><td><a href="transcripts/rs-1.php"><img src="thumbnails/rs1.jpg" style="border-color:#000" border="1"/></a></td></tr>
-      <tr><td align="left"><font class="video"><strong><a href="transcripts/rs-1.php">Secord on Financing the Operation</a> </strong><br />(15:40)</font></td></tr></table>
-    </td><td valign="top">
-  <table width="150"><tr><td><a href="transcripts/rs-2.php"><img src="thumbnails/rs2.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr>
-    <td align="left"><font class="video"><strong><a href="transcripts/rs-2.php">Secord on the Enterprise's Profits</a> </strong><br />
-    (9:32)</font></td></tr></table>
-      </td><td valign="top">
-  <table width="150"><tr><td><a href="transcripts/rs-3.php"><img src="thumbnails/rs3.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr>
-    <td align="left"><font class="video"><strong><a href="transcripts/rs-3.php">Secord and Counsel Getting Testy</a> </strong><br />
-        (1:04)</font></td></tr></table>
-        </td></tr>
-    
-  <tr><td valign="top">
-  <table width="150">
-  <tr><td><a href="transcripts/rs-4.php"><img src="thumbnails/rs4.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr><td align="left"><font class="video"><strong><a href="transcripts/rs-4.php">Secord on Misleading Testimony</a> </strong><br />(2:02)</font></td></tr></table>
-  </td><td valign="top">
-  <table width="150">
-  <tr><td><a href="transcripts/rs-5.php"><img src="thumbnails/rs5.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr><td align="left"><font class="video"><strong><a href="transcripts/rs-5.php">Secord on Reagan's Awareness</a> </strong><br />(1:44)</font></td></tr></table>
-  </td><td valign="top">
-  <table width="150">
-  <tr><td><a href="transcripts/rs-6.php"><img src="thumbnails/rs6.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr><td align="left"><font class="video"><strong><a href="transcripts/rs-6.php">Secord and Senator Boren on Secord's Expertise</a> </strong><br />(5:05)</font></td></tr></table>
-  </td></tr>
-  <tr><td valign="top">
-  <table width="150">
-  <tr><td><a href="transcripts/rs-7.php"><img src="thumbnails/rs7.jpg" style="border-color:#000" border="1"/></a></td></tr>
-  <tr><td align="left"><font class="video"><strong><a href="transcripts/rs-7.php">Secord and Representative Bloomfield on Reagan's Burden</a> </strong><br />(5:25)</font></td></tr></table>
-  </td><td>
-  </td><td>
-  </td></tr>
-  </table>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rs-1.php"><img src="thumbnails/rs1.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rs-1.php" class="video">Secord on Financing the Operation</a>
+    <br />
+    (15:40)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rs-2.php"><img src="thumbnails/rs2.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rs-2.php" class="video">Secord on the Enterprise's Profits</a>
+    <br />
+    (9:32)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rs-3.php"><img src="thumbnails/rs3.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rs-3.php" class="video">Secord and Counsel Getting Testy</a>
+    <br />
+    (1:04)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rs-4.php"><img src="thumbnails/rs4.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rs-4.php" class="video">Secord on Misleading Testimony</a>
+    <br />
+    (2:02)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rs-5.php"><img src="thumbnails/rs5.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rs-5.php" class="video">Secord on Reagan's Awareness</a>
+    <br />
+    (1:44)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rs-6.php"><img src="thumbnails/rs6.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rs-6.php" class="video">Secord and Senator Boren on Secord's Expertise</a>
+    <br />
+    (5:05)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/rs-7.php"><img src="thumbnails/rs7.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/rs-7.php" class="video">Secord and Representative Bloomfield on Reagan's Burden</a>
+    <br />
+    (5:25)
+  </div>
+</div>
 </div></div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top </a>]</p></div><br /><br />
 </div>
