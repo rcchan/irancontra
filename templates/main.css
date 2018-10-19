@@ -265,3 +265,25 @@ ul.dropdown li:hover > a.dir {
 ul.dropdown ul li:hover > a.dir {
  background-color: #8a0403;
  color: #fff;}
+	
+
+.galleryvideocontainer {
+  width: 150px; display: inline-block;
+  vertical-align: top;
+  margin: 5px;
+}
+
+.galleryvideothumbnail img {
+  border: 1px solid black;
+}
+
+.galleryvideolink {
+  font: 11px Arial, Helvetica, sans-serif;
+  line-height: 9pt;
+  text-align: left;
+}
+.galleryvideolink a {
+  font-weight: bold;
+  color: #a90e0e;
+  text-decoration: none;
+}
