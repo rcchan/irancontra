@@ -60,16 +60,6 @@
 </div>
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="v-rs3.php"><img src="thumbnails/rs3.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-rs3.php" class="video">Secord and Counsel Getting Testy</a>
-    <br />
-    (1:04)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
     <a href="v-rs4.php"><img src="thumbnails/rs4.jpg" /></a>
   </div>
   <div class="galleryvideolink">
@@ -300,16 +290,6 @@
 </div>
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="v-ah2.php"><img src="thumbnails/ah2.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-ah2.php" class="video">Hakim on His "Love" for North</a>
-    <br />
-    (3:14)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
     <a href="v-ah3.php"><img src="thumbnails/ah3.jpg" /></a>
   </div>
   <div class="galleryvideolink">
@@ -350,16 +330,6 @@
 </div>
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="v-fh1.php"><img src="thumbnails/fh1.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-fh1.php" class="video">Hall on Swiss Bank Account Number </a>
-    <br />
-    (1:32)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
     <a href="v-fh2.php"><img src="thumbnails/fh2.jpg" /></a>
   </div>
   <div class="galleryvideolink">
@@ -386,16 +356,6 @@
     <a href="v-fh4.php" class="video">Hall on Hiding Documents Under Her Clothes</a>
     <br />
     (2:28)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
-    <a href="v-fh5.php"><img src="thumbnails/fh5.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-fh5.php" class="video">Hall Talks to Sen. Boren About Shredding</a>
-    <br />
-    (8:09)
   </div>
 </div>
 <div class="galleryvideocontainer">
@@ -550,16 +510,6 @@
 </div>
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="v-on15.php"><img src="thumbnails/on15.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-on15.php" class="video">North's Lawyer Objecting to "Dreamland" Scenarios</a>
-    <br />
-    (2:55)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
     <a href="v-on16.php"><img src="thumbnails/on16.jpg" /></a>
   </div>
   <div class="galleryvideolink">
@@ -576,26 +526,6 @@
     <a href="v-on17.php" class="video">North on Plausible Deniability</a>
     <br />
     (10:36)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
-    <a href="v-on18.php"><img src="thumbnails/on18.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-on18.php" class="video">Senator Hatch on Covert Operations</a>
-    <br />
-    (3:53)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
-    <a href="v-on19.php"><img src="thumbnails/on19.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-on19.php" class="video">Senator Rudman on What the People Want</a>
-    <br />
-    (1:21)
   </div>
 </div>
 <div class="galleryvideocontainer">
@@ -800,16 +730,6 @@
 </div>
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="v-em1.php"><img src="thumbnails/em1.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-em1.php" class="video">Meese Statement on Internal Investigation</a>
-    <br />
-    (2:08)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
     <a href="v-em2.php"><img src="thumbnails/em2.jpg" /></a>
   </div>
   <div class="galleryvideolink">
@@ -836,26 +756,6 @@
     <a href="v-em4.php" class="video">Sen. Rudman Asks Meese Why Reagan Did Not Talk to Poindexter or North</a>
     <br />
     (6:14)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
-    <a href="v-em5.php"><img src="thumbnails/em5.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-em5.php" class="video">Sen. Mitchell Asks Meese About Not Taking Notes</a>
-    <br />
-    (7:39)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
-    <a href="v-em6.php"><img src="thumbnails/em6.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-em6.php" class="video">Sen. Mitchell Asks Meese About Not Securing Documents</a>
-    <br />
-    (2:26)
   </div>
 </div>
 <div class="galleryvideocontainer">

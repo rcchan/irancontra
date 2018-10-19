@@ -44,16 +44,6 @@
 <div align="center">
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="transcripts/em-1.php"><img src="thumbnails/em1.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="transcripts/em-1.php" class="video">Meese Statement on Internal Investigation</a>
-    <br />
-    (2:08)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
     <a href="transcripts/em-2.php"><img src="thumbnails/em2.jpg" /></a>
   </div>
   <div class="galleryvideolink">
@@ -80,26 +70,6 @@
     <a href="transcripts/em-4.php" class="video">Sen. Rudman Asks Meese Why Reagan Did Not Talk to Poindexter or North</a>
     <br />
     (6:14)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
-    <a href="transcripts/em-5.php"><img src="thumbnails/em5.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="transcripts/em-5.php" class="video">Sen. Mitchell Asks Meese About Not Taking Notes</a>
-    <br />
-    (7:39)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
-    <a href="transcripts/em-6.php"><img src="thumbnails/em6.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="transcripts/em-6.php" class="video">Sen. Mitchell Asks Meese About Not Securing Documents</a>
-    <br />
-    (2:26)
   </div>
 </div>
 <div class="galleryvideocontainer">

@@ -189,16 +189,6 @@
 </div>
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="v-on15.php"><img src="thumbnails/on15.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-on15.php" class="video">North's Lawyer Objecting to "Dreamland" Scenarios</a>
-    <br />
-    (2:55)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
     <a href="v-on16.php"><img src="thumbnails/on16.jpg" /></a>
   </div>
   <div class="galleryvideolink">
@@ -215,26 +205,6 @@
     <a href="v-on17.php" class="video">North on Plausible Deniability</a>
     <br />
     (10:36)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
-    <a href="v-on18.php"><img src="thumbnails/on18.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-on18.php" class="video">Senator Hatch on Covert Operations</a>
-    <br />
-    (3:53)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
-    <a href="v-on19.php"><img src="thumbnails/on19.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="v-on19.php" class="video">Senator Rudman on What the People Want</a>
-    <br />
-    (1:21)
   </div>
 </div>
 <div class="galleryvideocontainer">

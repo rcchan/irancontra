@@ -44,16 +44,6 @@
 <div align="center">
 <div class="galleryvideocontainer">
   <div class="galleryvideothumbnail">
-    <a href="transcripts/fh-1.php"><img src="thumbnails/fh1.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="transcripts/fh-1.php" class="video">Hall on Swiss Bank Account Number </a>
-    <br />
-    (1:32)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
     <a href="transcripts/fh-2.php"><img src="thumbnails/fh2.jpg" /></a>
   </div>
   <div class="galleryvideolink">
@@ -80,16 +70,6 @@
     <a href="transcripts/fh-4.php" class="video">Hall on Hiding Documents Under Her Clothes</a>
     <br />
     (2:28)
-  </div>
-</div>
-<div class="galleryvideocontainer">
-  <div class="galleryvideothumbnail">
-    <a href="transcripts/fh-5.php"><img src="thumbnails/fh5.jpg" /></a>
-  </div>
-  <div class="galleryvideolink">
-    <a href="transcripts/fh-5.php" class="video">Hall Talks to Sen. Boren About Shredding</a>
-    <br />
-    (8:09)
   </div>
 </div>
 <div class="galleryvideocontainer">
