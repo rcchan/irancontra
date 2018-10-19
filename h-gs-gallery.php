@@ -42,68 +42,76 @@
 <h3>GEORGE SHULTZ (7) - <a href="profile-shultz.php" class="content_link">Profile</a></h3>
 <p>Secretary of State George Shultz clashed with the rest of the Reagan administration so much that he threatened to resign three times.&nbsp; Yet, his disagreement regarding Iranian policy did not prompt him to speak out or actually resign.&nbsp; Appearing with no lawyer, the secretary of state testified that then-National Security Adviser Robert McFarlane only told him about the arms-for-hostages plan as it was developing.&nbsp; Shultz said that Reagan was insistent that the hostage release not be held back by small legal issues; however, he told the committee, then-National Security Adviser John Poindexter and the late CIA Director William Casey did not provide the president with all the facts.&nbsp; Even when Reagan gave a press conference on Iran arms sales in November 1986, Shultz told him that they had been “deceived” and that Reagan was still being kept out of the loop.&nbsp; Sen. George Mitchell (D-ME) riled the secretary of state when he asked if Reagan was keeping him “in the dark.”&nbsp; Shultz then became engaged with Rep. Michael DeWine (R-OH), who told him that he allowed himself and the president to be kept “out of the game.”&nbsp; &nbsp;Defiantly, Shultz responded, “I will just say that is one man’s opinion and I don't share it.”</p>
 <div align="center">
-  <table border="0"><tr><td valign="top">
-    <table width="150"><tr><td valign="top"><a href="transcripts/gs-1.php"><img src="thumbnails/gs1.jpg" style="border-color:#000" border="1"/></a></td></tr>
-      <tr>
-        <td align="left"><font class="video"><strong><a href="transcripts/gs-1.php">Shultz on Opposing Arms For Hostages</a> </strong><br />
-          (1:29)</font></td></tr></table>
-    </td><td valign="top">
-      <table width="150"><tr><td valign="top"><a href="transcripts/gs-2.php"><img src="thumbnails/gs2.jpg" style="border-color:#000" border="1"/></a></td></tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/gs-2.php">Shultz on Reagan's Insistence on Hostage Recovery</a> </strong><br />
-            (4:33)</font></td></tr></table>
-      </td><td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/gs-3.php"><img src="thumbnails/gs3.jpg" style="border-color:#000" border="1"/></a></td>
-          </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/gs-3.php">Shultz on Advisers Misleading Reagan</a></strong><br />
-            (3:38)</font></td>
-          </tr>
-        </table></td></tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/gs-4.php"><img src="thumbnails/gs4.jpg" style="border-color:#000" border="1"/></a></td>
-          </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/gs-4.php">Shultz on Reagan's Response to Press Conference</a></strong><br />
-            (1:00)</font></td>
-          </tr>
-        </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/gs-5.php"><img src="thumbnails/gs5.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/gs-5.php">Shultz on Casey's Power Grab</a></strong><br />
-            (4:01)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/gs-6.php"><img src="thumbnails/gs6.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/gs-6.php">Senator Mitchell Asks Shultz Whether Reagan Kept Him Out of the Loop</a></strong><br />
-            (5:12)</font></td>
-        </tr>
-      </table></td>
-      </tr>
-    <tr>
-      <td valign="top"><table width="150">
-        <tr>
-          <td valign="top"><a href="transcripts/gs-7.php"><img src="thumbnails/gs7.jpg" style="border-color:#000" border="1"/></a></td>
-        </tr>
-        <tr>
-          <td align="left"><font class="video"><strong><a href="transcripts/gs-7.php">Rep. DeWine Asks Shultz Why He Kept Himself Unaware</a></strong><br />
-            (2:25)</font></td>
-        </tr>
-      </table></td>
-      <td valign="top">&nbsp;</td>
-      <td valign="top">&nbsp;</td>
-    </tr>
-  </table>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/gs-1.php"><img src="thumbnails/gs1.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/gs-1.php" class="video">Shultz on Opposing Arms For Hostages</a>
+    <br />
+    (1:29)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/gs-2.php"><img src="thumbnails/gs2.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/gs-2.php" class="video">Shultz on Reagan's Insistence on Hostage Recovery</a>
+    <br />
+    (4:33)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/gs-3.php"><img src="thumbnails/gs3.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/gs-3.php" class="video">Shultz on Advisers Misleading Reagan</a>
+    <br />
+    (3:38)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/gs-4.php"><img src="thumbnails/gs4.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/gs-4.php" class="video">Shultz on Reagan's Response to Press Conference</a>
+    <br />
+    (1:00)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/gs-5.php"><img src="thumbnails/gs5.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/gs-5.php" class="video">Shultz on Casey's Power Grab</a>
+    <br />
+    (4:01)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/gs-6.php"><img src="thumbnails/gs6.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/gs-6.php" class="video">Senator Mitchell Asks Shultz Whether Reagan Kept Him Out of the Loop</a>
+    <br />
+    (5:12)
+  </div>
+</div>
+<div class="galleryvideocontainer">
+  <div class="galleryvideothumbnail">
+    <a href="transcripts/gs-7.php"><img src="thumbnails/gs7.jpg" /></a>
+  </div>
+  <div class="galleryvideolink">
+    <a href="transcripts/gs-7.php" class="video">Rep. DeWine Asks Shultz Why He Kept Himself Unaware</a>
+    <br />
+    (2:25)
+  </div>
+</div>
 </div></div>
    </td></tr></table><br /><div align=center class="top_link"><p>[ <a href="#headertop">Return to top </a>]</p></div><br /><br />
 </div>
