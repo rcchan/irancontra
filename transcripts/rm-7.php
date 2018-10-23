@@ -159,10 +159,9 @@ convincing, indeed it is overwhelming that you did in fact deliber-
 ately participate in the falsification of a portion of that chronology.<br/>
 <br/><strong>Mr. McFARLANE</strong>:   I disagree.
 <br/><br/><strong>Mr. MITCHELL</strong>:  And I limited my remarks to that aspect of
-dealing with the knowledge you had of the President's prior au-
-thorization of that first shipment. I think no conclusion is possible
-other than that I have expressed on the reading of those docu-
-ments.
+dealing with the knowledge you had of the President's prior
+authorization of that first shipment. I think no conclusion is possible
+other than that I have expressed on the reading of those documents...
 
 
 </font></div>
