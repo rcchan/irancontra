@@ -7,7 +7,7 @@
 <body>
 <div style="width:325px"><font class="transcript">
 
-<strong>Mr. NIELDS</strong>:  I just want the facts to be clear.  I think you have testified that Mr. North participated in preparing this chronology.
+<strong>Mr. NIELDS</strong>:  ...But I just want the facts to be clear.  I think you have testified that Mr. North participated in preparing this chronology.
 <br/><br/><strong>Mr. McFARLANE</strong>:  Yes.
 <br/><br/><strong>Mr. NIELDS</strong>:  And the last version of the chronology says that the
 United States was told that it was oil drilling equipment.
@@ -53,7 +53,7 @@ that week you never remembered that you had known in November
 1985 that Hawk missiles were shipped.
 <br/><br/><strong>Mr. McFARLANE</strong>:  I think I see what the problem is, Mr. Nields.
 First of all, I didn't work on these chronologies all the time. On the
-18th I was asked to come over but on the night of the 18th , I spent
+18th I was asked to come over but on the night of the 18th, I spent
 most of my time on the opening statement.
 I think that is obvious from the length of the cable I finally
 ended up writing. It was on the opening statement.
