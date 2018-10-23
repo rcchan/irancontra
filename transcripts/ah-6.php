@@ -12,18 +12,18 @@ willing to swap 17 terrorists who were guilty of killing American
 personnel in return for one-and-a-half hostages who were innocent
 of any criminal deed?
 <br/><br/><strong>Mr. HAKIM</strong>: Mr. Chairman, with all due respect, that item in the
-so-called Hakim accord doesn't agree to releasing the 17 prisoners
+so-called Hakim accord doesn't agree to releasing the 17 prisoners.
 It agrees to preparing a plan, if you carefully read that, just to be
 fair to General Secord.
 <br/><br/><strong>Chairman INOUYE</strong>: Do you think the Iranians would have released one and a half if you didn't come through with that?
-<br/><br/><strong>Mr. HAKIM</strong>: No, the plan was— I believe I testified earlier— to
+<br/><br/><strong>Mr. HAKIM</strong>: No, the plan was—I believe I testified earlier—to
 bring the Iranians and Kuwaitis together and let them resolve it
-among themselves and the Iranians took the first step in that
-e not agree in this nine-point accord to undertake to release—or cause for the 17 prisoners to be released. The plan was to
+among themselves and the Iranians took the first step in that direction.
+We not agree in this nine-point accord to undertake to release—or cause for the 17 prisoners to be released. The plan was to
 put the two countries together and let them work it out.
 <br/><br/><strong>Chairman INOUYE</strong>: During the past 2 days, panel members and
-citizens in the audience have chuckled over some of your responses
-They have found your testimony fascinating and exotic. But, l must
+citizens in the audience have chuckled over some of your responses.
+They have found your testimony fascinating and exotic. But, I must
 confess to you that I found it rather sad.<br/><br/>
 To be told that here we had an American citizen, not just one,
 but two, not cleared to handle certain classified material sharing
@@ -40,7 +40,7 @@ been given a special tour of the White House— to say that it is
 stranger than fiction is an understatement.<br/><br/>
 But then we find an American general, who should know better,
 an American lieutenant colonel, who everyone suggests is second
-only to the President of the United States, committing this country, its power and majesty, to defend Iran without even consultation with the Congress of the United States, is just unbelievable<br/><br/>
+only to the President of the United States, committing this country, its power and majesty, to defend Iran without even consultation with the Congress of the United States, is just unbelievable.<br/><br/>
 And then to come out that we will participate in deposing a chief
 of state of a country, and we are supposed to be neutral
 these things bother you? I realize you are not a diplomat or
