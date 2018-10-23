@@ -55,7 +55,7 @@ whether he was soliciting and hearing that he wasn't?
 <br/><br/><strong>Mr. ABRAMS</strong>: Monitor Ollie is not an activity that you do one
 morning. It is a
 <br/><br/><strong>Mr. BELNICK</strong>: That is for sure.
-<br/><br/><strong>Mr. ABRAMS</strong>: It is a behavior pattern.
+<br/><br/><strong>Mr. ABRAMS</strong>: It is a behavior pattern. Let's put it that way...
 
 
 </font></div>
