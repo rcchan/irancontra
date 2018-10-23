@@ -8,11 +8,11 @@
 <div style="width:325px"><font class="transcript">
 <strong>Mr. LIMAN</strong>:  Did Colonel North tell you in the car that there was
 going to be a shredding party that weekend?
-<br/><br/><strong>Mr. McFARLANE</strong>:  On that 'occasion or another that 1 am closing
+<br/><br/><strong>Mr. McFARLANE</strong>:  On that occasion or another that I am closing
 on here.
 <br/><br/><strong>Mr. LIMAN</strong>:  Did he not tell you that before you went to see the
 Attorney General?
-<br/><br/><strong>Mr. McFARLANE</strong>:  Well, again, 1 believe it was during that car
+<br/><br/><strong>Mr. McFARLANE</strong>:  Well, again, I believe it was during that car
 ride, but I'm not certain that it was, as compared to a meeting that
 was in my office on Sunday morning.
 <br/><br/><strong>Mr. LIMAN</strong>:  What did he tell you about a shredding party?
