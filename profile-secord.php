@@ -50,7 +50,7 @@
   	</td><td></td></tr>
   	</table><br />
 
-(<a href="h-rs-gallery.php" class="content_link">Go to Secord's Hearings Page</a>)<br />
+(<a href="gallery.php#rs" class="content_link">Go to Secord's Hearings Page</a>)<br />
 </center>
 
 <div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div><br /><br />

@@ -21,7 +21,7 @@
 <p>However, because of the issue of potential contamination of the trial by the immunized testimony Poindexter gave to Congress, the U.S. Court of Appeals for the District of Columbia Circuit <a href="http://cases.justia.com/us-court-of-appeals/F2/951/369/257995/" class="content_link">reversed his convictions</a>, as it had in North’s trial. Specifically, the judges were concerned that witnesses’ memories might have been refreshed or even slightly altered as a result of the testimony. Since the hearings Walsh held after the Court of Appeals ruled in North’s trial showed that certain witnesses had indeed been affected by the congressional testimony, Walsh chose not to hold similar hearings again and dropped all charges against Poindexter.</p>
 
 <center>
-  <p>(<a href="h-jp-gallery.php" class="content_link">Go to Poindexters's Hearings Page</a>)</p>
+  <p>(<a href="gallery.php#jp" class="content_link">Go to Poindexters's Hearings Page</a>)</p>
 </center>
 <div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div><br /><br />
 </div>

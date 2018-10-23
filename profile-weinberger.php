@@ -29,7 +29,7 @@
 <p>Also contradicting his contemporaneous notes and diary entries, Weinberger, when asked by the staff of those committees whether he knew that the shipment of HAWK missiles to Iran on November 23, 1985, was going to take place, said that he did not.</p>
 <p>Although Walsh presented this case against Weinberger in his final report to Congress, he was never able to prosecute his claims. President George H.W. Bush preemptively issued his controversial pardon of Weinberger in late 1992.</p>
 <center>
-(<a href="h-cw-gallery.php" class="content_link">Go to Weinberger's Hearings Page</a>)<br />
+(<a href="gallery.php#cw" class="content_link">Go to Weinberger's Hearings Page</a>)<br />
 </center>
 
 <div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div><br /><br />

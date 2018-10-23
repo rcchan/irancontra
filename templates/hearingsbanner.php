@@ -17,21 +17,21 @@
                 </li>
                 <li><a href="h-gallery.php" class="dir">Gallery</a>
                 <ul>
-                	<li><a href="h-os-gallery.php"> Opening Statements </a></li>
-                    <li><a href="h-rs-gallery.php">Richard Secord</a></li>
-                    <li><a href="h-rm-gallery.php">Robert McFarlane</a></li>
-                    <li><a href="h-ac-gallery.php">Adolfo Calero</a></li>
-                    <li><a href="h-fr-gallery.php">Felix Rodriguez</a></li>
-                    <li><a href="h-ea-gallery.php">Elliott Abrams</a></li>
-                    <li><a href="h-ah-gallery.php">Albert Hakim</a></li>
-                    <li><a href="h-fh-gallery.php">Fawn Hall</a></li>
-                    <li><a href="h-on-gallery.php">Oliver North</a></li>
-                    <li><a href="h-jp-gallery.php">John Poindexter</a></li>
-                    <li><a href="h-gs-gallery.php">George Shultz</a></li>
-                    <li><a href="h-em-gallery.php">Edwin Meese</a></li>
-                    <li><a href="h-dr-gallery.php">Donald Regan</a></li>
-                    <li><a href="h-cw-gallery.php">Caspar Weinberger</a></li>
-                    <li><a href="h-cs-gallery.php">Closing Statements</a></li>
+                	<li><a href="gallery.php#os"> Opening Statements </a></li>
+                    <li><a href="gallery.php#rs">Richard Secord</a></li>
+                    <li><a href="gallery.php#rm">Robert McFarlane</a></li>
+                    <li><a href="gallery.php#ac">Adolfo Calero</a></li>
+                    <li><a href="gallery.php#fr">Felix Rodriguez</a></li>
+                    <li><a href="gallery.php#ea">Elliott Abrams</a></li>
+                    <li><a href="gallery.php#ah">Albert Hakim</a></li>
+                    <li><a href="gallery.php#fh">Fawn Hall</a></li>
+                    <li><a href="gallery.php#on">Oliver North</a></li>
+                    <li><a href="gallery.php#jp">John Poindexter</a></li>
+                    <li><a href="gallery.php#gs">George Shultz</a></li>
+                    <li><a href="gallery.php#em">Edwin Meese</a></li>
+                    <li><a href="gallery.php#dr">Donald Regan</a></li>
+                    <li><a href="gallery.php#cw">Caspar Weinberger</a></li>
+                    <li><a href="gallery.php#cs">Closing Statements</a></li>
                 </ul>
                 </li>
                 <li><a href="" class="dir">The Report</a>

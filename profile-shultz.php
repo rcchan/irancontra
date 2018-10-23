@@ -25,7 +25,7 @@
 <p>Ultimately, Walsh did not feel he could prove beyond a reasonable doubt that Shultz had given <em>intentionally</em> false testimony. While certainly unlikely that Shultz had forgotten the details of such controversial events, “none of the contemporaneous notes created in November and December 1986 suggest that Shultz in fact remembered more or different information than that to which he testified.”</p><ul><li><a href="http://fas.org/irp/offdocs/walsh/chap_24.htm" class="content_link">Walsh’s final report to Congress</a> (includes certain transcripts of Hill’s and Platt’s notes)</li>
 </ul>
 </p><center>
-(<a href="h-gs-gallery.php" class="content_link">Go to Shultz's Hearings Page</a>)
+(<a href="gallery.php#gs" class="content_link">Go to Shultz's Hearings Page</a>)
 </center>
 
 </div>

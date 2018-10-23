@@ -19,7 +19,7 @@
 <p>That final action led Hakim, in November 1989, to plead guilty to a misdemeanor of supplementing North’s salary. He was given two years’ probation and ordered to pay a $5,000 fine.</p>
 <p>At the same time, the U.S. was seeking to recover the Enterprise’s Swiss funds. After he pleaded guilty, Hakim agreed to drop his own claims to the Enterprise’s money if he received $1.7 million from that account, some of which he would use to pay his lawyer’s and William Zucker’s claims. When he ultimately refused to carry out the agreement, the U.S. had no choice but to <a href="http://www.fas.org/irp/offdocs/walsh/chap_12.htm" class="content_link">litigate to seek those funds</a>.</p>
 
-<center>(<a href="h-ah-gallery.php" class="content_link">Go to Hakim's Hearings Page</a>)</center>
+<center>(<a href="gallery.php#ah" class="content_link">Go to Hakim's Hearings Page</a>)</center>
 <br />
 </div>
 

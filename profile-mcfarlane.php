@@ -104,7 +104,7 @@
     </table></td></tr>
   	</table><br />
 
-(<a href="h-rm-gallery.php" class="content_link">Go to McFarlane's Hearings Page</a>)<br />
+(<a href="gallery.php#rm" class="content_link">Go to McFarlane's Hearings Page</a>)<br />
 </center>
 
 <div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div><br /><br />

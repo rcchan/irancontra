@@ -25,7 +25,7 @@
 <tr>
   <td align="center"><a href="documents/abrams.pdf" target="_window" class="content_link">Elliot Abrams' Guilty Plea Statement </a>(PDF)</td></tr></table></div>
 <center><br />
-(<a href="h-ea-gallery.php" class="content_link">Go to Abram's Hearings Page</a>)<br /></center>
+(<a href="gallery.php#ea" class="content_link">Go to Abram's Hearings Page</a>)<br /></center>
 
 </div>
 

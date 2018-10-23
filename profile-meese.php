@@ -16,7 +16,7 @@
 <p>Another point of concern that shed doubt on the motivations of Meese’s inquiry was that when he found one of North’s documents outlining a plan to divert profits from the arms sales to the Contras, Meese first approached Reagan, Regan, and Bush privately to see what they knew of it. He did not tell senior advisers until later that day, and the Cabinet was not informed until the next day.</p>
 <p>Nevertheless, Walsh brought no charges against Meese, largely because his office did not know of Meese’s comments at the meeting on November 24 until late 1991, when his staff received access to Weinberger’s and Regan’s notes. Since this was six years later, too many potential witnesses claimed they had little memory of those key events. There was simply not enough evidence to justify prosecuting Meese for his alleged obstruction.</p>
 <center>
-(<a href="h-em-gallery.php" class="content_link">Go to Meese's Hearings Page</a>)<br />
+(<a href="gallery.php#em" class="content_link">Go to Meese's Hearings Page</a>)<br />
 </center>
 
 <div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div><br /><br />

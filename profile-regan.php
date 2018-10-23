@@ -19,7 +19,7 @@
 <p>Ultimately, no charges were brought against Regan. First, there was no evidence that he was actively colluding with Meese to create a false version of the Affairs. When Regan was interviewed afterwards, he was honest and helpful, and his testimony was going to be used against Weinberger and could also have been used against Meese if the Independent Counsel had prosecuted him. Although his delay in producing his notes was harmful, that was in part the responsibility of the White House as a whole—he did produce all of the requested documents once subpoenaed. </p>
 
 <center>
-(<a href="h-dr-gallery.php" class="content_link">Go to Regan's Hearings Page</a>)<br />
+(<a href="gallery.php#dr" class="content_link">Go to Regan's Hearings Page</a>)<br />
 </center>
 
 <div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div><br /><br />

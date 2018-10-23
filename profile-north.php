@@ -22,7 +22,7 @@
 <p>Ultimately, a jury found North guilty of obstruction of congressional inquiries, destroying NSC documents, and receiving an illegal gratuity. North received two years probation, $150,000 in fines, and 1,200 hours community service. He was also ordered to serve as an administrator for an inner-city youth-counseling program. </p>
 <p>However, North appealed his convictions, and the Court of Appeals for the District of Columbia Circuit sided with him. <a href="http://cases.justia.com/us-court-of-appeals/F2/881/1088/93831/" class="content_link">The court ruled</a> that although the Independent Counsel’s staff shielded themselves from testimony, and the grand jurors were instructed appropriately, the presiding judge did not adequately ensure that prosecution witnesses has not used the immunized accounts “to refresh their memories, or otherwise to focus their thoughts, organize their testimony, or alter their prior or contemporaneous statements….” When Walsh sought additional hearings in the trial court on this matter, McFarlane stated that he had been affected by North’s congressional testimony. The convictions were dismissed.</p>
 <center>
-(<a href="h-on-gallery.php" class="content_link">Go to North's Hearings Page</a>)<br />
+(<a href="gallery.php#on" class="content_link">Go to North's Hearings Page</a>)<br />
 </center>
 
 <div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div><br /><br />
