@@ -163,6 +163,8 @@ the Iranian arms sales?
 sale of arms that you made to Iran, you got paid by Ghorbanifar
 before you paid any money out to the CIA?
 <br/><br/><strong>Mr. SECORD</strong>:  No.
+<br/><br/><strong>Mr. LIMAN</strong>: Is there an instance that you can recall where you didn't get the money up front?
+<br/><br/><strong>Mr. SECORD</strong>: No, you said by Ghorbanifar. In the October transaction, we were paid by the Iranian government.
 <br/><br/><strong>Mr. LIMAN</strong>:  OK. You are a very literal man, so let me be literal,
 too. In every instance of sales to Iran, you received the money up
 front before you laid it out to
