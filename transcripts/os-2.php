@@ -9,11 +9,16 @@
 
 <!-- INSERT TRANSCRIPT HERE-->
 
-<p>Chairman HAMILTON.</p><p>
-
-Congressional oversight is an integral part of this constitution
+<p>Chairman INOUYE.</p><p>And now ladies and gentlemen, it is my privilege and honor, to call upon my colleague 
+from the House of Representatives, the chairman of the Select Committee, the Honorable Lee Hamilton.</p>
+  
+<p>Chairman HAMILTON.</p><p>Thank you very much, Mr. Chairman, and we all thank you for a most eloquent and perceptive statement.
+<p>A Hoosier constituent of mine recently asked, why is the Congress spending so much time on the Iran-Contra Affair when there are so many other important things to do. That question is appropriately addressed as we begin.</p>
+<p>The short answer is that we hold these hearings because in the course of the conduct of the Nation's business, something went wrong, seriously wrong. If something goes wrong in our system, we want to bring it out into the open, 
+examine it, learn from it, and, if possible, correct it.</p>
+<p>Congressional oversight is an integral part of this constitutional
 process in our democracy and that is why we are here. At the
-heart of what we do in these hearings is the proper working of 0ur
+heart of what we do in these hearings is the proper working of our
 system of government. Let me address several questions.
 First, what went wrong? Our answer to that question today must be tentative, not final. But after four months of investigation, the
 examination of over 100,000 documents, and the interview of hundreds of witnesses by the committees, we can begin to address that
