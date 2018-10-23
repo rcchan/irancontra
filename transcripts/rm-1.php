@@ -50,14 +50,14 @@ were not creating enough money?
 <br/><br/><strong>Mr. McFARLANE</strong>:  The events of early 1985 on Central America,
 including my visit down there. I had been out of the country before
 that time with the Secretary of State at a meeting with Mr. Gromyko
-In Geneva. I was not devoting a lot of time to this issue, but I
+in Geneva. I was not devoting a lot of time to this issue, but I
 was coincidentally preparing for the visit of King Fahd.
 I was also preparing for the visit of a number of other people,
 and I was seeking to make arrangements, as always preceding
 visits by various countries. In the runup to any of these meetings,
-you also always Convene with the resident official here in Washing-
-ton from various countries, and is a process of working out exactly
-what the itinerary will be-how many meetings, the agenda for the
+you also always Convene with the resident official here in Washington
+from various countries, and is a process of working out exactly
+what the itinerary will be- how many meetings, the agenda for the
 meetings, logistic arrangements and so forth.<br/><br/>
 And, in the course of a meeting which was coming up with Country
 Two in this period, I did this kind of routine with the resident
