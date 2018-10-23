@@ -38,7 +38,7 @@ know about this, you don't know about that, and you weren't informed, you were n
 idea I ever heard.
 Why do you have to be authorized to tell the truth to the appropriate committee in Congress? 
 <br/><br/>
-<strong>Mr. ABRAMS</strong>: Well<br/>
+<strong>Mr. ABRAMS</strong>: Well-<br/>
 <br/><strong>Mr. BROOKS</strong>: I don't want you to tell me. But you should have
 told the Intelligence Committee. 
 <br/><br/><strong>Mr. ABRAMS</strong>: I would like to repeat the answer as you raise it
