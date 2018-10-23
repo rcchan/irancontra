@@ -7,7 +7,7 @@
 <body>
 <div style="width:325px"><font class="transcript">
 
-You are familiar with exhibit 38A involving the DEA caper?
+<br/><strong>Mr. RUDMAN</strong>: ...You are familiar with exhibit 38A involving the DEA caper?
 <em>[The exhibit appears at p. 537.]</em><br/>
 <br/><strong>Mr. McFARLANE</strong>:   Yes, sir.
 <br/><br/><strong>Mr. RUDMAN</strong>: That describes a plan to bribe some people to free
