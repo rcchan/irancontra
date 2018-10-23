@@ -55,7 +55,7 @@
 <script id="filters-template" type="text/x-handlebars-template">
   <a href="#all" class="content_link">VIEW ALL VIDEOS</a> ({{videos.length}})<br/>
   {{#eachInMap actors}}
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#{{key}}" class="content_link">{{value.name}}</a>({{galleryCount value.name}})<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#{{key}}" class="content_link">{{value.name}}</a> ({{galleryCount value.name}})<br/>
   {{/eachInMap}}
 </script>
 <script id="main-template" type="text/x-handlebars-template">
