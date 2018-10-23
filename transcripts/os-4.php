@@ -58,7 +58,7 @@ are not new. We have had previous debates over the role of covert
 actions, the role of the President, the role of private individuals,
 and the appropriate role of Congress in foreign policy.</p><p>
 Some will argue that these events justify the imposition of additional restrictions on Presidents to prohibit the possibility of similar occurrences in the future. In my opinion that would be a mistake. In completing our task, we should seek above all to find ways
-to strengthen the capacity of future Presidents and future congresses to meet the often dangerous and difficult challenges that
+to strengthen the capacity of future Presidents and future Congresses to meet the often dangerous and difficult challenges that
 are bound to arise in the years ahead.</p>
 
 
