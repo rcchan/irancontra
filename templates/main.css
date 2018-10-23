@@ -55,7 +55,7 @@ menu_link{font-family:"Helvetica", Arial, Helvetica, sans-serif;color:#ffffff;te
 .menu_link:hover {
 	color: #700404; font-weight: bold; font-family: Helvetica;
 }
-content_link{font-family:"Helvetica", Arial, Helvetica, sans-serif;color:#a90e0e;text-decoration: none}
+.content_link{font-family:"Helvetica", Arial, Helvetica, sans-serif;color:#a90e0e;text-decoration: none}
 .content_link:link {
 	color: #a90e0e; font-size:13px; font-weight: regular; font-family: Helvetica;text-decoration: none}
 .content_link:active {
