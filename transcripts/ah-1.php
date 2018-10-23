@@ -12,8 +12,8 @@ $200,000 in it, and your records reflect that that amount was put
 into the Button account May 20, 1986. Is Button short for something?
 <br/><br/><strong>Mr. HAKIM</strong>: In this case, no. The name, Button, actually came as
 the result of a joke between Mr. Zucker and myself at a time that
-we were having a discussion. Actually, the complete name is Belly.
-button, and this was a name that I decided to use at the time because
+we were having a discussion. Actually, the complete name is Belly
+Button, and this was a name that I decided to use at the time because
 we laughed about the joke, and I simply took the name and
 used it for this set-aside.
 <br/><br/><strong>Mr. NIELDS</strong>: Does it refer to a person?
@@ -23,8 +23,8 @@ used it for this set-aside.
 <br/><br/><strong>Mr. NIELDS</strong>: Can you explain the circumstances surrounding the
 setting up of an account for Lt. Col. North?
 <br/><br/><strong>Mr. HAKIM</strong>: I must start by saying that when I established this
-account, Lt. Col. North had absolutely no idea about this. This oc·
-curred during the time that the so-called McFarlane Tehran trip
+account, Lt. Col. North had absolutely no idea about this. This
+occurred during the time that the so-called McFarlane Tehran trip
 was about to take place.
 <br/><br/><strong>Mr. NIELDS</strong>: That took place approximately the 24th, 25th of May
 1986, and this account was set up on May 20th?
@@ -47,7 +47,7 @@ one discussion that this issue was analyzed—I had hear through
 various remarks that Ollie was not spending time at home, and he
 was not attending to his family, to his kids' education and so forth,
 and I had become emotionally very attached to Ollie, still am, and
-I really love this man.br/><br/>
+I really love this man.<br/><br/>
 I talked to Richard, General Secord, I said that I thought it
 would be wise to set aside $500,000 to cover the—as a death benefit
 for Ollie. I recall that Richard opposed to this figure.
@@ -83,7 +83,9 @@ I take it this was shortly before the trip to Tehran in May of 1986?
 education. Did you ever take any steps to get some part of this
 money or any other money into his possession for his children's
 education?
-<br/><br/><strong>Mr. HAKIM</strong>: The answer is yes. 
+<br/><br/><strong>Mr. HAKIM</strong>: The answer is yes. I consulted Mr. Zucker and he - I gave him an Iranian proverb.
+I told him that I want to do this, but the proverb is that if you want to fix the eyebrow, we don't want to blind the eye,
+meaning that I want to find a proper way of getting this money to his kids without compromising Ollie's position or his family...
 
 
 </font></div>
