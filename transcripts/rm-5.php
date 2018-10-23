@@ -5,8 +5,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
-<div style="width:325px"><font class="transcript"><strong>Mr. LEON</strong>:  When you arrived in Tehran, were you under an im-
-pression that there was a specific deal with regard to certain hostages being released right up front?
+<div style="width:325px"><font class="transcript"><strong>Mr. LEON</strong>:  When you arrived in Tehran, were you under an
+impression that there was a specific deal with regard to certain hostages being released right up front?
 <br/><br/><strong>Mr. McFARLANE</strong>:  That is what I was told, yes.
 <br/><br/><strong>Mr. LEON</strong>:  Are you aware that General Secord testified last week
 that that was not his understanding of what the status of the ar-
@@ -16,8 +16,8 @@ rangements was between the parties?
 given you the impression that your understanding of the deal was
 the same as his.
 <br/><br/><strong>Mr. McFARLANE</strong>:  Yes.
-<br/><br/><strong>Mr. LEON</strong>:  Did you learn from Colonel North that he had a differ-
-ent understanding from either you and Poindexter or Secord?
+<br/><br/><strong>Mr. LEON</strong>:  Did you learn from Colonel North that he had a different
+understanding from either you and Poindexter or Secord?
 <br/><br/><strong>Mr. McFARLANE</strong>:  No. This came to, or out of the open-at one of
 the sessions we had with an Iranian official, where I complained
 about their not having fulfilled their commitments for release of
