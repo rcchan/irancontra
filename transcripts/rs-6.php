@@ -7,10 +7,12 @@
 <body>
 <div style="width:325px"><font class="transcript">
 
-<br/><br/><strong>Mr. BOREN</strong>:  You were asked to stop using the banks of operation,
-you were asked to temporarily suspend the airlift operations, I believe you told us.
+<br/><br/><strong>Mr. BOREN</strong>:  Now, you as I understand were asked to stop the Central American airlift at a certain point. There were problems in El Salvador, as you went into in your first day of tesitmony; is that correct?
+<br/><br/><strong>Mr. SECORD</strong>: That we were asked to-
+<br/><br/><strong>Mr. BOREN</strong>:  You were asked to stop using the Salvadorian base of operations,
+you were asked to temporarily suspend the airlift operations, I believe you told us on Monday.
 <br/><br/><strong>Mr. SECORD</strong>:  Yes. There were messages on that.
-<br/><br/><strong>Mr. BOREN</strong>:  From whom did those messages come? Did they come
+<br/><br/><strong>Mr. BOREN</strong>:  Messages on that. From whom did those messages come? Did they come
 from Colonel North?
 <br/><br/><strong>Mr. SECORD</strong>:  I believe they originated with him but they came
 from his assistant.
