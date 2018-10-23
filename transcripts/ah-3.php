@@ -44,7 +44,7 @@ goal.
 whether you testified that that was your impression of Colonel
 North, namely that it was his prime objective to get the hostages
 released in time for the election?
-Mr. JANIS. Could we just have a moment?
+<br/><br/><strong>Mr. JANIS</strong>: Could we just have a moment?
 <br/><br/><strong>Mr. LIMAN</strong>: Sure. It begins at line 14.
 <br/><br/><strong>Mr. HAKIM</strong>: I've read that, sir.
 <br/><br/><strong>Mr. LIMAN</strong>: Was it true what you testified?
@@ -55,13 +55,13 @@ him, as I testified here, that this is a wrong approach to put his
 emphasis and show as his prime objective the release of hostages.
 I told him, as I testified, he should low key that and he should
 put his attention more on the long-term relationship.
-<br/><br/><strong>Mr. LIMAN</strong>: Mr. Hakim
+<br/><br/><strong>Mr. LIMAN</strong>: Mr. Hakim-
 <br/><br/><strong>Mr. HAKIM</strong>: There is no question Colonel North wanted to get the
 hostages out as quickly as possible.
 <br/><br/><strong>Mr. LIMAN</strong>: Mr. Hakim?
 <br/><br/><strong>Mr. HAKIM</strong>: Yes, sir.
 <br/><br/><strong>Mr. LIMAN</strong>: If you misspoke at your deposition, you can so state.
-Mr. JANIS. Well, I think
+<br/><br/><strong>Mr. JANIS</strong>: Well, I think-
 <br/><br/><strong>Mr. LIMAN</strong>: Would you look at that passage and tell me whether
 or not that statement is still something that you stand by? If it is, I
 will read it. If it is not, I won't.
