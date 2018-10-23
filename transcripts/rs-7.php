@@ -67,7 +67,7 @@ highly publicized proceedings will have on the willingness of foreign countries 
 on proper covert operations in the future?
 <br/><br/><strong>Mr. SECORD</strong>:  In my opinion, the whole world is laughing at us.
 We have been hearing a lot of talk about the cleansing effect of
-these kinds of hearings. I don't believe that. I don't think it does
+these kinds of hearings. I don't share that belief at all. I don't think it does
 that. I think it opens up our guts to the rest of the world, they not
 only don't trust us like they used to, they also laugh at us. 
 
