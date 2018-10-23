@@ -7,8 +7,8 @@
 <body>
 <div style="width:325px"><font class="transcript">
 
-<strong>Mr. BELNICK</strong>: Sometime in the afternoon did you receive a tele-
-phone call from the White House operator?
+<strong>Mr. BELNICK</strong>: Sometime in the afternoon did you receive a
+telephone call from the White House operator?
 <br/><br/><strong>Ms. HALL</strong>: Yes, sir.
 <br/><br/><strong>Mr. BELNICK</strong>: Would you tell us about that call?
 <br/><br/><strong>Ms. HALL</strong>: Sometime late afternoon, the phone rang, I answered
