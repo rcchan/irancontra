@@ -4,7 +4,7 @@
 <? require ('templates/hearingsbanner.php'); ?>
     
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="h-gallery.php">Video Gallery</a> &raquo; Abrams on &quot;Monitor[ing] Ollie&quot;</div>
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Abrams on &quot;Monitor[ing] Ollie&quot;</div>
 <table>
 <tr>
 <td colspan=2 height=75><h2><span class="bread_crumbs">Abrams on &quot;Monitor[ing] Ollie&quot;</span></h2>

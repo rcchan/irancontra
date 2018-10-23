@@ -15,7 +15,7 @@
                 </li>
                 <li><a href="h-keyplayers.php" class="dir">Key Players</a>
                 </li>
-                <li><a href="h-gallery.php" class="dir">Gallery</a>
+                <li><a href="gallery.php" class="dir">Gallery</a>
                 <ul>
                 	<li><a href="gallery.php#os"> Opening Statements </a></li>
                     <li><a href="gallery.php#rs">Richard Secord</a></li>

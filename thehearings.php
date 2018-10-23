@@ -18,7 +18,7 @@
       <br />
        <u><a href="h-keyplayers.php">Key Players</a></u><br />
       <br />
-      <u><a href="h-gallery.php">Hearings Video Gallery</a></u><br />
+      <u><a href="gallery.php">Hearings Video Gallery</a></u><br />
       <br />
       <u>The Report</u><br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <a href="h-themajorityreport.php">Majority Report</a><br />
