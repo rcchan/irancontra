@@ -50,13 +50,12 @@ That still bothers me.
 <br/><br/><strong>Mr. LIMAN</strong>: So because you felt that the State Department
 wasn't competent to negotiate with Iran, that that made it appropriate and comfortable for you to do this?
 <br/><br/><strong>Mr. HAKIM</strong>: No, sir. My understanding is very different than
-that. My understanding is that we here wrongfully m the United
+that. My understanding is that we here wrongfully in the United
 States have created a shield and the name of that shield is called
 terrorism. We say Moslem plus Middle East equals terrorism, and
 we are hiding behind this excuse and we are not doing the right
 things to approach the Iranians, sir.
-<br/><br/><strong>Mr. LIMAN</strong>: And you felt that you knew better than the Secre-
-tary of State? Is that fair?
+<br/><br/><strong>Mr. LIMAN</strong>: And you felt that you knew better than the Secretary of State? Is that fair?
 <br/><br/><strong>Mr. HAKIM</strong>: What I am saying, that I knew and I know now
 better as to how to communicate with the Iranians.
 
