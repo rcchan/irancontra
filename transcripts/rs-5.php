@@ -17,7 +17,7 @@ of the United States had to support or defend you or your operation?
 States was well aware of what we were doing, Congressman Stokes.
 As a consequence, the Attorney General it seemed to me had a responsibility to get more than just an incidental dose of the facts
 before going public with such a startling story.
-He could have at least accorded us the opportunity to place ourselves. I mean, we were totally stunned and shocked. That is why
+He could have at least accorded us the opportunity, within my organization, to brace ourselves. I mean, we were totally stunned and shocked. That is why
 all of us felt betrayed.
 
 
