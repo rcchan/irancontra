@@ -16,7 +16,8 @@ Closing Statement by Rep. Hamilton
 
 Day 40: August 3, 1987
 
-</h3></td></tr><td colspan=2><p>Co-Chair Rep. Hamilton states, “the Constitution is not a burden in the making of policy, but a source of strength.”</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Co-Chair Rep. Hamilton states, “the Constitution is not a burden in the making of policy, but a source of strength.”</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/cs-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/cs-4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

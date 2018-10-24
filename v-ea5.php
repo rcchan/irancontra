@@ -8,7 +8,8 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>Abrams and Sen. Inouye on Being "Immoral"</h2>
-<h3>Day 15, Part 1: June 3, 1987</h3></td></tr><td colspan=2><p>Co-Chairman Sen. Daniel Inouye (D-HI) questions Abrams about his claim that Congress’ Contra policy was “immoral.” </p>  <br /><br /></td></tr>
+<h3>Day 15, Part 1: June 3, 1987</h3></td></tr>
+<td colspan=2><p>Co-Chairman Sen. Daniel Inouye (D-HI) questions Abrams about his claim that Congress’ Contra policy was “immoral.” </p>  <br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ea-4.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ah-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

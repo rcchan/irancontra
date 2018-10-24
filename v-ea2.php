@@ -8,7 +8,8 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>Abrams on Soliciting Brunei</h2>
-<h3>Day 14: June 2, 1987</h3></td></tr><td colspan=2><p>Abrams describes soliciting a  million donation from Brunei and keeping it secret from the Contras. </p>  <br /><br /></td></tr>
+<h3>Day 14: June 2, 1987</h3></td></tr>
+<td colspan=2><p>Abrams describes soliciting a  million donation from Brunei and keeping it secret from the Contras. </p>  <br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ea-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ea-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

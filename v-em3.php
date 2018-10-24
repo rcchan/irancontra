@@ -16,7 +16,8 @@ Meese on Boland's Applicability to the NSC
 
 Day 36: July 28, 1987
 
-</h3></td></tr><td colspan=2><p>The attorney general states that the Department of Justice was not asked if the Boland Amendment applied to the National Security Council.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>The attorney general states that the Department of Justice was not asked if the Boland Amendment applied to the National Security Council.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/em-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/em-4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

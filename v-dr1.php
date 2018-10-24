@@ -16,7 +16,8 @@ Regan on the "Bait and Switch"
 
 Day 38: July 30, 1987
 
-</h3></td></tr><td colspan=2><p>The former chief of staff states that Iran pulled a “bait and switch” on the U.S. regarding arms-for-hostages.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>The former chief of staff states that Iran pulled a “bait and switch” on the U.S. regarding arms-for-hostages.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/em-7.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/dr-2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

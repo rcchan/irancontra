@@ -16,7 +16,8 @@ Shultz on Reagan's Insistence on Hostage Recovery
 
 Day 34: June 23, 1987
 
-</h3></td></tr><td colspan=2><p>Secretary of Defense Caspar Weinberger raised legal issues regarding the arms trade, but Reagan reasoned, “The American people will never forgive me if I fail to get these hostages out over this legal question,” according to Shultz.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Secretary of Defense Caspar Weinberger raised legal issues regarding the arms trade, but Reagan reasoned, “The American people will never forgive me if I fail to get these hostages out over this legal question,” according to Shultz.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/gs-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/gs-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

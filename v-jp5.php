@@ -16,7 +16,8 @@ Poindexter on What Reagan Approved
 
 Day 29: July 15, 1987
 
-</h3></td></tr><td colspan=2><p>Poindexter recalls learning—and informing Reagan—about the Enterprise’s plan to negotiate a hostage release in exchange for U.S. help with freeing “Dawa” terrorists.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Poindexter recalls learning—and informing Reagan—about the Enterprise’s plan to negotiate a hostage release in exchange for U.S. help with freeing “Dawa” terrorists.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/jp-4.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-6.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

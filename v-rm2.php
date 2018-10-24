@@ -8,7 +8,8 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>McFarlane on Choosing Which Hostages Should Be Freed</h2>
-<h3>Day 5: May 11, 1987</h3></td></tr><td colspan=2><p>The former head of the National Security Council discusses picking which hostages he wanted freed. </p>  <br /><br /></td></tr>
+<h3>Day 5: May 11, 1987</h3></td></tr>
+<td colspan=2><p>The former head of the National Security Council discusses picking which hostages he wanted freed. </p>  <br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/rm-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rm-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

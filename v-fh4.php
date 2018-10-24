@@ -15,7 +15,8 @@ Hall on Hiding Documents Under Her Clothes
 
 Day 19: June 9, 1987
 
-</h3></td></tr><td colspan=2><p>Hall testifies that she smuggled documents out of North’s office by hiding them under her clothes.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Hall testifies that she smuggled documents out of North’s office by hiding them under her clothes.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/fh-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/fh-5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

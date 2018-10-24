@@ -16,7 +16,8 @@ Closing Statement by Sen. Rudman
 
 Day 40: August 3, 1987
 
-</h3></td></tr><td colspan=2><p>Sen. Rudman blames much of the affairs on the decisions of the National Security Council.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Sen. Rudman blames much of the affairs on the decisions of the National Security Council.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/cs-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/cs-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
