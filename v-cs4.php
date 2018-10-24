@@ -37,20 +37,6 @@ The hearings showed, in the words of Co-Chair Sen. Inouye, that “in America, a
 <td align="justify" valign="top">
 
 <video controls style="max-width: 100%;"><source src="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/videos/cut/program.6275.MP4-M20.13605.602.mp4" type="video/mp4"></video>
-codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/
-swflash.cab#version=9,0,0,0' align='middle' height='500' width='410'><param
-name='allowScriptAccess' value='true'/><param name='movie' value='http://
-www.c-spanvideo.org/videoLibrary/assets/swf/CSPANPlayer.swf?clipid=4441692'/
-><param name='quality' value='high'/><param name='bgcolor' value='#ffffff'/><param
-name='allowFullScreen' value='true'/><param name='flashvars' value='system=http:/
-/www.c-spanvideo.org/common/services/flashXml.php?clipid=4441692&style=full'/
-><embed name='cspan-video-player' src='http://www.c-spanvideo.org/videoLibrary/
-assets/swf/CSPANPlayer.swf?clipid=4441692' allowScriptAccess='always' bgcolor='#ffffff'
-quality='high' allowFullScreen='true' type='application/x-shockwave-flash' pluginspage='http:/
-/www.macromedia.com/go/getflashplayer' flashvars='system=http://www.c-spanvideo.org/
-common/services/flashXml.php?clipid=4441692&style=full' align='middle' height='500'
-width='410'></embed></object>
-   
 </td></tr></table><br /><br />
 </div>
 <? require ('templates/footer.php'); ?>
