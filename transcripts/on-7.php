@@ -7,7 +7,7 @@
 <body>
 <div style="width:325px"><font class="transcript">
 
-<strong>NORTH</strong>: I must confess to you, Mr. Nields, and I think you have seen it in
+<strong>NORTH</strong>: ...I must confess to you, Mr. Nields, and I think you have seen it in
 my messages to my superiors, I was not entirely comfortable with
 the arrangements that had been worked in the summer of 1985
 and in the autumn-winter of 1985.<br/><br/>
@@ -32,7 +32,7 @@ good one.<br/><br/>
 I still do. I don't think it was wrong. I think it was a neat idea
 and I came back and I advocated that and we did it; we did it on
 three occasions.<br/><br/>
-These three occasions were February, May and October, and in
+These three occasions were February, May, and October, and in
 each one of those occasions, as a consequence of that whole process,
 we got three Americans back and there was no terrorism while we
 were engaged in it against Americans. 
