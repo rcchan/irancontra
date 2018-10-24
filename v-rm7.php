@@ -9,7 +9,7 @@
 <tr>
 <td colspan=2 height=75><h2>McFarlane and Sen. Mitchell on Misleading Testimony</h2>
 <h3>Day 7: May 13, 1987</h3></td></tr>
-<td colspan=2><p>Sen. George Mitchell (D-ME) asks McFarlane if he “deliberately misled” Congress in earlier testimony. </p>  <br /><br /></td></tr>
+<td colspan=2><p>Sen. Mitchell questions National Security Advisor McFarlane about the shredding party Col. North was having and asks why McFarlane does not try to stop North. Mitchell then goes on to question McFarlane as to whether he gave misleading testimony to Congress and the Attorney General.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/rm-6.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rm-8.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

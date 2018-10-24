@@ -17,7 +17,7 @@ Weinberger on Who Was Winning the Iran-Iraq War
 Day 39, Part 2: July 31, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Weinberger testifies that he did not believe Iran was losing its war with Iraq.</p><br /><br /></td></tr>
+<td colspan=2><p>Sec. of Defense Weinberger testifies that he did not believe Iran was losing its war with Iraq. This is different from the memo that was sent to the President from Adm. Poindexter, which stated that "the Israelis are very concerned about Iran's deteriorating position in the war with Iraq." Weinberger says that if he had been consulted about this line in the memo, he would have told the President that he did not agree with this Israeli view.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/dr-5.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/cw-2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

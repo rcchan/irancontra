@@ -17,7 +17,7 @@ Rep. Foley Questions Hall About Shredding of Documents
 Day 19: June 9, 1987
 
 </h3></td></tr>
-<td colspan=2><p>After Rep. Thomas Foley (D-WA) asks Hall about altering documents, she states, “Sometimes you have to go above the written law.”</p><br /><br /></td></tr>
+<td colspan=2><p>Ms. Hall says she felt uneasy about shredding documents, but believed in Col. North and thought he had valid reasons. She knew that it was a gross violation of the security of documents to remove classified documents and shred them. She wishes she could undo what she did.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/fh-5.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/on-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

@@ -17,7 +17,7 @@ Poindexter on Insulating Reagan
 Day 29: July 15, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Even though he assumed Reagan would approve of the Diversion, Poindexter claims that he kept Reagan in the dark.</p><br /><br /></td></tr>
+<td colspan=2><p>Adm. Poindexter explains how he insulated President Reagan from the operation in order to prevent the President from being embarrassed, but he believes that if he had asked Reagan, Regan would have approved. Poindexter also claims that the "buck stops with me" because he was the one who ultimately made the decision.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/jp-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

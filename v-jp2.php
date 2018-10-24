@@ -17,7 +17,7 @@ Poindexter on Reagan's Knowledge of Selling Arms to Iran
 Day 29: July 15, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Poindexter says that Reagan was willing to take risks to rescue the hostages.</p><br /><br /></td></tr>
+<td colspan=2><p>Adm. Poindexter discusses selling arms to Iran, and states that President Reagan wanted to take the opportunity to get the hostages back, without leaving "any stone unturned."</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/jp-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

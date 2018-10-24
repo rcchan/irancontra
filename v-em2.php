@@ -17,7 +17,7 @@ Meese on What Poindexter and the White House Knew
 Day 36: July 28, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Meese testifies that Adm. Poindexter “did nothing to follow up or stop” North’s work on the Diversion.</p><br /><br /></td></tr>
+<td colspan=2><p>Atty. Gen. Meese testifies that Adm. Poindexter said he did nothing to follow up or stop Col. Norths work on the diversion of funds. Meese also says that Poindexter told him he did not inform the White House of North's efforts.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/em-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/em-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

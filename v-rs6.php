@@ -9,7 +9,7 @@
 <tr>
 <td colspan=2 height=75><h2>Secord and Sen. Boren on Secord's Expertise</h2>
 <h3>Day 3: May 7, 1987</h3></td></tr>
-<td colspan=2><p>Sen. David Boren (D-OK) questions the constitutionality of Secord’s private policymaking.</p>  <br /><br /></td></tr>
+<td colspan=2><p>Sen. Boren questions Gen. Secord about why Secord thought it was acceptable to exercise so much personal judgement in making important decisions for the United States, when he a private citizen.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/rs-5.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rs-7.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

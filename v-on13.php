@@ -17,7 +17,7 @@ North on Getting Fired and Covering Up the Diversion
 Day 25: July 9, 1987
 
 </h3></td></tr>
-<td colspan=2><p>North describes the events of his firing, the time at which Poindexter told him that the president did not know about the Diversion.</p><br /><br /></td></tr>
+<td colspan=2><p>Col. North describes the events of his firing, the time at which Adm. Poindexter told him that the President did not know about the diversion of funds.</p></td></tr>
 <tr><td align="left">&laquo; <a href="v-on12.php" class="content_link">Previous</a></td><td align="right"><a href="v-on14.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

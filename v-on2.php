@@ -17,7 +17,7 @@ North on Shredding
 Day 23: July 7, 1987
 
 </h3></td></tr>
-<td colspan=2><p>North explains that shredding happened every day in his office.</p><br /><br /></td></tr>
+<td colspan=2><p>Col. North states he had been shredding documents since mid-October, when he saw their operations "unravelling." He also says that because he knew he would be leaving the National Security Council soon, he shredded documents so that new people would not come into his office and open files that would potentially expose people at risk.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/on-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/on-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

@@ -17,7 +17,7 @@ Regan on the "Bait and Switch"
 Day 38: July 30, 1987
 
 </h3></td></tr>
-<td colspan=2><p>The former chief of staff states that Iran pulled a “bait and switch” on the U.S. regarding arms-for-hostages.</p><br /><br /></td></tr>
+<td colspan=2><p>Chief of Staff Regan states that President Reagan was aware that 1,000 TOW missiles had been shipped to Iran from the United States and had approved them in order to try to free American hostages held in Lebanon. However, when no prisoners were released, Regan states that he thought shipments should be terminated, but did not tell the President. It becomes evident to Regan that Iran pulled a bait and switch on the United States.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/em-7.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/dr-2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

@@ -17,7 +17,7 @@ North on His Family's Safety and Meeting Abu Nidal
 Day 24: July 8, 1987
 
 </h3></td></tr>
-<td colspan=2><p>“I will be glad to meet Abu Nidal on equal terms anywhere in the world,” North declares. “But I am not willing to have my wife and my four children meet Abu Nidal or his organization on his terms.”</p><br /><br /></td></tr>
+<td colspan=2><p>Col. North explains why he had a ,500 security system installed in his home. He states that he was denied protection from the U.S. government for his wife and children and was terrified that Abu Nidal would harm them.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/on-7.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/on-9.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

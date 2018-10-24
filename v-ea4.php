@@ -9,7 +9,7 @@
 <tr>
 <td colspan=2 height=75><h2>Abrams and Sen. Nunn on Secretly Operating Government</h2>
 <h3>Day 15, Part 1: June 3, 1987</h3></td></tr>
-<td colspan=2><p>Abrams and Sen. Sam Nunn (D-GA) discuss how to operate the Executive Branch when there is so much secrecy. </p>  <br /><br /></td></tr>
+<td colspan=2><p>Asst. Sec. of State Abrams and Sen. Nunn discuss problems when operating in secrecy intra-Executive Branch.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ea-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ea-5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
