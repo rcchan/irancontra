@@ -10,7 +10,7 @@
 <strong>Mr. HAMILTON</strong>. The committees have heard about 240 hours of testimony over
 the last 11 weeks from over thirty witnesses. They have examined
 well over 200,000 documents.
-Several themes emerged.<br />
+Several themes emerged.<br /><br />
 There was too little accountability for decisions and actions
 taken in the name of elected officials.
 There was too much secrecy and deception in government. Information was withheld from the Congress, other officials, friends and
