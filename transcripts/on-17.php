@@ -29,7 +29,7 @@ shouldn't do it?
 <br/><br/><strong>Mr. LIMAN</strong>: It is an exhibit here. We don't have to go over it.
 <br/><br/><strong>Mr. NORTH</strong>: I recall it.
 <br/><br/><strong>Mr. LIMAN</strong>: But that really was the spirit, wasn't it, of it all?
-Don't infect other people with knowledge
+Don't infect other people with knowledge-
 <br/><br/><strong>Mr. NORTH</strong>: Unnecessary knowledge is the term.
 <br/><br/><strong>Mr. LIMAN</strong>: You do it, you provide the deniable link, you take
 the rap if it gets exposed? That was what this was all about, right?
@@ -47,7 +47,7 @@ yourself—you described yourself as an action-oriented person, correct?
 <br/><br/><strong>Mr. LIMAN</strong>: And it would get fixed, right?
 <br/><br/><strong>Mr. NORTH</strong>: Usually.
 <br/><br/><strong>Mr. LIMAN</strong>: And you could cut through red tape, right?
-<br/><br/><strong>Mr. NORTH</strong>: Didn’ say that in the statement.
+<br/><br/><strong>Mr. NORTH</strong>: Didn’t say that in the statement.
 <br/><br/><strong>Mr. LIMAN</strong>: We understand each other. I have read enough of
 what you have written.
 <br/><br/><strong>Mr. NORTH</strong>: Mr. Liman, let me just say one thing. I think it is
