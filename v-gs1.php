@@ -17,7 +17,7 @@ Shultz on Opposing Arms For Hostages
 Day 34: June 23, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Secretary Shultz testifies that he opposed the arms-for-hostages deal.</p><br /><br /></td></tr>
+<td colspan=2><p>Sec. of State Shultz explains the arms-for-hostages deal and ultimately states that because no hostages were released, he opposed the deal.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/jp-9.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/gs-2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

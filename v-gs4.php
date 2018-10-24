@@ -17,7 +17,7 @@ Shultz on How Reagan Was "Deceived and Lied To"
 Day 34: June 23, 1987
 
 </h3></td></tr>
-<td colspan=2><p>“We've been deceived and lied to and you have to watch out about saying no arms for hostages,” Shultz said he told Reagan as the affairs came to light.</p><br /><br /></td></tr>
+<td colspan=2><p>Sec. of State Shultz describes when he told President Reagan that he was being deceived and lied to and how Reagan reacted.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/gs-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/gs-5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

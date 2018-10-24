@@ -9,7 +9,7 @@
 <tr>
 <td colspan=2 height=75><h2>Secord on Reagan's Awareness</h2>
 <h3>Day 3: May 7, 1987</h3></td></tr>
-<td colspan=2><p>Secord says he thought President Reagan knew about The Enterprise’s activities.</p>  <br /><br /></td></tr>
+<td colspan=2><p>Gen. Secord says he thought President Reagan knew about The Enterprises activities. Secord believes that Atty. Gen. Meese should have collected more facts before going public with a sensational story.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/rs-4.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rs-6.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

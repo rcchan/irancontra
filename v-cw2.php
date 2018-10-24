@@ -17,7 +17,7 @@ Secretary of Defense Weinberger Explains Why He Opposed Selling Weapons to Iran
 Day 39, Part 2: July 31, 1987
 
 </h3></td></tr>
-<td colspan=2><p>The secretary of defense tells Rep. Les Aspin (D-WI) that he opposed diplomacy with Iran because there were no moderates with whom to deal.</p><br /><br /></td></tr>
+<td colspan=2><p>Sec. of Defense Weinberger tells Rep. Aspin that he opposed selling arms to Iran due to intelligence that there was no moderate element with whom to deal. However, it appears that the intelligence upon which Weinberger made his assessment was incorrect.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/cw-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/cw-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

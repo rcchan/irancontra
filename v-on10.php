@@ -17,7 +17,7 @@ North on Who in the Cabinet Knew What
 Day 24: July 8, 1987
 
 </h3></td></tr>
-<td colspan=2><p>North claims that Secretary of State George Shultz and Secretary of Defense Caspar Weinberger knew about his activities.</p><br /><br /></td></tr>
+<td colspan=2><p>Col. North claims that Sec. of State Shultz and Sec. of Defense Weinberger knew about his activities. North states that others knew what he was doing, and even when he was fired, Amb. Oakley told him he had done an remarkable job at keeping the Nicaraguan Resistance alive. North says he was willing to be a political scapegoat.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/on-9.php" class="content_link">Previous</a></td><td align="right"><a href="v-on11.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

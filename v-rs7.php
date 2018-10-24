@@ -9,7 +9,7 @@
 <tr>
 <td colspan=2 height=75><h2>Secord and Broomfield Discuss Covert Operations</h2>
 <h3>Day 4: May 8, 1987</h3></td></tr>
-<td colspan=2><p>Rep. William Broomfield (R-MI) asks Secord about the “proper roles” in foreign policy of the Executive Branch and Legislative Branch.</p>  <br /><br /></td></tr>
+<td colspan=2><p>Rep. Broomfield thinks that Congress "ought to shoulder the blame for an on-again/off-again foreign policy in Nicaragua." Gen. Secord states that the President should have the right to oversee covert operations without telling Congress or the public. He also says that the "whole world is laughing at us" because of the trials.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/rs-6.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rm-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

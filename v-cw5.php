@@ -17,7 +17,7 @@ President Reagan Takes Poindexters Advice - Contrary to Opinion of Rest of Cabin
 Day 40: August 3, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Sen. Sam Nunn (D-GA) questions Weinberger on the lack of communication among members of the Cabinet.</p><br /><br /></td></tr>
+<td colspan=2><p>Sen. Nunn questions Sec. of Defense Weinberger on the lack of communication among members of the Cabinet. It is revealed that President Reagan signed a Finding in January that was premised on information that was totally wrong as far as the assessment of the United States goes.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/cw-4.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/cs-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

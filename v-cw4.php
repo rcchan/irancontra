@@ -17,7 +17,7 @@ Weinberger Tells Sen. Sarbanes About "People With Their Own Agenda"
 Day 39, Part 2: July 31, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Sen. Paul Sarbanes (D-MD) asks Weinberger how and why Poindexter kept him, Secretary of State Shultz, and President Reagan in the dark.</p><br /><br /></td></tr>
+<td colspan=2><p>Sen. Sarbanes asks Sec. of Defense Weinberger how and why Adm. Poindexter kept him, Sec. of State Shultz, and President Reagan in the dark. Weinberger says that the people who wanted the President to approve of this plan tried to keep those who would disagree away so that they could not convince the President to change the plan.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/cw-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/cw-5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

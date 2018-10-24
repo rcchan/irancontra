@@ -17,7 +17,7 @@ North on Reagan's "Body and Soul" Request
 Day 25: July 9, 1987
 
 </h3></td></tr>
-<td colspan=2><p>North testifies that Reagan passed down the instruction to keep the Contras alive in “body and soul.”</p><br /><br /></td></tr>
+<td colspan=2><p>Col. North testifies that President Reagan passed down the instruction to keep the Contras alive in body and soul.</p></td></tr>
 <tr><td align="left">&laquo; <a href="v-on15.php" class="content_link">Previous</a></td><td align="right"><a href="v-on17.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

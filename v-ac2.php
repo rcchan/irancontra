@@ -9,7 +9,7 @@
 <tr>
 <td colspan=2 height=75><h2>Calero on Arms Payments in Consultation with Oliver North</h2>
 <h3>Day 10, Part 1: May 20, 1987</h3></td></tr>
-<td colspan=2><p>Calero describes purchasing arms in consultation with Lt. Col. Oliver North. </p>  <br /><br /></td></tr>
+<td colspan=2><p>Mr. Calero admits to purchasing 9 million from the U.S. government to buy arms and ammunition in consultation with Col. North.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ac-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ac-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

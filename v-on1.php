@@ -17,7 +17,7 @@ North: "What the President Knew"
 Day 23: July 7, 1987
 
 </h3></td></tr>
-<td colspan=2><p>North begins by saying he is “here to tell it all.”</p><br /><br /></td></tr>
+<td colspan=2><p>Col. North states that he believed all along that his superiors had explicit approval from President Reagan. However, when he explicitly asked Adm. Poindexter on November 21 if the President knew, Poindexter told North that the President did not know.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/fh-6.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/on-2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

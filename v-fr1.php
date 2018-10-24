@@ -9,7 +9,7 @@
 <tr>
 <td colspan=2 height=75><h2>Rodriguez on Bush Meeting</h2>
 <h3>Day 12, Part 2: May 27, 1987</h3></td></tr>
-<td colspan=2><p>Rodriguez testifies that he showed the vice president his photo album, but they did not discuss the war in Nicaragua. </p>  <br /><br /></td></tr>
+<td colspan=2><p>CIA Officer Rodriguez testifies that he showed the Vice President his photo album, but they did not discuss the war in Nicaragua.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ac-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/fr-2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

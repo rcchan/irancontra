@@ -17,7 +17,7 @@ President Reagan Refuses to Discuss Pardoning North or Poindexter
 Day 39, Part 1: July 31, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Responding to Rep. Louis Stokes (D-OH), Regan recalls that Reagan felt that a preemptive pardon for either North or Poindexter would mean a presumption of guilt.</p><br /><br /></td></tr>
+<td colspan=2><p>Responding to Rep. Stokes, Chief of Staff Regan recalls that President Reagan refused to discuss pardoning Col. North or Adm. Poindexter as doing so would constitute a presumption of guilt.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/dr-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/dr-5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
