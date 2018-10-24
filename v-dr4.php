@@ -6,13 +6,13 @@
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
     
-Rep. Stokes Questions Regan on Reagan's Immunity Decisions
+President Reagan Refuses to Discuss Pardoning North or Poindexter
 
 </div>
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>Rep. Stokes Questions Regan on Reagan's Immunity Decisions</h2><h3>
+<td colspan=2 height=75><h2>President Reagan Refuses to Discuss Pardoning North or Poindexter</h2><h3>
 
 Day 39, Part 1: July 31, 1987
 

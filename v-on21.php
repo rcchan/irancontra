@@ -6,13 +6,13 @@
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
     
-Rep. Hamilton on Patriotism
+Rep. Hamilton on Patriotism and the Law
 
 </div>
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>Rep. Hamilton on Patriotism</h2><h3>
+<td colspan=2 height=75><h2>Rep. Hamilton on Patriotism and the Law</h2><h3>
 
 Day 28, Part 1: July 14, 1987
 

@@ -6,13 +6,13 @@
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
     
-Rep. Aspin Questions Weinberger on Not Dealing with Iranian Moderates
+Secretary of Defense Weinberger Explains Why He Opposed Selling Weapons to Iran
 
 </div>
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>Rep. Aspin Questions Weinberger on Not Dealing with Iranian Moderates</h2><h3>
+<td colspan=2 height=75><h2>Secretary of Defense Weinberger Explains Why He Opposed Selling Weapons to Iran</h2><h3>
 
 Day 39, Part 2: July 31, 1987
 

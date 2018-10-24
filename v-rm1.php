@@ -4,10 +4,10 @@
 <? require ('templates/hearingsbanner.php'); ?>
     
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; McFarlane on Reagan's Meeting with Saudi Leader</div>
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; McFarlane on Reagan's Meeting With Saudi Leader</div>
 <table>
 <tr>
-<td colspan=2 height=75><h2>McFarlane on Reagan's Meeting with Saudi Leader</h2>
+<td colspan=2 height=75><h2>McFarlane on Reagan's Meeting With Saudi Leader</h2>
 <h3>Day 5: May 11, 1987</h3></td></tr>
 <td colspan=2><p>McFarlane describes Reagan’s meeting with the leader of “Country Two”— known to refer to Saudi Arabia and King Fahd. </p>
   <br /><br />

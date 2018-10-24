@@ -6,13 +6,13 @@
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
     
-North on the Democratic Process and "Difference Between Lives and Lies"
+North on Lying to Congress
 
 </div>
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>North on the Democratic Process and "Difference Between Lives and Lies"</h2><h3>
+<td colspan=2 height=75><h2>North on Lying to Congress</h2><h3>
 
 Day 24: July 8, 1987
 

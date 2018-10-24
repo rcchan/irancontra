@@ -6,13 +6,13 @@
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
     
-North on Shredding Embarassing Documents
+North on Shredding Embarrassing Documents
 
 </div>
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>North on Shredding Embarassing Documents</h2><h3>
+<td colspan=2 height=75><h2>North on Shredding Embarrassing Documents</h2><h3>
 
 Day 25: July 9, 1987
 

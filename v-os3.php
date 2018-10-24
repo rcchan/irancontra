@@ -4,10 +4,10 @@
 <? require ('templates/hearingsbanner.php'); ?>
     
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Opening Statement by Senator Rudman</div>
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Opening Statement by Sen. Rudman</div>
 <table>
 <tr>
-<td colspan=2 height=75><h2>Opening Statement by Senator Rudman</h2>
+<td colspan=2 height=75><h2>Opening Statement by Sen. Rudman</h2>
 <h3>Day 1: May 5, 1987</h3></td></tr>
 <td colspan=2>Sen. Rudman quotes Winston Churchill on democracy.<br /><br />
 </td></tr>

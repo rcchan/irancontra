@@ -4,10 +4,10 @@
 <? require ('templates/hearingsbanner.php'); ?>
     
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Secord on the Enterprise's Profits</div>
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Secord on The Enterprise's Profits</div>
 <table>
 <tr>
-<td colspan=2 height=75><h2>Secord on the Enterprise's Profits</h2>
+<td colspan=2 height=75><h2>Secord on The Enterprise's Profits</h2>
 <h3>Day 3: May 7, 1987</h3></td></tr>
 <td colspan=2><p>Secord explains how The Enterprise made profits off the arm sales.</p>
   <br /><br />

@@ -6,13 +6,13 @@
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
     
-Poindexter on Keeping Reagan's Unaware
+Poindexter on Insulating Reagan
 
 </div>
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>Poindexter on Keeping Reagan's Unaware</h2><h3>
+<td colspan=2 height=75><h2>Poindexter on Insulating Reagan</h2><h3>
 
 Day 29: July 15, 1987
 

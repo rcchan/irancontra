@@ -4,10 +4,10 @@
 <? require ('templates/hearingsbanner.php'); ?>
     
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; McFarlane and Senator Mitchell on Misleading Testimony</div>
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; McFarlane and Sen. Cohen on Casey's Influence</div>
 <table>
 <tr>
-<td colspan=2 height=75><h2>McFarlane and Senator Mitchell on Misleading Testimony</h2>
+<td colspan=2 height=75><h2>McFarlane and Sen. Cohen on Casey's Influence</h2>
 <h3>Day 7: May 13, 1987</h3></td></tr>
 <td colspan=2><p>McFarlane tells Sen. William Cohen (R-ME) that the late CIA Director William Casey had a large influence on Lt. Col. Oliver North’s decisions. </p>
   <br /><br />

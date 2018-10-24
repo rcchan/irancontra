@@ -4,10 +4,10 @@
 <? require ('templates/hearingsbanner.php'); ?>
     
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; McFarlane on Choosing Freed Hostages</div>
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; McFarlane on Choosing Which Hostages Should Be Freed</div>
 <table>
 <tr>
-<td colspan=2 height=75><h2>McFarlane on Choosing Freed Hostages</h2>
+<td colspan=2 height=75><h2>McFarlane on Choosing Which Hostages Should Be Freed</h2>
 <h3>Day 5: May 11, 1987</h3></td></tr>
 <td colspan=2><p>The former head of the National Security Council discusses picking which hostages he wanted freed. </p>
   <br /><br />

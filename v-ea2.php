@@ -4,10 +4,10 @@
 <? require ('templates/hearingsbanner.php'); ?>
     
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Abrams on Soliticing Brunei</div>
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Abrams on Soliciting Brunei</div>
 <table>
 <tr>
-<td colspan=2 height=75><h2>Abrams on Soliticing Brunei</h2>
+<td colspan=2 height=75><h2>Abrams on Soliciting Brunei</h2>
 <h3>Day 14: June 2, 1987</h3></td></tr>
 <td colspan=2><p>Abrams describes soliciting a $10 million donation from Brunei and keeping it secret from the Contras. </p>
   <br /><br />

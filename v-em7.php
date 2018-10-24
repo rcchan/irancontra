@@ -6,13 +6,13 @@
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
     <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
     
-Sen. Nunn Asks Meese About His Gathering of Information
+Sen. Nunn Questions Meese About the Questions He Asked
 
 </div>
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>Sen. Nunn Asks Meese About His Gathering of Information</h2><h3>
+<td colspan=2 height=75><h2>Sen. Nunn Questions Meese About the Questions He Asked</h2><h3>
 
 Day 37: July 29, 1987
 

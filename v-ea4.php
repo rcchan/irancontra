@@ -4,10 +4,10 @@
 <? require ('templates/hearingsbanner.php'); ?>
     
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Abrams and Sen. Nunn on How to Operate Government</div>
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Abrams and Sen. Nunn on Secretly Operating Government</div>
 <table>
 <tr>
-<td colspan=2 height=75><h2>Abrams and Sen. Nunn on How to Operate Government</h2>
+<td colspan=2 height=75><h2>Abrams and Sen. Nunn on Secretly Operating Government</h2>
 <h3>Day 15, Part 1: June 3, 1987</h3></td></tr>
 <td colspan=2><p>Abrams and Sen. Sam Nunn (D-GA) discuss how to operate the Executive Branch when there is so much secrecy. </p>
   <br /><br />
