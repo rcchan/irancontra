@@ -12,7 +12,7 @@ told by the Attorney General about the diversion of funds; is that
 correct?
 <br/><br/><strong>Mr. REGAN</strong>: Yes.
 <br/><br/><strong>Mr. SMILJANICH</strong>: That's Monday. He told you before the information got to the President?
-<br/><br/><strong>Mr. REGAN</strong>: Yes. Not in detail but just as—there has been some
+<br/><br/><strong>Mr. REGAN</strong>: Yes. Not in detail but just as— there has been some
 diversion of funds here, apparently, and this is information we got
 to get to the President.
 <br/><br/><strong>Mr. SMILJANICH</strong>: All right. What was your reaction when you
@@ -39,7 +39,7 @@ discovered?
 <br/><br/><strong>Mr. REGAN</strong>: That's right.
 <br/><br/><strong>Mr. SMILJANICH</strong>: It was just the three of you in the Oval Office?
 <br/><br/><strong>Mr. REGAN</strong>: That's it.
-<br/><br/><strong>Mr. SMILJANICH</strong>: What was the President's reaction upon
+<br/><br/><strong>Mr. SMILJANICH</strong>: What was the President's reaction upon-
 <br/><br/><strong>Mr. REGAN</strong>: Deep distress, deep distress.
 You know, the question has been asked, I've seen it in the paper
 time and time again: did the President know? Let me put it this
@@ -48,7 +48,7 @@ Award if he knew anything about this when you watched his reaction to express co
 He couldn't have known it.
 <br/><br/><strong>Mr. SMILJANICH</strong>: It would be fair to say, based on his reaction, he
 didn't think it was such a neat idea?
-<br/><br/><strong>Mr. REGAN</strong>: No, I don't—I wouldn't characterize it that way at
+<br/><br/><strong>Mr. REGAN</strong>: No, I don't— I wouldn't characterize it that way at
 all.
 <br/><br/><strong>Mr. SMILJANICH</strong>: OK.
 Now, you knew nothing about the fact that there had been a
