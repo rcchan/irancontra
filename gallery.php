@@ -88,7 +88,7 @@
   <p>{{{description}}}</p>
 </script>
 <script>
-  Handlebars.registerHelper("duration", d => Math.floor(d / 60) + ':' + (s => s < 10 ? 0 + s : s)(d % 60));
+  Handlebars.registerHelper("duration", d => Math.floor(d / 60) + ':' + (s => s < 10 ? '0' + s : s)(d % 60));
   Handlebars.registerHelper('toUpperCase', s => s.toUpperCase());
   var initials = n => {
     var match = n.match(/^([A-Z])[A-Za-z]*\s+([A-Z])[A-Za-z]*$/);
