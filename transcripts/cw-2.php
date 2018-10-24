@@ -7,7 +7,7 @@
 <body>
 <div style="width:325px"><font class="transcript">
 
-<strong>Mr. ASPIN</strong>: Mr. Secretary, let me just for a little bit go over a few of these
+<strong>Mr. ASPIN</strong>: ...Mr. Secretary, let me just for a little bit go over a few of these
 issues and then maybe I will reserve some of my time.
 Let me ask a little bit about the policy that was undertaken and
 your attitude towards that policy. I take it that you, based upon
@@ -19,7 +19,7 @@ Government in its present hands. I didn't think there was anybody
 we could deal with that was not virulently anti-American, and I
 just didn't think it would work and I was, as you say, against the
 wlnole policy.
-<br/><br/><strong>Mr. ASPIN</strong>: Now, this is different
+<br/><br/><strong>Mr. ASPIN</strong>: Now, this is different-
 <br/><br/><strong>Secretary WEINBERGER</strong>: I did add a word in my comment to the
 effect it would be good if we could get a relationship with Iran as
 we used to have it under the Shah. It would be desirable to try to
@@ -33,7 +33,7 @@ the idea itself was not a bad idea, but that the particulars of it,
 namely selling arms as part of that, was wrong.
 But you are saying you just flat-out did not think that the idea of
 pursuing any kind of relationship with a moderate element in Iran,
-that that was not a
+that that was not a-
 <br/><br/><strong>Secretary WEINBERGER</strong>: I didn't think it was a good idea. I didn't
 think it was possible to do it. I did not think and do not think there
 is any moderate element in Iran that is still alive, and I think it
@@ -81,7 +81,7 @@ was a whole series of them.
 <br/><br/><strong>Mr. ASPIN</strong>: No, I didn't mean to imply that. I meant there was a
 series of either explicit or implicit assumptions behind this policy.
 <br/><br/><strong>Secretary WEINBERGER</strong>: Yes.
-<br/><br/><strong>Mr. ASPIN</strong>: I'm taking it that you just rejected it
+<br/><br/><strong>Mr. ASPIN</strong>: I'm taking it that you just rejected it-
 <br/><br/><strong>Secretary WEINBERGER</strong>: It was just contrary from everything I
 had heard, all the other intelligence that I've seen, my own personal views, and the knowledge that I had of the way the various battles in the war had gone and what they said about us, their support
 of international terrorism, just none of it rang true as far as I was
