@@ -6,7 +6,7 @@
 </head>
 <body>
 <div style="width:325px"><font class="transcript">
-<strong>Mr. POINDEXTER</strong>: Our objective here all along was to withhold information. There
+<strong>Mr. POINDEXTER</strong>: ...Our objective here all along was to withhold information. There
 is no question about that. And that was my intent all along. I had
 talked to Colonel North after talking to Chairman Hamilton and
 asking if he could meet with the committee, and he said that he
@@ -17,7 +17,7 @@ attach any great significance to it because I knew that the questions and answer
 I did not have any indication at this point that Colonel North
 had made a false statement. I expected him to withhold information. In fact, I am still not sure to this day, if you looked at the
 questions and the answers that he gave, whether you would conclude that there were false statements.
-<br/><br/><strong>Mr. LIMAN</strong>: Did you think that the most effective way of knocking down false allegations about Colonel North's activities was bywithholding information, the words you just used?
+<br/><br/><strong>Mr. LIMAN</strong>: Did you think that the most effective way of knocking down false allegations about Colonel North's activities was by withholding information, the words you just used?
 <br/><br/><strong>Mr. POINDEXTER</strong>: Yes. I thought that was an effective way of
 doing it.
 <br/><br/><strong>Mr. LIMAN</strong>: Now let's move on.
