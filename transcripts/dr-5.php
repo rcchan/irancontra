@@ -66,7 +66,7 @@ said, but only from a classified point of view.
 were deteriorating and losing the war?
 <br/><br/><strong>Mr. REGAN</strong>: I have a problem here, Mr. Chairman. This is very
 sensitive, classified material that we are discussing here in public.
-<br/><br/><strong>Mr. NUNN</strong>: I have been given—Mr. Chairman, I have checked
+<br/><br/><strong>Mr. NUNN</strong>: I have been given— Mr. Chairman, I have checked
 with the State Department very carefully on this, and I know exactly what is classified, and I know what is not.
 I won't push Mr. Regan on this, but it is not classified that the
 U.S. Government position at that time was that we felt the Iraqi
