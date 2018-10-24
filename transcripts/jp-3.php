@@ -7,7 +7,7 @@
 <body>
 <div style="width:325px"><font class="transcript">
 
-<strong>Mr. POINDEXTER</strong>: So although I was convinced that we could properly do it and
+<strong>Mr. POINDEXTER</strong>: ...So although I was convinced that we could properly do it and
 that the President would approve if asked, I made a very deliberate
 decision not to ask the President so that I could insulate him from
 the decision and provide some future deniability for the President
