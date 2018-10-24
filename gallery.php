@@ -10,7 +10,6 @@
 	<tr>
 		<td colspan='2' height='50'>
 			<h2>The Hearings: Video Gallery</h2>
-			<div style="font-weight:bold; text-align: center; border: 1px solid black; margin: 0 15%; padding: 10px;">Some videos embeds are not working due to technical issues with C-SPAN.<br />We are working on fixing the these. Those that should are marked with a *.</b>
 		</td>
 	</tr>
 	<tr>
