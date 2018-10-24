@@ -27,9 +27,9 @@ plan changed, counsel. I know that when I heard the words "criminal investigatio
 that were used in the press conference, or shortly thereafter—I
 don't—it was certainly profound at that point, that my mind-set
 changed considerably.
-<br/><br/><strong>Mr. LIMAN</strong>: Now, you had
+<br/><br/><strong>Mr. LIMAN</strong>: Now, you had-
 <br/><br/><strong>Mr. NORTH</strong>: And I think if you will indulge me for a second, over
-the 5l/2 years that I had served on the NSC staff, I had, as I hope I
+the 5½ years that I had served on the NSC staff, I had, as I hope I
 have testified here today, sought every possible means to do what
 needed to be done within the law.
 We had gone in extremis to find a way to live within the constraints and proscriptions of Roland, and I had sought a means in
@@ -53,7 +53,7 @@ it. We don't have to get the chair involved.
 <br/><br/><strong>Mr. LIMAN</strong>: The diversion.
 <br/><br/><strong>Mr. NORTH</strong>: I had consulted very carefully on Director—with Director Casey, and he—I don't know if approved is the right word.
 Director Casey was very enthusiastic about the whole program.
-<br/><br/><strong>Mr. LIMAN</strong>: Now
+<br/><br/><strong>Mr. LIMAN</strong>: Now-
 <br/><br/><strong>Mr. NORTH</strong>: And advocated it.
 <br/><br/><strong>Mr. LIMAN</strong>: When you met with the Attorney General on the
 afternoon of the 23d of November, he asked you about the diversion, correct?
@@ -86,7 +86,7 @@ you who—and you have seen who I sent memoranda to and you
 know of the record of communications I had with various officials.
 I don't know who else knew. I have told you that.
 <br/><br/><strong>Mr. LIMAN</strong>: Colonel, you have testified a moment ago—unless
-you misunderstood the question
+you misunderstood the question-
 <br/><br/><strong>Mr. SULLIVAN</strong>: Counsel, I think you were missing each other
 there.
 <br/><br/><strong>Mr. LIMAN</strong>: Well, we will soon see—that it was always part of
@@ -115,7 +115,7 @@ And so, when the Attorney General asked me about the President, I told him no.
 <br/><br/><strong>Mr. LIMAN</strong>: Isn't it a fact that what you told the Attorney General was that you didn't know whether or not he did know? Isn't that
 what you told McFarlane?
 <br/><br/><strong>Mr. NORTH</strong>: But I think the discussion with Mr. McFarlane was
-perhaps
+perhaps-
 <br/><br/><strong>Mr. LIMAN</strong>: No. The one in London, where he called you from
 London, when he asked you what the Attorney General had asked
 you.
@@ -204,9 +204,9 @@ me, sir.
 <br/><br/><strong>Mr. LIMAN</strong>: Did you say to him, "I received approval from Admiral Poindexter and Director Casey"?
 <br/><br/><strong>Mr. NORTH</strong>: I did not say those words to the Commander in
 Chief. I simply expressed my thanks for having been able to serve
-him for 5 1/2 years and my regrets that my service had brought
+him for 5½ years and my regrets that my service had brought
 forth a political fire storm and difficulties when all I sought to do
-was to help, and that what I may have done was to hurt hun.
+was to help, and that what I may have done was to hurt him.
 <br/><br/><strong>Mr. LIMAN</strong>: Now, when—when you were speaking to the Attorney General on the 23d, you understood that the Attorney General
 was not just the chief legal officer of the United States, but he was
 a confidant and friend of the President; correct?
@@ -223,7 +223,7 @@ that I didn't. I don't recall that conversation in any detail.
 It was consistent with a long pattern that Director Casey did not
 know about any support outside that provided by the CIA for the
 Nicaraguan Resistance.
-<br/><br/><strong>Mr. LIMAN</strong>: Colonel
+<br/><br/><strong>Mr. LIMAN</strong>: Colonel-
 <br/><br/><strong>Mr. NORTH</strong>: This was part of that.
 <br/><br/><strong>Mr. LIMAN</strong>: Colonel North, as late as November 23, were you still
 prepared to conceal from the Attorney General facts relating to Director Casey?
