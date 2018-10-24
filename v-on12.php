@@ -16,11 +16,7 @@ North on Why He's Not Lying Now
 
 Day 25: July 9, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-George Van Cleve, chief minority counsel, asks North why the committees should believe that he is telling the truth.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>George Van Cleve, chief minority counsel, asks North why the committees should believe that he is telling the truth.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="v-on11.php" class="content_link">Previous</a></td><td align="right"><a href="v-on13.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

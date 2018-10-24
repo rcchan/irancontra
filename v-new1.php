@@ -16,11 +16,7 @@ Sen. Mitchell on Patriotism and Disagreement With Government Policies
 
 Day 26: Jul 13, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-Sen. Mitchell tells Colonel North that Americans can be patriots and still disagree with government policies.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>Sen. Mitchell tells Colonel North that Americans can be patriots and still disagree with government policies.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/v-on19.php" class="content_link">Previous</a></td><td align="right"><a href="v-on20.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

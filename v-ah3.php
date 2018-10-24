@@ -8,10 +8,7 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>Hakim on North and the Hostages</h2>
-<h3>Day 15, Part 2: June 3, 1987</h3></td></tr>
-<td colspan=2><p>The Enterprise’s co-founder testifies that North wanted both to gain release of the hostages and to achieve a long-term relationship with Iran.</p>
-<br /><br />
-</td></tr>
+<h3>Day 15, Part 2: June 3, 1987</h3></td></tr><td colspan=2><p>The Enterprise’s co-founder testifies that North wanted both to gain release of the hostages and to achieve a long-term relationship with Iran.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ah-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ah-4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

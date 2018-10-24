@@ -16,11 +16,7 @@ Shultz on Casey's Power Grab
 
 Day 34: June 23, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-Shultz contends that Casey made a power grab for control of Iran policy.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>Shultz contends that Casey made a power grab for control of Iran policy.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/gs-4.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/gs-6.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

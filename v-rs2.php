@@ -8,10 +8,7 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>Secord on The Enterprise's Profits</h2>
-<h3>Day 3: May 7, 1987</h3></td></tr>
-<td colspan=2><p>Secord explains how The Enterprise made profits off the arm sales.</p>
-  <br /><br />
-</td></tr>
+<h3>Day 3: May 7, 1987</h3></td></tr><td colspan=2><p>Secord explains how The Enterprise made profits off the arm sales.</p>  <br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/rs-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rs-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

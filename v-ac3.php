@@ -8,10 +8,7 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>Calero on Reagan, Casey's Involvement</h2>
-<h3>Day 10, Part 1: May 20, 1987</h3></td></tr>
-<td colspan=2><p>Calero says he had a close relationship with “Uncle Bill,” his nickname for Casey. </p>
-  <br /><br />
-</td></tr>
+<h3>Day 10, Part 1: May 20, 1987</h3></td></tr><td colspan=2><p>Calero says he had a close relationship with “Uncle Bill,” his nickname for Casey. </p>  <br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ac-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/fr-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

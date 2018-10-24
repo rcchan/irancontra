@@ -16,11 +16,7 @@ North on Casey's Knowledge About the Diversion
 
 Day 24: July 8, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-The late CIA Director William Casey had many conversations with North about the Diversion, North testifies.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>The late CIA Director William Casey had many conversations with North about the Diversion, North testifies.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/on-8.php" class="content_link">Previous</a></td><td align="right"><a href="v-on10.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

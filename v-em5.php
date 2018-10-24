@@ -16,11 +16,7 @@ Sen. Mitchell Asks Meese About Not Taking Notes
 
 Day 37: July 29, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-Sen. Mitchell says it is “very difficult to accept” that Meese did not formally interview Adm. Poindexter in his investigation.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>Sen. Mitchell says it is “very difficult to accept” that Meese did not formally interview Adm. Poindexter in his investigation.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/em-4.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/em-6.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

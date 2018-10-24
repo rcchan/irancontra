@@ -16,11 +16,7 @@ Shultz on Whether He Was Kept Out of the Loop
 
 Day 35: June 24, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-After Sen. Mitchell asks Shultz why he was not informed about key decisions, the secretary of state insists that Reagan was not “deceiving” him.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>After Sen. Mitchell asks Shultz why he was not informed about key decisions, the secretary of state insists that Reagan was not “deceiving” him.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/gs-5.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/gs-7.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

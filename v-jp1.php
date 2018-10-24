@@ -16,11 +16,7 @@ Poindexter on Destroying the Finding
 
 Day 29: July 15, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-Poindexter describes watching Reagan sign the Finding approving sales of arms to Iran; Poindexter later destroyed the Finding, he admits.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>Poindexter describes watching Reagan sign the Finding approving sales of arms to Iran; Poindexter later destroyed the Finding, he admits.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="v-on22.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

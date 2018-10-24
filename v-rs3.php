@@ -8,10 +8,7 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>Secord and Counsel Getting Testy</h2>
-<h3>Day 3: May 7, 1987</h3></td></tr>
-<td colspan=2><p>Secord argues with Liman about signing a waiver for certain records.</p>
-  <br /><br />
-</td></tr>
+<h3>Day 3: May 7, 1987</h3></td></tr><td colspan=2><p>Secord argues with Liman about signing a waiver for certain records.</p>  <br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/rs-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rs-4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
