@@ -7,7 +7,7 @@
 <body>
 <div style="width:325px"><font class="transcript">
 
-<strong>Mr. SMILJANICH</strong>: All right. Now, you knew at the time that this
+<strong>Mr. SMILJANICH</strong>: ...Now, you knew at the time that this
 was ongoing that the President in September of 1985 had been informed of the 500 Israeli—500 TOWs that had been shipped by
 Israel.
 <br/><br/><strong>Mr. REGAN</strong>: Yes.
