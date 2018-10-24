@@ -21,7 +21,7 @@ support for the Contras?
 <br/><br/><strong>Mr. POINDEXTER</strong>: Yes. I was aware that he was doing what he
 could to pave the way for the logistics effort in the surrounding
 countries.
-<br/><br/><strong>Mr. LIMAN</strong>: And is it
+<br/><br/><strong>Mr. LIMAN</strong>: And is it-
 <br/><br/><strong>Mr. POINDEXTER</strong>: I would like to keep that general.
 <br/><br/><strong>Mr. LIMAN</strong>: Is it true you regarded Colonel North as the switching point that made this whole system work?
 <br/><br/><strong>Mr. POINDEXTER</strong>: Yes, that's correct.
