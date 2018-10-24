@@ -7,13 +7,13 @@
 <body>
 <div style="width:325px"><font class="transcript">
 
-<strong>Mr. RUDMAN</strong>: I want to ask you what is probably the single-most important question that we can ask you, which is one that none of us understand,
+<strong>Mr. RUDMAN</strong>: ...I want to ask you what is probably the single-most important question that we can ask you, which is one that none of us understand,
 and if you can explain it to us, we would be very grateful.
-By the morning that it was decided that Colonel North and Ad-
-miral Poindexter would be relieved of their posts, although
+By the morning that it was decided that Colonel North and
+Admiral Poindexter would be relieved of their posts, although
 major portions of the story, to your credit, there were many things
-that you didn't have. You didn't know how much money was in-
-volved from the people who were involved with it. You didn’t know
+that you didn't have. You didn't know how much money was
+involved from the people who were involved with it. You didn’t know
 who the agents were. You didn't know who else in government
 knew. I could go on.<br /><br />
 One thing came through loud and clear from both Admiral Poindexter
@@ -34,9 +34,9 @@ have been facts disclosed at that time that we still don't know.
 things you mentioned. We did know how much money was involved.
 Colonel North had· told us that he thought that there was
 about-there had been in this one particular situation about $12
-million involved, and he -felt that that had happened two or three
+million involved, and he felt that that had happened two or three
 times. That was the basis for my estimate during the news conference,
-that it was somewhere between $10- and $30 million that was
+that it was somewhere between $10 and $30 million that was
 involved. So we did have the word from Colonel North already at
 that time as to how much money was involved.
 Secondly, as to who the agents were, Colonel North in his description
@@ -92,16 +92,16 @@ and 24th.
 <br/><br/><strong>Attorney General MEESE</strong>: People have even made the statement,
 "I should have read him his Miranda rights." Obviously, there was
 no reason to read him at that time. But by the 25th, there certainly
-was reason to read him his Article 32 rights or Article 31—
-the case may be—under the Uniform Code of Military Justice.
+was reason to read him his Article 32 rights or Article 31
+—the case may be—under the Uniform Code of Military Justice.
 <br/><br/><strong>Mr. RUDMAN</strong>: I think, all things being equal, taking Colonel
 North's testimony that he would "literally stand on his head" if ordered
-by the Commander In Chief, it would have been time to have
+by the Commander in Chief, it would have been time to have
 a little history made and have them read their Article 31 or 32
 rights. I think this matter was so important that the President of the
-United States was ent itled to all of the facts from his two sub-
-ordinates before they left the White House, criminal charges not-
-withstanding. That is my view.
+United States was entitled to all of the facts from his two
+subordinates before they left the White House, criminal charges
+notwithstanding. That is my view.
 <br/><br/><strong>Attorney General MEESE</strong>: My view, Senator, is that we had all of
 that information before they left the White House and that not one
 thing that has been said since that time by Admiral Poindexter,
