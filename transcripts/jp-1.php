@@ -13,16 +13,16 @@ signed the Finding?
 recollection is very poor on are the circumstances of the President
 actually signing this. I recall that was a day or so after Mr. McFarlane
 had resigned, and the President had just, I am not even-I
-guess we had announced it on the 4th.<br/>
+guess we had announced it on the 4th.<br/><br/>
 Mr. McFarlane actually resigned on the 30th of November, we
 announced it on the 4th of December, and my recollection is that
-he signed this the following day, on the 5th.<br/>
+he signed this the following day, on the 5th.<br/><br/>
 My recollection now is that the CIA, especially the Deputy Director,
 John McMahon, was very anxious to get this signed. I frankly
 was never happy with it because it was not fully staffed, and I
 frankly can't recall when I showed it to the President whether—who
 was there or exactly what the discussion was or even what I
-recommended to him at this point.<br/>
+recommended to him at this point.<br/><br/>
 I simply can't remember that.
 <br/><br/><strong>Mr. LIMAN</strong>: But you do recall that whatever you recommended,
 the President read it and he signed it?
@@ -37,7 +37,7 @@ up on the 21st of November, because I thought it was a significant
 political embarrassment to the President, and I wanted to protect
 him from possible disclosure of this.
 To get into the details of exactly how it happened, which I
-assume you are interested in--
+assume you are interested in-
 <br/><br/><strong>Mr. LIMAN</strong>: When you say the 21st of November, you are talking
 about the 21st of November 1986?
 <br/><br/><strong>Mr. POINDEXTER</strong>: 1986; that is correct.
@@ -108,8 +108,8 @@ the tasking that I had given Commander Thompson.
 Later in the afternoon or early evening, Commander Thompson
 brought III to my office the envelopes that I had given him earlier
 containing the material we had on the Iranian project in the immediate office, which was essentially the various Findings, and he
-pulled out this November Finding, it was actually signed in December, and my recollection is that he said something to the effect that<br/><br/>
-"They'll have a field day with this," or something to that effect
+pulled out this November Finding, it was actually signed in December, and my recollection is that he said something to the effect that,
+"They'll have a field day with this," or something to that effect.<br/><br/>
 And my recollection is that the import of his comment was that
 up until that time in November of 1986, the President was being
 beaten about the head and shoulders, that this was—the whole Iranian project was just an arms-for-hostage deal.<br/><br/>
