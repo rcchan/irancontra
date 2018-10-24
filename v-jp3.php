@@ -16,7 +16,8 @@ Poindexter on Insulating Reagan
 
 Day 29: July 15, 1987
 
-</h3></td></tr><td colspan=2><p>Even though he assumed Reagan would approve of the Diversion, Poindexter claims that he kept Reagan in the dark.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Even though he assumed Reagan would approve of the Diversion, Poindexter claims that he kept Reagan in the dark.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/jp-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

@@ -8,7 +8,8 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>Secord and Broomfield Discuss Covert Operations</h2>
-<h3>Day 4: May 8, 1987</h3></td></tr><td colspan=2><p>Rep. William Broomfield (R-MI) asks Secord about the “proper roles” in foreign policy of the Executive Branch and Legislative Branch.</p>  <br /><br /></td></tr>
+<h3>Day 4: May 8, 1987</h3></td></tr>
+<td colspan=2><p>Rep. William Broomfield (R-MI) asks Secord about the “proper roles” in foreign policy of the Executive Branch and Legislative Branch.</p>  <br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/rs-6.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rm-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

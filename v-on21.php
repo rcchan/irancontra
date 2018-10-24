@@ -16,7 +16,8 @@ Rep. Hamilton on Patriotism and the Law
 
 Day 28, Part 1: July 14, 1987
 
-</h3></td></tr><td colspan=2><p>Co-Chairman Hamilton acknowledges that North is a patriot, but adds that one form of patriotism comes from respecting the law.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Co-Chairman Hamilton acknowledges that North is a patriot, but adds that one form of patriotism comes from respecting the law.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="v-on20.php" class="content_link">Previous</a></td><td align="right"><a href="v-on22.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

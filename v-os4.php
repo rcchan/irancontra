@@ -8,7 +8,8 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>Opening Statement by Rep. Cheney</h2>
-<h3>Day 1: May 5, 1987</h3></td></tr><td colspan=2>Rep. Cheney asks for a “calm, objective weighing of the evidence.”<br /><br /></td></tr>
+<h3>Day 1: May 5, 1987</h3></td></tr>
+<td colspan=2>Rep. Cheney asks for a “calm, objective weighing of the evidence.”<br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/os-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rs-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

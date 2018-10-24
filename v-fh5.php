@@ -16,7 +16,8 @@ Hall Talks to Sen. Boren About Shredding
 
 Day 19: June 9, 1987
 
-</h3></td></tr><td colspan=2><p>Hall tells Sen. David Boren (D-OK) about overcoming her initial uneasiness with altering and shredding documents because of her belief that North had “good motives.”</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Hall tells Sen. David Boren (D-OK) about overcoming her initial uneasiness with altering and shredding documents because of her belief that North had “good motives.”</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/fh-4.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/fh-6.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

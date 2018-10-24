@@ -16,7 +16,8 @@ North on Plausible Deniability
 
 Day 25: July 9, 1987
 
-</h3></td></tr><td colspan=2><p>Although providing “plausible deniability” to superiors was one reason for secrecy, North states, the nature of the covert operation required keeping people unaware of details.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Although providing “plausible deniability” to superiors was one reason for secrecy, North states, the nature of the covert operation required keeping people unaware of details.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="v-on16.php" class="content_link">Previous</a></td><td align="right"><a href="v-on18.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

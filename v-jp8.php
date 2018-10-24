@@ -16,7 +16,8 @@ Sen. Trible Asking Poindexter About the Naval Honor Code
 
 Day 32: July 20, 1987
 
-</h3></td></tr><td colspan=2><p>Sen. Trible gets a testy response from Poindexter when he asks whether the Naval Honor Code applies to the national security advisor.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Sen. Trible gets a testy response from Poindexter when he asks whether the Naval Honor Code applies to the national security advisor.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/jp-7.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-9.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

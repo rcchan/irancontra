@@ -16,7 +16,8 @@ Sen. Nunn Questions Meese About the Questions He Asked
 
 Day 37: July 29, 1987
 
-</h3></td></tr><td colspan=2><p>When Sen. Nunn asks whether Meese had raised certain questions with Adm. Poindexter, Meese consistently replies, “No, sir.”</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>When Sen. Nunn asks whether Meese had raised certain questions with Adm. Poindexter, Meese consistently replies, “No, sir.”</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/em-6.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/dr-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

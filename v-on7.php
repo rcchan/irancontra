@@ -16,7 +16,8 @@ North on the "Neat Idea" of the Diversion
 
 Day 24: July 8, 1987
 
-</h3></td></tr><td colspan=2><p>Taking money from Iran and giving it to the Contras was “a neat idea,” North says.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Taking money from Iran and giving it to the Contras was “a neat idea,” North says.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/on-6.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/on-8.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

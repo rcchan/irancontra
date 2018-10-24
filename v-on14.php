@@ -16,7 +16,8 @@ North on Shredding Embarrassing Documents
 
 Day 25: July 9, 1987
 
-</h3></td></tr><td colspan=2><p>North hedges on whether he destroyed documents to avoid “political embarrassment.”</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>North hedges on whether he destroyed documents to avoid “political embarrassment.”</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="v-on13.php" class="content_link">Previous</a></td><td align="right"><a href="v-on15.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

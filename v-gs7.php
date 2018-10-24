@@ -16,7 +16,8 @@ Rep. DeWine Asks Shultz Why He Kept Himself Unaware
 
 Day 35: June 24, 1987
 
-</h3></td></tr><td colspan=2><p>Rep. DeWine opines that Shultz “walked off the field when the score was against” him—and “our foreign policy suffered” because of it.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Rep. DeWine opines that Shultz “walked off the field when the score was against” him—and “our foreign policy suffered” because of it.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/gs-6.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/em-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

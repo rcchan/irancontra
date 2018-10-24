@@ -16,7 +16,8 @@ Regan Questioned About What He Knew
 
 Day 38: July 30, 1987
 
-</h3></td></tr><td colspan=2><p>Regan says that Reagan looked stunned when Attorney General Edwin Meese told him about the Diversion.</p><br /><br /></td></tr>
+</h3></td></tr>
+<td colspan=2><p>Regan says that Reagan looked stunned when Attorney General Edwin Meese told him about the Diversion.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/dr-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/dr-4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
