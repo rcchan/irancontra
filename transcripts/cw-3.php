@@ -49,7 +49,7 @@ don't know because I wasn't there, but I suspect this was probably
 what was at least a part of the element.
 <br/><br/><strong>Mr. BROOMFIELD</strong>: Bill Casey was a major force. Do you believe
 that Casey's motivation was primarily in the recovery of Willian
-Buckley, the CIA Mission Chief in Lebanon—who, by the way, a
+Buckley, the CIA Mission Chief in Lebanon— who, by the way, a
 everybody knows, was brutally murdered?
 <br/><br/><strong>Secretary WEINBERGER</strong>: Yes, he was. I think that was certainly
 part of it.
@@ -60,7 +60,7 @@ source, and provision of materials that would be very helpful to us.
 I think that was one of his motives, but certainly the attempting to
 get Mr. Buckley back was, I'm sure, loomed large in his mind. Yet,
 he is a very compassionate man, as is the President.
-<br/><br/><strong>Mr. BROOMFIELD</strong>: The President's interests, of course, were primarily in the hostage area—in other words, getting them out?
+<br/><br/><strong>Mr. BROOMFIELD</strong>: The President's interests, of course, were primarily in the hostage area— in other words, getting them out?
 <br/><br/><strong>Secretary WEINBERGER</strong>: Well, that was part of the motive, there
 wasn't the slightest question. I never heard the President discuss
 at which he didn't mention also this other longer range strategic
