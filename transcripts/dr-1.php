@@ -20,7 +20,7 @@ until late October of '86.
 after this operation had been going forward for 8, 9, 10 months,
 neither you nor Director Casey had specific knowledge that the
 President had signed a Finding dated January 17?
-<br/><br/><strong>Mr. REGAN</strong>: I think both of us—although I shouldn't characterize
+<br/><br/><strong>Mr. REGAN</strong>: I think both of us— although I shouldn't characterize
 what he was thinking, but I will say that I was thinking that all
 along I just assumed that he probably had signed it. I just didn't
 see it.
@@ -33,11 +33,11 @@ copy of that Finding; is that right?
 <br/><br/><strong>Mr. SMILJANICH</strong>: Who did you call?
 <br/><br/><strong>Mr. REGAN</strong>: I asked Poindexter about it the next day. I said did
 Casey call you about that Finding. He said yes. I said where the
-hell has it been—excuse my language. That is normal for me.
+hell has it been— excuse my language. That is normal for me.
 Excuse me.
 And he said I have the only copy, it's in my safe, he said it's with
 me.
-<br/><br/><strong>Mr. SMILJANICH</strong>: Moving back to the January-February timeframe, in late February, you were—you and the President were
+<br/><br/><strong>Mr. SMILJANICH</strong>: Moving back to the January-February timeframe, in late February, you were— you and the President were
 aware that 1,000 TOW missiles had been shipped to Iran from the
 United States?
 <br/><br/><strong>Mr. REGAN</strong>: Yes.
@@ -54,7 +54,7 @@ about the fact that the Iranians had broken their word?
 <br/><br/><strong>Mr. REGAN</strong>: I told him I thought we ought to break it off, that we
 have been snookered again, how many times do we put up with
 this rug merchant type of stuff—or words to that effect.
-<br/><br/><strong>Mr. SMILJANICH</strong>: What did the—what was the President's attitude or decision?
+<br/><br/><strong>Mr. SMILJANICH</strong>: What did the— what was the President's attitude or decision?
 <br/><br/><strong>Mr. REGAN</strong>: I think he shared my view that we had been had.
 <br/><br/><strong>Mr. SMILJANICH</strong>: Did he instruct anyone to terminate their activities?
 <br/><br/><strong>Mr. REGAN</strong>: No. There was a pause then and I sort of lost track
@@ -72,7 +72,7 @@ time?
 <br/><br/><strong>Mr. REGAN</strong>: Has the man's name been mentioned in open hearing? It has?
 He told me that Ambassador Price had called him to alert him to
 the fact that Tiny Rowlands, a British business person, was inquiring about whether or not we were engaged in shipping arms to
-Iran, that he was being offered a—I suppose you'd say a share in
+Iran, that he was being offered a— I suppose you'd say a share in
 the underwriting of this, and wanted to know was this indeed U.S.
 policy.
 And when I heard the name Rowlands involved in this, I was
@@ -103,7 +103,7 @@ shipment, when no hostages were released, you felt that this
 matter ought to be terminated?
 Why didn't you bring it to the President's attention at that
 point?
-<br/><br/><strong>Mr. REGAN</strong>: Well, having—knowing that the Secretary of State
+<br/><br/><strong>Mr. REGAN</strong>: Well, having— knowing that the Secretary of State
 was aware of this information, having made my concerns known to
 the Secretary of State, and he in turn reflecting those views to the
 National Security Adviser, I felt that those were two very competent people who could handle the situation and would.
@@ -121,7 +121,7 @@ economic summit. I was concerned that the President was being
 briefed, had enough information, going over with him some of the
 fine points of what the heads of government were discussing. So I
 put this sort of thing out of my mind.
-<br/><br/><strong>Mr. SMILJANICH</strong>: Now, in late May of 1986, the President—after
+<br/><br/><strong>Mr. SMILJANICH</strong>: Now, in late May of 1986, the President— after
 Mr. McFarlane's trip to Tehran, the President turned down a proposition that had been made to Mr. McFarlane for the delivery of
 two hostages for the HAWK spare parts that were being shipped
 through Israel.
