@@ -12,11 +12,7 @@ Sen. Trible Asking Poindexter About the Naval Honor Code
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Sen. Trible Asking Poindexter About the Naval Honor Code 
-
-</h2><h3>
+<td colspan=2 height=75><h2>Sen. Trible Asking Poindexter About the Naval Honor Code </h2><h3>
 
 Day 32: July 20, 1987
 

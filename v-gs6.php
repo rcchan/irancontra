@@ -12,11 +12,7 @@ Senator Mitchell Asks Shultz Whether Reagan Kept Him Out of the Loop
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Senator Mitchell Asks Shultz Whether Reagan Kept Him Out of the Loop
-
-</h2><h3>
+<td colspan=2 height=75><h2>Senator Mitchell Asks Shultz Whether Reagan Kept Him Out of the Loop</h2><h3>
 
 Day 35: June 24, 1987
 

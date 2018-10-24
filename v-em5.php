@@ -12,11 +12,7 @@ Sen. Mitchell Asks Meese About Not Taking Notes
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Sen. Mitchell Asks Meese About Not Taking Notes
-
-</h2><h3>
+<td colspan=2 height=75><h2>Sen. Mitchell Asks Meese About Not Taking Notes</h2><h3>
 
 Day 37: July 29, 1987
 

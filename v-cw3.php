@@ -12,11 +12,7 @@ Rep. Broomfield Questions Weinberger on Iranian Relationship
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Rep. Broomfield Questions Weinberger on Iranian Relationship
-
-</h2><h3>
+<td colspan=2 height=75><h2>Rep. Broomfield Questions Weinberger on Iranian Relationship</h2><h3>
 
 Day 39, Part 2: July 31, 1987
 

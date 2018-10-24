@@ -12,11 +12,7 @@ Shultz on Opposing Arms For Hostages
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Shultz on Opposing Arms For Hostages
-
-</h2><h3>
+<td colspan=2 height=75><h2>Shultz on Opposing Arms For Hostages</h2><h3>
 
 Day 34: June 23, 1987
 

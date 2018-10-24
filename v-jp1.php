@@ -12,11 +12,7 @@ Poindexter on Destroying the Finding
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Poindexter on Destroying the Finding
-
-</h2><h3>
+<td colspan=2 height=75><h2>Poindexter on Destroying the Finding</h2><h3>
 
 Day 29: July 15, 1987
 

@@ -12,11 +12,7 @@ Regan on the "Bait and Switch"
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Regan on the "Bait and Switch"
-
-</h2><h3>
+<td colspan=2 height=75><h2>Regan on the "Bait and Switch"</h2><h3>
 
 Day 38: July 30, 1987
 

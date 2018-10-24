@@ -12,11 +12,7 @@ North on the "Neat Idea" of the Diversion
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-North on the "Neat Idea" of the Diversion
-
-</h2><h3>
+<td colspan=2 height=75><h2>North on the "Neat Idea" of the Diversion</h2><h3>
 
 Day 24: July 8, 1987
 

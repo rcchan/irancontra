@@ -12,11 +12,7 @@ North on the Signed Arms-For-Hostages Finding
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-North on the Signed Arms-For-Hostages Finding
-
-</h2><h3>
+<td colspan=2 height=75><h2>North on the Signed Arms-For-Hostages Finding</h2><h3>
 
 Day 23: July 7, 1987
 

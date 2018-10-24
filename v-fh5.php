@@ -12,11 +12,7 @@ Hall Talks to Sen. Boren About Shredding
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Hall Talks to Sen. Boren About Shredding
-
-</h2><h3>
+<td colspan=2 height=75><h2>Hall Talks to Sen. Boren About Shredding</h2><h3>
 
 Day 19: June 9, 1987
 

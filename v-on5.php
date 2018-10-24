@@ -12,11 +12,7 @@ North on Countries Who Wanted to Donate
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-North on Countries Who Wanted to Donate
-
-</h2><h3>
+<td colspan=2 height=75><h2>North on Countries Who Wanted to Donate</h2><h3>
 
 Day 23: June 7, 1987
 

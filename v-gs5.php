@@ -12,11 +12,7 @@ Shultz on Casey's Power Grab
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Shultz on Casey's Power Grab
-
-</h2><h3>
+<td colspan=2 height=75><h2>Shultz on Casey's Power Grab</h2><h3>
 
 Day 34: June 23, 1987
 

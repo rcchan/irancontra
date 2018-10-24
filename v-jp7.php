@@ -12,11 +12,7 @@ Poindexter "Not Recall[ing]" Anything
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Poindexter "Not Recall[ing]" Anything
-
-</h2><h3>
+<td colspan=2 height=75><h2>Poindexter "Not Recall[ing]" Anything</h2><h3>
 
 Day 30: July 16, 1987
 

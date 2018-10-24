@@ -12,11 +12,7 @@ Hall on Swiss Bank Account Number
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Hall on Swiss Bank Account Number
-
-</h2><h3>
+<td colspan=2 height=75><h2>Hall on Swiss Bank Account Number</h2><h3>
 
 Day 18, Part 2: June 8, 1987
 

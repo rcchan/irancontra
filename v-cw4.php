@@ -12,11 +12,7 @@ Weinberger Tells Sen. Sarbanes About "People With Their Own Agenda"
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Weinberger Tells Sen. Sarbanes About "People With Their Own Agenda"
-
-</h2><h3>
+<td colspan=2 height=75><h2>Weinberger Tells Sen. Sarbanes About "People With Their Own Agenda"</h2><h3>
 
 Day 39, Part 2: July 31, 1987
 

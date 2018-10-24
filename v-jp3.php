@@ -12,11 +12,7 @@ Poindexter on Keeping Reagan's Unaware
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Poindexter on Keeping Reagan's Unaware
-
-</h2><h3>
+<td colspan=2 height=75><h2>Poindexter on Keeping Reagan's Unaware</h2><h3>
 
 Day 29: July 15, 1987
 

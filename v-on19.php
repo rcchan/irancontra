@@ -12,11 +12,7 @@ Senator Rudman on What the People Want
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Senator Rudman on What the People Want
-
-</h2><h3>
+<td colspan=2 height=75><h2>Senator Rudman on What the People Want</h2><h3>
 
 Day 25: July 9, 1987
 

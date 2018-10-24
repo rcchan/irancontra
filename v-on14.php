@@ -12,11 +12,7 @@ North on Shredding Embarassing Documents
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-North on Shredding Embarassing Documents
-
-</h2><h3>
+<td colspan=2 height=75><h2>North on Shredding Embarassing Documents</h2><h3>
 
 Day 25: July 9, 1987
 

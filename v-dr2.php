@@ -12,11 +12,7 @@ Regan on "Oil Drilling" as Cover Story
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Regan on "Oil Drilling" as Cover Story
-
-</h2><h3>
+<td colspan=2 height=75><h2>Regan on "Oil Drilling" as Cover Story</h2><h3>
 
 Day 38: July 30, 1987
 

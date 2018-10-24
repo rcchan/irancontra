@@ -12,11 +12,7 @@ Weinberger on Who Was Winning the Iran-Iraq War
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Weinberger on Who Was Winning the Iran-Iraq War
-
-</h2><h3>
+<td colspan=2 height=75><h2>Weinberger on Who Was Winning the Iran-Iraq War</h2><h3>
 
 Day 39, Part 2: July 31, 1987
 

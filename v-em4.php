@@ -12,11 +12,7 @@ Sen. Rudman Asks Meese Why Reagan Did Not Talk to Poindexter or North
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Sen. Rudman Asks Meese Why Reagan Did Not Talk to Poindexter or North
-
-</h2><h3>
+<td colspan=2 height=75><h2>Sen. Rudman Asks Meese Why Reagan Did Not Talk to Poindexter or North</h2><h3>
 
 Day 37: July 29, 1987
 

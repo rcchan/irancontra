@@ -12,11 +12,7 @@ North on Why He's Not Lying Now
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-North on Why He's Not Lying Now
-
-</h2><h3>
+<td colspan=2 height=75><h2>North on Why He's Not Lying Now</h2><h3>
 
 Day 25: July 9, 1987
 

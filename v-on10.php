@@ -12,11 +12,7 @@ North on Who in the Cabinet Knew What
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-North on Who in the Cabinet Knew What
-
-</h2><h3>
+<td colspan=2 height=75><h2>North on Who in the Cabinet Knew What</h2><h3>
 
 Day 24: July 8, 1987
 

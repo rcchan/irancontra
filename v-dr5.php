@@ -12,11 +12,7 @@ Sen. Nunn Questions Regan on Wanting Neither Side to Win Iran-Iraq War
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Sen. Nunn Questions Regan on Wanting Neither Side to Win Iran-Iraq War
-
-</h2><h3>
+<td colspan=2 height=75><h2>Sen. Nunn Questions Regan on Wanting Neither Side to Win Iran-Iraq War</h2><h3>
 
 Day 39, Part 1: July 31, 1987
 

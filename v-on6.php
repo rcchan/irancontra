@@ -12,11 +12,7 @@ North on Reagan's Knowledge of Private Fundraising
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-North on Reagan's Knowledge of Private Fundraising
-
-</h2><h3>
+<td colspan=2 height=75><h2>North on Reagan's Knowledge of Private Fundraising</h2><h3>
 
 Day 23: July 7, 1987
 

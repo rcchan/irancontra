@@ -12,11 +12,7 @@ Meese on What Poindexter and the White House Knew
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Meese on What Poindexter and the White House Knew
-
-</h2><h3>
+<td colspan=2 height=75><h2>Meese on What Poindexter and the White House Knew</h2><h3>
 
 Day 36: July 28, 1987
 

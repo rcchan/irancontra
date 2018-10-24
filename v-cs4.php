@@ -12,11 +12,7 @@ Closing Statement by Sen. Inouye
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Closing Statement by Sen. Inouye
-
-</h2><h3>
+<td colspan=2 height=75><h2>Closing Statement by Sen. Inouye</h2><h3>
 
 Day 40: August 3, 1987
 

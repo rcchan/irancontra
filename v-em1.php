@@ -12,11 +12,7 @@ Meese Statement on Internal Investigation
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Meese Statement on Internal Investigation
-
-</h2><h3>
+<td colspan=2 height=75><h2>Meese Statement on Internal Investigation</h2><h3>
 
 Day 36: July 28, 1987
 

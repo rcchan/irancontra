@@ -12,11 +12,7 @@ Sen. Inouye on Military Ethics and the Nuremberg Trials
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Sen. Inouye on Military Ethics and the Nuremberg Trials
-
-</h2><h3>
+<td colspan=2 height=75><h2>Sen. Inouye on Military Ethics and the Nuremberg Trials</h2><h3>
 
 Day 28, Part 1: July 14, 1987
 

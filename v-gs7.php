@@ -12,11 +12,7 @@ Rep. DeWine Asks Shultz Why He Kept Himself Unaware
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Rep. DeWine Asks Shultz Why He Kept Himself Unaware
-
-</h2><h3>
+<td colspan=2 height=75><h2>Rep. DeWine Asks Shultz Why He Kept Himself Unaware</h2><h3>
 
 Day 35: June 24, 1987
 

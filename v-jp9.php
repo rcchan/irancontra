@@ -12,11 +12,7 @@ Rep. Hamilton on Where the "Buck Stops"
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Rep. Hamilton on Where the "Buck Stops"
-
-</h2><h3>
+<td colspan=2 height=75><h2>Rep. Hamilton on Where the "Buck Stops"</h2><h3>
 
 Day 33: July 21, 1987
 

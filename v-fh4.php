@@ -11,11 +11,7 @@ Hall on Hiding Documents Under Her Clothes
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Hall on Hiding Documents Under Her Clothes
-
-</h2><h3>
+<td colspan=2 height=75><h2>Hall on Hiding Documents Under Her Clothes</h2><h3>
 
 Day 19: June 9, 1987
 

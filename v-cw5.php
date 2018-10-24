@@ -12,11 +12,7 @@ Sen. Nunn Questions Weinberger on Lack of Cabinet Communication
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Sen. Nunn Questions Weinberger on Lack of Cabinet Communication
-
-</h2><h3>
+<td colspan=2 height=75><h2>Sen. Nunn Questions Weinberger on Lack of Cabinet Communication</h2><h3>
 
 Day 40: August 3, 1987
 

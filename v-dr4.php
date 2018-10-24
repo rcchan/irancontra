@@ -12,11 +12,7 @@ Rep. Stokes Questions Regan on Reagan's Immunity Decisions
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Rep. Stokes Questions Regan on Reagan's Immunity Decisions
-
-</h2><h3>
+<td colspan=2 height=75><h2>Rep. Stokes Questions Regan on Reagan's Immunity Decisions</h2><h3>
 
 Day 39, Part 1: July 31, 1987
 

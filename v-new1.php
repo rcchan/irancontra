@@ -12,11 +12,7 @@ Senator Mitchell on Patriotism and Disagreement With Government Policies
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Senator Mitchell on Patriotism and Disagreement With Government Policies
-
-</h2><h3>
+<td colspan=2 height=75><h2>Senator Mitchell on Patriotism and Disagreement With Government Policies</h2><h3>
 
 Day 26: Jul 13, 1987
 

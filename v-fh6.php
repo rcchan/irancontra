@@ -12,11 +12,7 @@ Hall Talks to Rep. Foley About Going "About the Written Law"
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Hall Talks to Rep. Foley About Going "About the Written Law"
-
-</h2><h3>
+<td colspan=2 height=75><h2>Hall Talks to Rep. Foley About Going "About the Written Law"</h2><h3>
 
 Day 19: June 9, 1987
 

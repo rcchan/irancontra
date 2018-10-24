@@ -12,11 +12,7 @@ Shultz on Reagan's Response to Press Conference
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Shultz on Reagan's Response to Press Conference
-
-</h2><h3>
+<td colspan=2 height=75><h2>Shultz on Reagan's Response to Press Conference</h2><h3>
 
 Day 34: June 23, 1987
 

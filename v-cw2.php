@@ -12,11 +12,7 @@ Rep. Aspin Questions Weinberger on Not Dealing with Iranian Moderates
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Rep. Aspin Questions Weinberger on Not Dealing with Iranian Moderates
-
-</h2><h3>
+<td colspan=2 height=75><h2>Rep. Aspin Questions Weinberger on Not Dealing with Iranian Moderates</h2><h3>
 
 Day 39, Part 2: July 31, 1987
 

@@ -12,11 +12,7 @@ Meese on Boland's Applicability to the NSC
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Meese on Boland's Applicability to the NSC
-
-</h2><h3>
+<td colspan=2 height=75><h2>Meese on Boland's Applicability to the NSC</h2><h3>
 
 Day 36: July 28, 1987
 

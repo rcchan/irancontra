@@ -12,11 +12,7 @@ Rep. Hamilton on Patriotism
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Rep. Hamilton on Patriotism
-
-</h2><h3>
+<td colspan=2 height=75><h2>Rep. Hamilton on Patriotism</h2><h3>
 
 Day 28, Part 1: July 14, 1987
 

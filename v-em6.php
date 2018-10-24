@@ -12,11 +12,7 @@ Sen. Mitchell Asks Meese About Not Securing Documents
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Sen. Mitchell Asks Meese About Not Securing Documents
-
-</h2><h3>
+<td colspan=2 height=75><h2>Sen. Mitchell Asks Meese About Not Securing Documents</h2><h3>
 
 Day 37: July 29, 1987
 

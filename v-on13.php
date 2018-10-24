@@ -12,11 +12,7 @@ North on Getting Fired and Covering Up the Diversion
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-North on Getting Fired and Covering Up the Diversion
-
-</h2><h3>
+<td colspan=2 height=75><h2>North on Getting Fired and Covering Up the Diversion</h2><h3>
 
 Day 25: July 9, 1987
 

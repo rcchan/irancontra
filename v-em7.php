@@ -12,11 +12,7 @@ Sen. Nunn Asks Meese About His Gathering of Information
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-Sen. Nunn Asks Meese About His Gathering of Information
-
-</h2><h3>
+<td colspan=2 height=75><h2>Sen. Nunn Asks Meese About His Gathering of Information</h2><h3>
 
 Day 37: July 29, 1987
 

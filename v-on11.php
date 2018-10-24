@@ -12,11 +12,7 @@ North on the Democratic Process and "Difference Between Lives and Lies"
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>
-
-North on the Democratic Process and "Difference Between Lives and Lies"
-
-</h2><h3>
+<td colspan=2 height=75><h2>North on the Democratic Process and "Difference Between Lives and Lies"</h2><h3>
 
 Day 24: July 8, 1987
 
