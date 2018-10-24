@@ -8,10 +8,7 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2><span class="bread_crumbs">Abrams on &quot;Monitor[ing] Ollie&quot;</span></h2>
-<h3>Day 14, Part 2: June 2, 1987</h3></td></tr>
-<td colspan=2><p>Abrams testifies, “Monitor Ollie is not an activity that you do one morning.” </p>
-  <br /><br />
-</td></tr>
+<h3>Day 14, Part 2: June 2, 1987</h3></td></tr><td colspan=2><p>Abrams testifies, “Monitor Ollie is not an activity that you do one morning.” </p>  <br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/fr-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ea-2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

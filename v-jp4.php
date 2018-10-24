@@ -16,11 +16,7 @@ Poindexter on Boland's Application to NSC
 
 Day 29: July 15, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-Poindexter acknowledges that the Boland Amendment limited support to the Contras, but he contends that the amendment did not apply to the National Security Council.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>Poindexter acknowledges that the Boland Amendment limited support to the Contras, but he contends that the amendment did not apply to the National Security Council.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/jp-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

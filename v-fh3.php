@@ -16,11 +16,7 @@ North Talks to Hall After Resigning
 
 Day 19: June 9, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-Hall describes talking to North after he resigned—and North telling her that Reagan called him an American hero.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>Hall describes talking to North after he resigned—and North telling her that Reagan called him an American hero.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/fh-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/fh-4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

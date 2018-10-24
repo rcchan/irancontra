@@ -16,11 +16,7 @@ Rep. Hamilton on Where the "Buck Stops"
 
 Day 33: July 21, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-Co-Chairman Rep. Lee Hamilton (D-IN) tells Poindexter that the buck should not stop with the national security advisor, but with the president.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>Co-Chairman Rep. Lee Hamilton (D-IN) tells Poindexter that the buck should not stop with the national security advisor, but with the president.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/jp-8.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/gs-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

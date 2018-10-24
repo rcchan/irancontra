@@ -16,12 +16,7 @@ Rep. Broomfield Questions Weinberger on Iranian Relationship
 
 Day 39, Part 2: July 31, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-Responding to Rep. William Broomfield (R-MI) , Weinberger says he tried all that he could to prevent an arms sale to Iran.
-
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>Responding to Rep. William Broomfield (R-MI) , Weinberger says he tried all that he could to prevent an arms sale to Iran.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/cw-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/cw-4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

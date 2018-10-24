@@ -16,11 +16,7 @@ Regan on "Oil Drilling" as Cover Story and What the President Knew
 
 Day 38: July 30, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-Regan claims that “oil-drilling equipment” was just a cover story for what the president knew was an arms shipment to Iran.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>Regan claims that “oil-drilling equipment” was just a cover story for what the president knew was an arms shipment to Iran.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/dr-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/dr-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

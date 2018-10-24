@@ -8,10 +8,7 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>Secord on Financing the Operation</h2>
-<h3>Day 1: May 5, 1987</h3></td></tr>
-<td colspan=2><p>Secord goes into detail about how The Enterprise financed the complicated operation.</p>
-  <br /><br />
-</td></tr>
+<h3>Day 1: May 5, 1987</h3></td></tr><td colspan=2><p>Secord goes into detail about how The Enterprise financed the complicated operation.</p>  <br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/os-4.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rs-2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

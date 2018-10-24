@@ -16,11 +16,7 @@ Poindexter "Not Recall[ing]" Anything
 
 Day 30: July 16, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-Poindexter and Arthur Liman, Senate chief counsel, engage in a back-and-forth on what the former NSC head recalls.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>Poindexter and Arthur Liman, Senate chief counsel, engage in a back-and-forth on what the former NSC head recalls.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/jp-6.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-8.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

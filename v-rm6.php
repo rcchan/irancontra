@@ -8,10 +8,7 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>McFarlane and Sen. Rudman on DEA Caper</h2>
-<h3>Day 7: May 13, 1987</h3></td></tr>
-<td colspan=2><p>McFarlane displays a rare burst of emotion in discussing a “DEA caper” with Sen. Rudman. </p>
-  <br /><br />
-</td></tr>
+<h3>Day 7: May 13, 1987</h3></td></tr><td colspan=2><p>McFarlane displays a rare burst of emotion in discussing a “DEA caper” with Sen. Rudman. </p>  <br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/rm-5.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rm-7.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

@@ -16,11 +16,7 @@ Closing Statement by Sen. Inouye
 
 Day 40: August 3, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-The hearings showed, in the words of Co-Chair Sen. Inouye, that “in America, as 200 years ago, the people still rule.”
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>The hearings showed, in the words of Co-Chair Sen. Inouye, that “in America, as 200 years ago, the people still rule.”</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/cs-3.php" class="content_link">Previous</a></td><td align="right"></td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

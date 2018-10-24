@@ -16,11 +16,7 @@ Meese Statement on Internal Investigation
 
 Day 36: July 28, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-Meese reads a statement describing the initial efforts to learn “the essential facts” of the Iran-Contra affairs.
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>Meese reads a statement describing the initial efforts to learn “the essential facts” of the Iran-Contra affairs.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/gs-7.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/em-2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

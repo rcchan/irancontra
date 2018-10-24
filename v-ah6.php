@@ -8,10 +8,7 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>Hakim Told by Sen. Inouye of the "Drastically Wrong" Situation</h2>
-<h3>Day 17: June 5, 1987</h3></td></tr>
-<td colspan=2><p>Hakim agrees with Sen. Inouye’s assertion that private control of U.S. foreign policy during the affair was “drastically wrong.”</p>
-<br /><br />
-</td></tr>
+<h3>Day 17: June 5, 1987</h3></td></tr><td colspan=2><p>Hakim agrees with Sen. Inouye’s assertion that private control of U.S. foreign policy during the affair was “drastically wrong.”</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ah-5.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/fh-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

@@ -16,11 +16,7 @@ Rep. Foley Questions Hall About Shredding of Documents
 
 Day 19: June 9, 1987
 
-</h3></td></tr><td colspan=2><p>
-
-After Rep. Thomas Foley (D-WA) asks Hall about altering documents, she states, “Sometimes you have to go above the written law.”
-
-</p><br /><br /></td></tr>
+</h3></td></tr><td colspan=2><p>After Rep. Thomas Foley (D-WA) asks Hall about altering documents, she states, “Sometimes you have to go above the written law.”</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/fh-5.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/on-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

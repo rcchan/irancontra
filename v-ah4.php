@@ -8,10 +8,7 @@
 <table>
 <tr>
 <td colspan=2 height=75><h2>Hakims Interactions with North and the Millions Hakim Stood to Make</h2>
-<h3>Day 15, Part 2: June 3, 1987</h3></td></tr>
-<td colspan=2><p>Hakim claims that North frequently name-dropped Reagan’s name; Hakim also admits that he made “many millions” of dollars in the transactions.</p>
-<br /><br />
-</td></tr>
+<h3>Day 15, Part 2: June 3, 1987</h3></td></tr><td colspan=2><p>Hakim claims that North frequently name-dropped Reagan’s name; Hakim also admits that he made “many millions” of dollars in the transactions.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ah-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ah-5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
