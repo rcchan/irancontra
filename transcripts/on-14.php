@@ -33,7 +33,7 @@ That is what I am saying. It was beyond the pale of their inquiry.
 time, correct?
 <br/><br/><strong>Mr. NORTH</strong>: Five-and-one-half years, sir.
 <br/><br/><strong>Mr. LIMAN</strong>: And those were files that had remained secure for
-5>/2 years; is that correct?
+5½ years; is that correct?
 <br/><br/><strong>Mr. NORTH</strong>: That is correct.
 <br/><br/><strong>Mr. LIMAN</strong>: And you knew whoever your successor was who
 would occupy that office would be someone that was selected by the
