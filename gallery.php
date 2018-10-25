@@ -27,7 +27,10 @@
 			</tr>
       <tr>
         <td>
-          <input id="gallerysearch" placeholder="Search" style="display: block; width: 80%; margin: auto; padding: 0 5px;">
+          <div style="width: 80%; margin: auto;">
+            <span style="font-size: 9px;">Enter last name of senator, official, or attorney.</span>
+            <input id="gallerysearch" placeholder="Search" style="display: block; width: 100%; padding: 0 5px;">
+          </div>
         </td>
       </tr>
 			<tr>
