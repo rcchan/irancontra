@@ -23,7 +23,7 @@
    <li><strong>Nov. 26, 1986</strong>: Reagan appoints a commission, led by former Senator John Town (R-TX), to investigate the Iran-Contra Affairs.</li>
    <li><strong>Dec. 2, 1986</strong>: Reagan makes his <a href="http://www.presidency.ucsb.edu/mediaplay.php?id=36772&amp;admin=40" target="_" class="content_link">Address to the Nation on the Investigation of the Iran Arms and Contra Aid Controversy (Audio)</a>.</li>
    <li><strong>Dec. 4, 1986</strong>: Attorney General Edwin Meese III requests that an independent counsel be appointed to investigate the Iran-Contra Affairs.</li>
-   <li><strong>Dec. 6, 1986</strong>: To determine the flow of funds from private entities, foreign nations, and arms sales to Iran, the U.S. Department of Justice requests financial records from Albert Hakim and Richard Secord’s Switzerland-based “Enterprise.”</li>
+   <li><strong>Dec. 6, 1986</strong>: To determine the flow of funds from private entities, foreign nations, and arms sales to Iran, the U.S. Department of Justice requests financial records from Albert Hakim and Richard Secord's Switzerland-based “Enterprise.”</li>
    <li><strong>Dec. 19, 1986</strong>: A panel of judges appoints Lawrence Walsh as Independent Counsel.</li>
    <li><strong>March 4, 1987</strong>: Reagan makes his <a href="http://millercenter.org/scripps/archive/speeches/detail/3414" target="_" class="content_link">Address to the Nation on Iran-Contra (Video)</a>.</li>
    <li><strong>March 5, 1987</strong>: Walsh also receives an appointment as Independent Counsel from the U.S. Department of Justice. He requested this appointment because he was afraid, given other challenges to the constitutionality of the Independent Counsel Act (see <em>Morrison v. Olson</em>, which had not yet been decided in 1987), that his position would be deemed unconstitutional.</li>
@@ -45,7 +45,7 @@
    <li><strong>Feb. 16-17, 1990</strong>: Reagan provides videotaped deposition in the Poindexter trial.</li>
    <li><strong>Feb. 22, 1990</strong>: A grand jury indicts Thomas Clines on tax charges.</li>
    <li><strong>March 5, 1990-April 7, 1990</strong>: Poindexter trial leads to a five-count conviction.</li>
-   <li><strong>July 20, 1990</strong>: The U.S. Court of Appeals vacates North's convictions on the grounds that witnesses’ recollections could have been influenced by immunized testimony and orders the District Court to hold further hearings on this issue.</li>
+   <li><strong>July 20, 1990</strong>: The U.S. Court of Appeals vacates North's convictions on the grounds that witnesses' recollections could have been influenced by immunized testimony and orders the District Court to hold further hearings on this issue.</li>
    <li><strong>Sept. 6, 1990</strong>: The Fourth Circuit upholds the trial court's CIPA rulings in Fernandez. The case is dismissed.</li>
    <li><strong>Sept. 4-18, 1990</strong>: Clines trial leads to convictions on four felony charges.</li>
    <li><strong>July 9, 1991</strong>: Alan Fiers, Jr., pleads guilty to withholding information from Congress.</li>
@@ -55,7 +55,7 @@
    <li><strong>Nov. 15, 1991</strong>: Court of Appeals for the D.C. Circuit reverses Poindexter's convictions, also because of the immunized testimony issue.</li>
    <li><strong>Nov. 26, 1991</strong>: A grand jury indicts Duane Clarridge on seven counts involving perjury and false statements.</li>
    <li><strong>May 25, 1992</strong>: Clines begins serving 16-month jail sentence.</li>
-   <li><strong>June 16, 1992</strong>: A grand jury indicts Caspar Weinberger on five charges of obstruction, perjury and false statements in both Walsh’s and the congressional investigations.</li>
+   <li><strong>June 16, 1992</strong>: A grand jury indicts Caspar Weinberger on five charges of obstruction, perjury and false statements in both Walsh's and the congressional investigations.</li>
    <li><strong>August 26, 1992</strong>: A jury fails to reach a verdict in the George case, leading the Independent Counsel to announce the case will be tried again.</li>
    <li><strong>Oct. 19, 1992</strong>: A second trial of George, on seven counts, begins.</li>
    <li><strong>Dec. 9, 1992</strong>: George is found guilty on two counts of false statements and perjury before Congress; he was to be sentenced in February 1993.</li>

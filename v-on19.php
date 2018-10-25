@@ -17,7 +17,7 @@ Senator Rudman on What the People Want
 Day 25: July 9, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Sen. Rudman argues that the collective opinion of the American people—not any individual’s will—should dictate the country’s policy.</p><br /><br /></td></tr>
+<td colspan=2><p>Sen. Rudman argues that the collective opinion of the American people—not any individual's will—should dictate the country's policy.</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="v-on18.php" class="content_link">Previous</a></td><td align="right"><a href="v-on20.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

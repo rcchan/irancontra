@@ -9,7 +9,7 @@
 <tr>
 <td colspan=2 height=75><h2>Hakim on His "Love" for North</h2>
 <h3>Day 15, Part 2: June 3, 1987</h3></td></tr>
-<td colspan=2><p>Hakim says his “love” for North developed because the “radiation” of North’s “love for his country … immediately penetrated through my system.”</p><br /><br /></td></tr>
+<td colspan=2><p>Hakim says his “love” for North developed because the “radiation” of North's “love for his country … immediately penetrated through my system.”</p><br /><br /></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ah-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ah-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>

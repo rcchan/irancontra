@@ -59,7 +59,7 @@
             <li><span>The Iran Story</span></li>
             <ul>
               <li><span>From Secular to Islamic Republic</span></li>
-              <li><span>Iran’s need for Weapons Result in U.S. Opportunities</span></li>
+              <li><span>Iran's need for Weapons Result in U.S. Opportunities</span></li>
               <li><span>The Enterprise</span></li>
               <li><span>Lisbon Airport Crisis</span></li>
               <li><span>The Second Channel</span></li>
@@ -102,9 +102,9 @@
     </table>
     
 </td>
-<td align="justify" valign="top" id="dynamiccontent"><p>The Iran-Contra Affairs of the 1980s stemmed from the Reagan Administration’s foreign policies toward two seemingly unrelated countries, Nicaragua and Iran.&nbsp; The Administration believed that changes to these countries that occurred in the 1970s threatened U.S. national interests.</p>
+<td align="justify" valign="top" id="dynamiccontent"><p>The Iran-Contra Affairs of the 1980s stemmed from the Reagan Administration's foreign policies toward two seemingly unrelated countries, Nicaragua and Iran.&nbsp; The Administration believed that changes to these countries that occurred in the 1970s threatened U.S. national interests.</p>
   <p>In Nicaragua, a socialist movement (the Sandinistas) seized power through a revolution in 1979.&nbsp; The Administration, fearful of the potential spread of socialism throughout Latin America, eventually backed paramilitaries (the contras) who sought to overthrow this revolutionary regime.&nbsp; In the section on Nicaragua, you will find a brief background of U.S. policy toward the region since the 19th Century; information on the history, composition, ideologies, and policies of the Sandinistas and contras; and a detailed description of the actions the United States took in Nicaragua from 1979 until the Iran-Contra Affairs.&nbsp; You will also find a brief description of Nicaragua since the affairs.</p>
-  <p>In 1979, power also changed hands in Iran when a radical Islamic movement overthrew the U.S.-backed government.&nbsp; Because the revolutionary government was unfriendly toward the United States and potentially allied with the Soviet Union, the Administration tried to bolster moderate elements within Iran, a policy that became more complicated when Iranian-backed Lebanese terrorist groups seized American hostages.&nbsp; In the Iran section, you will find a history of U.S. foreign policy toward Iran, as well as a history of Iran’s domestic politics.&nbsp; Additionally, you will find a detailed section on the Reagan Administration’s policies toward Iran with regard to both the regime and U.S. hostages.</p>
+  <p>In 1979, power also changed hands in Iran when a radical Islamic movement overthrew the U.S.-backed government.&nbsp; Because the revolutionary government was unfriendly toward the United States and potentially allied with the Soviet Union, the Administration tried to bolster moderate elements within Iran, a policy that became more complicated when Iranian-backed Lebanese terrorist groups seized American hostages.&nbsp; In the Iran section, you will find a history of U.S. foreign policy toward Iran, as well as a history of Iran's domestic politics.&nbsp; Additionally, you will find a detailed section on the Reagan Administration's policies toward Iran with regard to both the regime and U.S. hostages.</p>
   <p>&nbsp;</p><? include('overview.html') ?></td></tr></table>
 </div>
 
