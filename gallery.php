@@ -1,5 +1,10 @@
 <? require ('templates/header.php'); ?>
 <title>Understanding the Iran-Contra Affairs</title>
+<style>
+.gallery-filtered {
+  display: none;
+}
+</style>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
@@ -20,6 +25,11 @@
 					<strong>Browse Videos</strong>
 				</td>
 			</tr>
+      <tr>
+        <td>
+          <input id="gallerysearch" placeholder="Search" style="display: block; width: 80%; margin: auto;">
+        </td>
+      </tr>
 			<tr>
 				<td align="center" valign="top">
 					<div style="margin: 0px 0px 0px 20px; width: 225px" align="left" id="welcomenote">
@@ -71,7 +81,7 @@
 </script>
 <script id="gallery-template" type="text/x-handlebars-template">
   {{#each videos}}
-    <div class="galleryvideocontainer .video-{{actorKey key}}">
+    <div class="galleryvideocontainer .video-{{actorKey key}}" data-keywords="{{json keywords}}">
       <div class="galleryvideothumbnail">
         <a href="v-{{key}}.php"><img src="thumbnails/{{key}}.jpg" /></a>
       </div>
@@ -88,8 +98,9 @@
   <p>{{{description}}}</p>
 </script>
 <script>
-  Handlebars.registerHelper("duration", d => Math.floor(d / 60) + ':' + (s => s < 10 ? '0' + s : s)(d % 60));
   Handlebars.registerHelper('toUpperCase', s => s.toUpperCase());
+  Handlebars.registerHelper('json', JSON.stringify);
+  Handlebars.registerHelper("duration", d => Math.floor(d / 60) + ':' + (s => s < 10 ? '0' + s : s)(d % 60));
   var initials = n => {
     var match = n.match(/^([A-Z])[A-Za-z]*\s+([A-Z])[A-Za-z]*$/);
     return (match[1] + match[2]).toLowerCase();
@@ -116,4 +127,13 @@
     var actor = key && actors.get(key);
     document.getElementById('gallerymaincontent').innerHTML = template({videos: actor ? videos.filter(v => actorKey(v.key) == key) : videos, actor: actor})
   })();
+
+  document.getElementById('gallerysearch').oninput = function() {
+    var query = this.value.toLowerCase();
+    var videoContainers = new Array(...document.querySelectorAll('#gallerymaincontent .galleryvideocontainer'));
+    videoContainers.forEach(vc => vc.classList.remove('gallery-filtered'));
+    if (this.value !== '') {
+      videoContainers.filter(vc => !JSON.parse(vc.dataset.keywords).reduce((a, k) => a || k.toLowerCase().match(new RegExp('\\b' + query)), false)).forEach(vc => vc.classList.add('gallery-filtered'));
+    }
+  };
 </script>
