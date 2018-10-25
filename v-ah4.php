@@ -4,10 +4,10 @@
 <? require ('templates/hearingsbanner.php'); ?>
     
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Hakims Interactions with North and the Millions Hakim Stood to Make</div>
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Hakim's Interactions with North and the Millions Hakim Stood to Make</div>
 <table>
 <tr>
-<td colspan=2 height=75><h2>Hakims Interactions with North and the Millions Hakim Stood to Make</h2>
+<td colspan=2 height=75><h2>Hakim's Interactions with North and the Millions Hakim Stood to Make</h2>
 <h3>Day 15, Part 2: June 3, 1987</h3></td></tr>
 <td colspan=2><p>Mr. Hakim claims that Col. North would often invoke President Reagans name to achieve his objectives. Hakim also admits to having a better understanding of what was occurring than the Secretary of State and to the fact that he stood to gain millions of dollars from these transactions.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ah-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ah-5.php" class="content_link">Next</a> &raquo;</td></tr>
