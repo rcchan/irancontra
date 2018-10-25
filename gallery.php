@@ -27,7 +27,7 @@
 			</tr>
       <tr>
         <td>
-          <input id="gallerysearch" placeholder="Search" style="display: block; width: 80%; margin: auto;">
+          <input id="gallerysearch" placeholder="Search" style="display: block; width: 80%; margin: auto; padding: 0 5px;">
         </td>
       </tr>
 			<tr>
