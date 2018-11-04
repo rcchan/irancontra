@@ -2,7 +2,7 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
 <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; Key Players</div>
 <h2><a name="headertop" id="headertop"></a>Key Players</h2>
@@ -39,8 +39,8 @@ Caspar Weinberger, secretary of defense</p>
   Rep. Michael DeWine (R-OH)</p>
 <p>John Nields, Jr., chief counsel<br />
   George Van Cleve, chief minority counsel</p>
-<p><u>Senate Select Committee on Secret Military Assistance to Iran and the Nicaraguan Opposition</u></p>
-<p>Sen. Daniel Inouye (D-HI), chairman<br />
+<p><u>Senate Select Committee on Secret Military Assistance to Iran and the Nicaraguan Opposition</u> <br />
+  Sen. Daniel Inouye (D-HI), chairman<br />
   Sen. George Mitchell (D-ME)<br />
   Sen. Sam Nunn (D-GA)<br />
   Sen. Paul Sarbanes (D-MD)<br />
@@ -55,5 +55,5 @@ Caspar Weinberger, secretary of defense</p>
   Mark Belnick, executive assistant to the chief counsel</p>
 <div align=center class="top_link"><p>[ <a href="#headertop">Return to top ]</a></p></div>
 </div>
-    
+
 <? require ('templates/footer.php'); ?>

@@ -2,7 +2,7 @@
 <title>Understanding the Iran-Contra Affairs - The Legal Aftermath</title>
 </head>
 <? require ('templates/legalaftermathbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 765px" align="justify" id="welcomenote">
 <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; The Legal Aftermath</div>
 <table>
@@ -13,13 +13,13 @@
 	<table bgcolor=#f6ebe9 width="225" align="center" border=0>
     <tr><td align="center"><strong>Section Contents</strong></td></tr>
     <tr>
-      <td align="left" valign="top"><div class="teaser-content"><u><a href="prosecutions.php" class="content_link">Summary</a><br /></u>
+      <td align="left" valign="top"><div class="teaser-content"><u><a href="prosecutions.php" class="content_link">Summary</a><br /><br /></u>
       Prosecutions:
       <ul>
       <li><a href="prosecutions.php#p_nss" class="content_link">The National Security Staff</a></li>
       <li><a href="prosecutions.php#p_po" class="content_link">The Private Operatives</a></li>
       <li><a href="prosecutions.php#p_cia" class="content_link">The Central Intelligence Agency</a>
-      <li><a href="prosecutions.php#p_dos" class="content_link">The Department of State</a></li>	
+      <li><a href="prosecutions.php#p_dos" class="content_link">The Department of State</a></li>
       <li><a href="prosecutions.php#p_dod" class="content_link">The Department of Defense</a>
       </ul>
       Non-Prosecutions:
@@ -33,7 +33,7 @@
         <u><a href="thepardons.php" class="content_link">Pardons</a></u>
     </div></td></tr>
     </table>
-    
+
 </td>
 <td align="justify" valign="top">
 <p>On December 4, 1986, United States Attorney General Edwin Meese III requested that an independent counsel be appointed to investigate Iran-Contra matters. On December 19, the three judges on the appointing panel named Lawrence Walsh, a former judge and deputy attorney general in the Eisenhower Administration, to the post.</p>

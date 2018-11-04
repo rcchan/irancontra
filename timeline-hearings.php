@@ -3,13 +3,13 @@
 <meta name="keywords" content="iran, contra, iran-contra, scandals, iran contra affairs, iran-contra affairs"
 </head>
 <? require ('templates/mainbanner.php'); ?>
-    
+
  <div style="position:relative; margin: 10px 0px 0px 20px; width: 765px" align="center" id="welcomenote">
- 
+
  <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="timelines.php">Timelines</a>
 &raquo; Hearings Timeline</div>
 
- 
+
  <div align="left"><br/><br/>
  <h2><a name="headertop" id="headertop"></a>Hearings Timeline <br/><br/>
  </h2>
@@ -139,14 +139,15 @@
        <li>Closing statement by Sen. Inouye &nbsp;&nbsp;</li>
      </ul>
      <h3>August 4-6: Clarridge and George</h3></td>
+       <li>The televised hearings ended on August 3. The committee heard several additional witnesses, and it recalled several others in the coming weeks, including Rodney McDaniel the NSC staff member who took notes at the president’s daily intelligence briefings, and Michael Ledeen, a former consultant to the NSC.  Most notably, the committee heard three additional witnesses in closed session on August 4-7: Duane (Dewey) Clarridge, the CIA count-terrorism chief, Alan Fliers, CIA Central America Task Force chief, and Clair George, CIA director of covert operations. <a href="http://www.nytimes.com/1987/08/20/world/us-planned-in-84-for-south-africa-to-help-contras.html">Portions of Clarridge’s testimony</a> were declassified and released a few weeks later. <a href="https://www.nytimes.com/1987/08/26/world/casey-didn-t-heed-warning-on-deals-iran-panel-hears.html">Portions of Flier’s and George’s testimony</a> were released shortly thereafter.</li>
  </tr>
  </table>
- 
+
  <div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div><br/><br/><br/><br/>
- 
+
  </div>
- 
+
  <br/><br/><br/><br/><br/><br/>
-    
-    
+
+
 <? require ('templates/footer.php'); ?>

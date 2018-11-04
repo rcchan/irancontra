@@ -28,7 +28,7 @@
       <tr>
         <td>
           <div style="width: 80%; margin: auto;">
-            <span style="font-size: 9px;">Enter last name of senator, official, or attorney.</span>
+            <span style="font-size: 9px;">Enter last name of senator, official, or attorney. For clips sorted by witness only, see below.</span>
             <input id="gallerysearch" placeholder="Search" style="display: block; width: 100%; padding: 0 5px;">
           </div>
         </td>
@@ -118,12 +118,12 @@
    });
    return out;
 } );
-  
+
   Handlebars.registerPartial('gallery', document.getElementById('gallery-template').innerHTML);
   Handlebars.registerPartial('blurb', document.getElementById('blurb-template').innerHTML);
-  
+
   document.getElementById('galleryfilters').innerHTML = Handlebars.compile(document.getElementById('filters-template').innerHTML)({videos: videos, actors: actors});
-  
+
   var template = Handlebars.compile(document.getElementById('main-template').innerHTML);
   (window.onhashchange = () => {
     var key = window.location.hash.substring(1);
