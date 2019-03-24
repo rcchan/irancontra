@@ -12,7 +12,11 @@
  <em>All documents were kindly provided by the Digital National Security Archive.</em><br /><br />
  
  <table border=1 cellpadding=0 cellspacing=0>
-    <thead><tr><td>Document #</td><td>Document Name</td><td>Format</td><td>Additional Information</td></tr></thead>
+    <col width="10%">
+    <col width="30%">
+    <col width="20%">
+    <col width="40%">
+    <thead style="font-weight: bold; text-align: center;"><tr><td>Document #</td><td>Document Name</td><td>Format</td><td>Additional Information</td></tr></thead>
     <tr><td>1</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-17.pdf">Somoza's Departure</a></td><td>Secret, Cable, 183243, July 14, 1979, 4 pp.</td><td>Cable from President Carter to with letter for soon-to-be-former Nicaraguan President Somoza.</td></tr>
     <tr><td>2</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-18.pdf">Suggestion for Bolstering Moderate Influence</a></td><td>Secret, Cable, 03082, July 15, 1979, 1 pp.</td><td>Cable from the ambassador in Costa Rica to the ambassador in Nicaragua and the Sec. of State on suggestions to bolster moderate influences in the country.</td></tr>
     <tr><td>3</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-16.pdf">Fidel Castro Sends Letter to GRN Junta</a></td><td>Limited Official Use, Cable, 03254, July 11, 1980, 2 pp.</td><td>Cuba’s Castro send letter congratulating the Nicaraguan Government of National 29Reconstruction (GRN) “on the occasion of the July 19 anniversary of the revolution.”</td></tr>
