@@ -11,305 +11,64 @@
  
  <em>All documents were kindly provided by the Digital National Security Archive.</em><br /><br />
  
- <table width=700 border=1 cellpadding=0 cellspacing=0>
-   <col width="75" />
-   <col width="230" />
-   <col width="297" />
-   <tr>
-     <td width="130"><div align="center"><strong>Document #</strong></div></td>
-     <td width="281"><div align="center"><strong>Document Name</strong></div></td>
-     <td width="281"><div align="center"><strong>Description</strong></div></td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00940 </div></td>
-     <td><a href="documents/d-all-8.pdf" class="content_link">"White Propaganda" Operation </a></td>
-     <td>Confidential, Memorandum, March 13, 1985, 3 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC03053 </div></td>
-     <td><a href="documents/d-all-17.pdf" class="content_link">[Bank Statement for Toyco S.A. June 25, 1986]</a></td>
-     <td>Debit Notice, June 25, 1986, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC01584 </div></td>
-     <td><a href="documents/d-all-34.pdf" class="content_link">[Building Air Resupply Capability in El Salvador for Contras -   Document Reprinted from Felix Rodriguez Autobiography] </a></td>
-     <td>Secret, Letter, September 20, 1985, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI01824</div></td>
-     <td><a href="documents/d-nic-24.pdf" class="content_link">[CIA Covert Operations in Nicaragua] </a></td>
-     <td>Secret, Presidential Finding, September 19, 1983, 3 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00210</div></td>
-     <td><a href="documents/d-nic-26.pdf" class="content_link">[Congressional Research Service Translation of CIA Contra   Manual], Unclassified</a></td>
-     <td>Report, c. October 1, 1983, 44 pp.</td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00034 </div></td>
-     <td><a href="documents/d-all-31.pdf" class="content_link">[Early Background Report on Manucher Ghorbanifar] </a></td>
-     <td>Secret, Report, c. September 1, 1981, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI02047</div></td>
-     <td><a href="documents/d-nic-9.pdf" class="content_link">[Expression of Outrage over Not Being Briefed on CIA Mining of   Nicaraguan Harbors] </a></td>
-     <td>Unclassified, Letter, April 9, 1984, 2 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC01427</div></td>
-     <td><a href="documents/d-nic-20.pdf" class="content_link">[Letter of Thanks for Support of President Reagan's Contra Policy] </a></td>
-     <td>Letter, August 15, 1985, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00858</div></td>
-     <td><a href="documents/d-nic-3.pdf" class="content_link">[Letter to Adolfo Calero Reporting on Honduran Agreement to   Help Contras, Saudi Contribution of $20 Million and Other Components of   Resupply Operation] </a></td>
-     <td>Secret, Letter, c. February 20, 1985, 3 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC03086</div></td>
-     <td><a href="documents/d-nic-3.pdf" class="content_link">[Oliver North Flow Chart of Contra Fundraising, Finance and   Arms Procurement Network] </a></td>
-     <td>Non-Classified, Chart, c. July 1986, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC02647</div></td>
-     <td><a href="documents/d-nic-11.pdf" class="content_link">[Report on Failure of Air Resupply Mission on April 10 and   Plans to Attempt Mission on April 11] </a></td>
-     <td>Top Secret, KL-43, April 11, 1986, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC03329 </div></td>
-     <td><a href="documents/d-all-30.pdf" class="content_link">[Report on Meetings with Iranian Intermediaries in Brussels] </a></td>
-     <td>Top Secret, KL-43, August 26, 1986, 2 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC02622</div></td>
-     <td><a href="documents/d-nic-8.pdf" class="content_link">[Richard Secord Arrangements for First Contra Airdrop] </a></td>
-     <td>Top Secret, KL-43, April 8, 1986, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI02511</div></td>
-     <td><a href="documents/d-nic-15.pdf" class="content_link">[Ronald W. Reagan Toasts Adolfo Calero for His   "Courageous Struggle to Bring Freedom to the People of Nicaragua"] </a></td>
-     <td>Non-Classified, Statement, July 3, 1985, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI01699</div></td>
-     <td><a href="documents/d-nic-12.pdf" class="content_link">Amendment to the Intelligence Authorization Act for Fiscal   Year 1983 </a></td>
-     <td>Non-Classified, Report, May 13, 1983, 44 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00855 </div></td>
-     <td><a href="documents/d-all-3.pdf" class="content_link">Approach to the Hondurans regarding the Nicaraguan Resistance </a></td>
-     <td>Secret, Memorandum, February 19, 1985, 2 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI01610</div></td>
-     <td><a href="documents/d-nic-28.pdf" class="content_link">Assessment of Recent Counterrevolutionary Activity</a></td>
-     <td>Confidential, Cable, 04943, October 20, 1982, 3 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00310 </div></td>
-     <td><a href="documents/d-all-2.pdf" class="content_link">Attack on Guerilla Command and Control Centers in Nicaragua </a></td>
-     <td>Secret, Memorandum, February 3, 1984, 2 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00340 </div></td>
-     <td><a href="documents/d-all-5.pdf" class="content_link">Central American Legislative Strategy -- Additional Funding   for Anti-Sandinista Forces </a></td>
-     <td>Top Secret, Memorandum, February 21, 1984, 2 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC02181 </div></td>
-     <td><a href="documents/d-all-1.pdf" class="content_link">Covert Action Finding regarding Iran</a></td>
-     <td>Memorandum, January 17, 1986, 4 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI01813</div></td>
-     <td><a href="documents/d-all-1.pdf" class="content_link">Covert Action Proposal concerning Central America</a></td>
-     <td>Secret, Memorandum, September 9, 1983, 5 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI01346</div></td>
-     <td><a href="documents/d-nic-22.pdf" class="content_link">Developing Soviet-Nicaraguan Relations </a></td>
-     <td>Secret, Report, June 24, 1981, 9 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI02887</div></td>
-     <td><a href="documents/d-nic-27.pdf" class="content_link">Downed Plane </a></td>
-     <td>Top Secret, PROFS, October 8, 1986, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI02640</div></td>
-     <td><a href="documents/d-nic-29.pdf" class="content_link">Evidence of Nicaraguan Subversion in Central America </a></td>
-     <td>Non-Classified, Press Briefing, December 19, 1985, 8 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00952 </div></td>
-     <td><a href="documents/d-all-9.pdf" class="content_link">Fallback Plan for the Nicaraguan Resistance </a></td>
-     <td>Top Secret, Memorandum, March 16, 1985, 4 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI02434</div></td>
-     <td><a href="documents/d-nic-10.pdf" class="content_link">FDN [Nicaraguan Democratic Force] Military Operations </a></td>
-     <td>Top Secret, Memorandum, April 11, 1985, 4 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00557 </div></td>
-     <td><a href="documents/d-all-32.pdf" class="content_link">FDN Air Attack of 1 September </a></td>
-     <td>Top Secret, Memorandum, September 2, 1984, 3 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI01168</div></td>
-     <td><a href="documents/d-nic-16.pdf" class="content_link">Fidel Castro Sends Letter to GRN Junta </a></td>
-     <td>Limited Official Use, Cable, 03254, July 11, 1980, 2 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI01414</div></td>
-     <td><a href="documents/d-all-45.pdf" class="content_link">Finding Pursuant to Section 622 of the Foreign Assistance Act   of 1961, as Amended, concerning Operations Undertaken by the Central   Intelligence Agency in Foreign Countries, Other Than Those Intended Solely   for the Purpose of Intelligence Collection </a></td>
-     <td>Secret, Presidential Finding, December 1, 1981, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI02647</div></td>
-     <td><a href="documents/d-nic-2.pdf" class="content_link">Finding Pursuant to Section 662 of the Foreign Assistance Act   of 1961 as Amended, concerning Operations Undertaken by the Central   Intelligence Agency in Foreign Countries, Other Than Those Intended Solely   for the Purpose of Intelligence Collection </a></td>
-     <td>Top Secret, Presidential Finding, January 9, 1986, 2 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI01287</div></td>
-     <td><a href="documents/d-nic-5.pdf" class="content_link">Finding Pursuant to Section 662 of the Foreign Assistance Act   of 1961, as Amended, concerning Operations Undertaken by the Central   Intelligence Agency in Foreign Countries, Other Than Those Intended Solely   for the Purpose of Intelligence Collection </a></td>
-     <td>Secret, Presidential Finding, March 9, 1981, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00918 </div></td>
-     <td><a href="documents/d-all-7.pdf" class="content_link">Guatemalan Aid to the Nicaraguan Resistance </a></td>
-     <td>Top Secret, Memorandum, March 5, 1985, 4 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC03732 </div></td>
-     <td><a href="documents/d-all-40.pdf" class="content_link">Meeting on November 10, 1986, with the President, Vice   President, Secretary Shultz, DCI Casey, Attorney General Meese, Don Regan,   Admiral Poindexter, and Al Keel, in the Oval Office </a></td>
-     <td>Secret, Memorandum, November 10, 1986, 3 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC02496 </div></td>
-     <td><a href="documents/d-all-10.pdf" class="content_link">Meeting with Costa Rican Security Minister Benjamin Piza </a></td>
-     <td>Secret, Memorandum, March 17, 1986, 2 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00397 </div></td>
-     <td><a href="documents/d-all-13.pdf" class="content_link">News Coverage of Central America </a></td>
-     <td>Limited Official Use, Memorandum, April 15, 1984, 3 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00656 </div></td>
-     <td><a href="documents/d-all-46.pdf" class="content_link">Nicaragua </a></td>
-     <td>Secret, Memorandum, December 14, 1984, 5 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC01835 </div></td>
-     <td><a href="documents/d-all-44.pdf" class="content_link">NSC Request </a></td>
-     <td>Secret, Cable, November 23, 1985, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC03547</div></td>
-     <td><a href="documents/d-all-37.pdf" class="content_link">Press Guidance; More on Plane Downed in Nicaragua </a></td>
-     <td>Non-Classified, Cable San Salvador, October 7, 1986, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC02671 </div></td>
-     <td><a href="documents/d-all-15.pdf" class="content_link">Private Blank Check </a></td>
-     <td>Secret, PROFS, April 16, 1986, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC02671</div></td>
-     <td><a href="documents/d-all-4.pdf" class="content_link">Private Blank Check [Instructions on Negotiations with Iran]</a></td>
-     <td>Secret, PROFS, April 16, 1986, 9 pp.</td>
-   </tr>
-   <tr>
-     <td><div align="center">IC03464 </div></td>
-     <td><a href="documents/d-all-35.pdf" class="content_link">Public Affairs Campaign on Central America </a></td>
-     <td>Secret, PROFS, September 25, 1986, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI02233 </div></td>
-     <td><a href="documents/d-all-39.pdf" class="content_link">Public Law 98-473 [H.J.Res. 648]; Continuing Appropriations,   1985--Comprehensive Crime Control Act of 1984 (P.2 Boland Amendment II)</a></td>
-     <td>Non-Classified, Law, October 12, 1984, 5 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC02614</div></td>
-     <td><a href="documents/d-nic-6.pdf" class="content_link">Release of American Hostages in Beirut </a></td>
-     <td>Top Secret, Memorandum, c. April 4, 1986, 5 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC01184</div></td>
-     <td><a href="documents/d-nic-13.pdf" class="content_link">Request for Presidential Appointment for Barbara Newington </a></td>
-     <td>Unclassified, Memorandum, c. June 1, 1985, 2 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI01541</div></td>
-     <td><a href="documents/d-all-19.pdf" class="content_link">Scope of CIA Activities under the Nicaragua Finding </a></td>
-     <td>Secret, Scope Paper, July 12, 1982, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI01825</div></td>
-     <td><a href="documents/d-nic-25.pdf" class="content_link">Scope of CIA Activities under the Nicaragua Finding </a></td>
-     <td>Secret, Scope Paper, September 19, 1983, 3 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI00932</div></td>
-     <td><a href="documents/d-nic-17.pdf" class="content_link">Somoza's Departure</a></td>
-     <td>Secret, Cable, 183243, July 14, 1979, 4 pp.</td>
-   </tr>
-   <tr>
-     <td><div align="center">NI03145</div></td>
-     <td><a href="documents/d-nic-4.pdf" class="content_link">Soviet Bloc Military Equipment Supplied to Nicaragua (Jul   1979-Dec 1988) </a></td>
-     <td>Non-Classified, Report, c. February 1989, 6 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI01994</div></td>
-     <td><a href="documents/d-all-6.pdf" class="content_link">Special Activities in Nicaragua (mining memo)</a></td>
-     <td>Top Secret, Memorandum, March 2, 1984, 2 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC01211 </div></td>
-     <td><a href="documents/d-all-16.pdf" class="content_link">Status of Hostage Recovery Efforts </a></td>
-     <td>Top Secret, Memorandum, June 7, 1985, 8 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI00936</div></td>
-     <td><a href="documents/d-nic-18.pdf" class="content_link">Suggestion for Bolstering Moderate Influence </a></td>
-     <td>Secret, Cable, 03082, July 15, 1979, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC04084</div></td>
-     <td><a href="documents/d-nic-30.pdf" class="content_link">Summary of Hakim Accounting Records, Phase II </a></td>
-     <td>Accounting Records, c. December 31, 1986, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00376 </div></td>
-     <td><a href="documents/d-all-11.pdf" class="content_link">Supplemental Assistance to Nicaragua Program</a></td>
-     <td>Secret, Memorandum, March 27, 1984, 1 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI02544</div></td>
-     <td><a href="documents/d-nic-21.pdf" class="content_link">The 1984 Boland Amendment </a></td>
-     <td>Unclassified, Memorandum, August 23, 1985, 6 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC00087</div></td>
-     <td><a href="documents/d-nic-7.pdf" class="content_link">The Boland Amendment </a></td>
-     <td>Non-Classified, Report, April 6, 1983, 6 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC03557 </div></td>
-     <td><a href="documents/d-all-38.pdf" class="content_link">Translation by Albert Hakim of the Farse [sic] Original of the   9 Points </a></td>
-     <td>Non-Classified, Memorandum, October 8, 1986, 4 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">NI01422</div></td>
-     <td><a href="documents/d-nic-1.pdf" class="content_link">U.S. Aid to Nicaragua </a></td>
-     <td>Confidential, Cable, 003282, January 7, 1982, 2 pp. </td>
-   </tr>
-   <tr>
-     <td><div align="center">IC02674 </div></td>
-     <td><a href="documents/d-all-14.pdf" class="content_link">VP Meeting with Felix Rodriguez, a Counterinsurgency Expert   Visiting from El Salvador</a></td>
-     <td>Non-Classified, Memorandum, April 16, 1986, 1 pp. </td>
-   </tr>
+ <table border=1 cellpadding=0 cellspacing=0>
+    <thead><tr><td>Document #</td><td>Document Name</td><td>Format</td><td>Additional Information</td></tr></thead>
+    <tr><td>1</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-17.pdf">Somoza's Departure</a></td><td>Secret, Cable, 183243, July 14, 1979, 4 pp.</td><td>Cable from President Carter to with letter for soon-to-be-former Nicaraguan President Somoza.</td></tr>
+    <tr><td>2</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-18.pdf">Suggestion for Bolstering Moderate Influence</a></td><td>Secret, Cable, 03082, July 15, 1979, 1 pp.</td><td>Cable from the ambassador in Costa Rica to the ambassador in Nicaragua and the Sec. of State on suggestions to bolster moderate influences in the country.</td></tr>
+    <tr><td>3</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-16.pdf">Fidel Castro Sends Letter to GRN Junta</a></td><td>Limited Official Use, Cable, 03254, July 11, 1980, 2 pp.</td><td>Cuba’s Castro send letter congratulating the Nicaraguan Government of National 29Reconstruction (GRN) “on the occasion of the July 19 anniversary of the revolution.”</td></tr>
+    <tr><td>4</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-5.pdf">Finding Pursuant to Section 662 of the Foreign Assistance Act of 1961, as Amended, Concerning Operations Undertaken by the Central Intelligence Agency in Foreign Countries, Other Than Those Intended Solely for the Purpose of Intelligence Collection</a></td><td>Secret, Presidential Finding, March 9, 1981, 1 pp.</td><td>A signed finding by President Reagan authorizing actions "to counter foreign-sponsored subversion and terrorism” in Central America and encourage governments across the world to provide support, with briefings to Congress.</td></tr>
+    <tr><td>5</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-31.pdf">Early Background Report on Manucher Ghorbanifar</a></td><td>Secret, Report, c. September 1, 1981, 1 pp.</td><td>An early report on Ghorbanifar’s background.</td></tr>
+    <tr><td>6</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-45.pdf">Finding Pursuant to Section 622 of the Foreign Assistance Act of 1961, as Amended, Concerning Operations Undertaken by the Central Intelligence Agency in Foreign Countries, Other Than Those Intended Solely for the Purpose of Intelligence Collection</a></td><td>Secret, Presidential Finding, December 1, 1981, 1 pp.</td><td>A signed finding by President Reagan authorizing “support and paramilitary operations against Nicaragua,” with briefings to Congress.</td></tr>
+    <tr><td>7</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-1.pdf">U.S. Aid to Nicaragua</a></td><td>Confidential, Cable, 003282, January 7, 1982, 2 pp.</td><td>Brief history of recent pre-Iran-Contra Nicaraguan support efforts.</td></tr>
+    <tr><td>8</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-19.pdf">Scope of CIA Activities under the Nicaragua Finding</a></td><td>Secret, Scope Paper, July 12, 1982, 1 pp.</td><td>Memo detailing the scope of CIA activities under the Nicaragua finding.</td></tr>
+    <tr><td>9</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-28.pdf">Assessment of Recent Counterrevolutionary Activity</a></td><td>Confidential, Cable, 04943, October 20, 1982, 3 pp.</td><td>Cable describing Contra activities against the Sandinistas.</td></tr>
+    <tr><td>10</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-7.pdf">The Boland Amendment</a></td><td>Non-Classified, Report, April 6, 1983, 6 pp.</td><td>History of the initial Boland Amendment.</td></tr>
+    <tr><td>11</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-12.pdf">Amendment to the Intelligence Authorization Act for Fiscal Year 1983</a></td><td>Non-Classified, Report, May 13, 1983, 44 pp.</td><td>Contains detail of Congressional debate about whether and how to intervene in Central America against communism.</td></tr>
+    <tr><td>12</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-22.pdf">Covert Action Proposal Concerning Central America</a></td><td>Secret, Memorandum, September 9, 1983, 5 pp.</td><td>Memo to CIA Director Casey recommending “cover action concerning… paramilitary activities in Central America.”</td></tr>
+    <tr><td>13</td><td><a class="content_link" href="">CIA Covert Operations in Nicaragua</a></td><td>Secret, Presidential Finding, September 19, 1983, 3 pp.</td><td>Details a scope of CIA activities under a Presidential Finding that "authorizes the provision of material support and guidance to Nicaraguan resistance groups," including assessing future actions, funding, and risks.</td></tr>
+    <tr><td>14</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-24.pdf">Scope of CIA Activities Under the Nicaragua Finding</a></td><td>Secret, Scope Paper, September 19, 1983, 3 pp.</td><td>Later memo detailing the scope of CIA activities under revised Nicaragua finding.</td></tr>
+    <tr><td>15</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-26.pdf">Congressional Research Service Translation of CIA Contra Manual, Unclassified</a></td><td>Report, c. October 1, 1983, 44 pp.</td><td>A CIA manual "manual for the training of guerrillas in psychological operations," which notes that "guerrilla warfare is essentially a political war."</td></tr>
+    <tr><td>16</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-2.pdf">Attack on Guerilla Command and Control Centers in Nicaragua</a></td><td>Secret, Memorandum, February 3, 1984, 2 pp.</td><td>Memo from Col. North to National Security Advisory McFarlane on recent attack in Nicaragua; requests McFarlane to brief the President.</td></tr>
+    <tr><td>17</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-5.pdf">Central American Legislative Strategy -- Additional Funding for Anti-Sandinista Forces</a></td><td>Top Secret, Memorandum, February 21, 1984, 2 pp.</td><td>Memo from National Security Advisor McFarlane to the President on strategy to get Congress to approve additional resources for the Contras.</td></tr>
+    <tr><td>18</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-6.pdf">Special Activities in Nicaragua (“Mining Memo”)</a></td><td>Top Secret, Memorandum, March 2, 1984, 2 pp.</td><td>Memo from Col. North et al. to National Security Advisory McFarlane on “special activities in Nicaragua,” designed to “severely disrupt the flow of… trade.” McFarlane signs off and agrees to brief the President.</td></tr>
+    <tr><td>19</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-11.pdf">Supplemental Assistance to Nicaragua Program</a></td><td>Secret, Memorandum, March 27, 1984, 1 pp.</td><td>Memo from CIA Director Casey to National Security Advisory McFarlane with suggestions on how to keep the Contra assistance program going; recommends considering having “private U.S. citizen[s]” donate to the effort, “after examining legalities.”</td></tr>
+    <tr><td>20</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-9.pdf">Expression of Outrage Over Not Being Briefed on CIA Mining of Nicaraguan Harbors</a></td><td>Unclassified, Letter, April 9, 1984, 2 pp.</td><td>Letter from Sen. Goldwater to CIA Director Casey expressing his "feelings about the discovery of the President having approved" mining of some harbors in Central America; Goldwater says he is "pissed off!"</td></tr>
+    <tr><td>21</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-13.pdf">News Coverage of Central America</a></td><td>Limited Official Use, Memorandum, April 15, 1984, 3 pp.</td><td>Memo from Sec. of State Shultz to President Reagan on recent news coverage of developments in Central America; includes discussion of the work of the Office of Public Diplomacy.</td></tr>
+    <tr><td>22</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-32.pdf">FDN Air Attack of 1 September</a></td><td>Top Secret, Memorandum, September 2, 1984, 3 pp.</td><td>Col. North memo to National Security Advisor McFarlane recounting a recent air attack involving the Contras. McFarlane agreed to brief the President on the details, but denied North’s request to allow a private donor to replace a Contra helicopter, saying “I don’t think this is legal.”</td></tr>
+    <tr><td>23</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-39.pdf">Public Law 98-473 [H.J.Res. 648]; Continuing Appropriations, 1985 --Comprehensive Crime Control Act of 1984 (P.2 Boland Amendment II)</a></td><td>Non-Classified, Law, October 12, 1984, 5 pp.</td><td>Text of the Boland Amendment II, with § 8066 extract.</td></tr>
+    <tr><td>24</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-46.pdf">Nicaragua</a></td><td>Secret, Memorandum, December 14, 1984, 5 pp.</td><td>Memo to CIA Director Casey on American efforts in Nicaragua, which claims that U.S. policy there is ineffective because there is a lack of agreement in Washington on the objectives, saying “it is time to talk straight.”</td></tr>
+    <tr><td>25</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-3.pdf">Approach to the Hondurans Regarding the Nicaraguan Resistance</a></td><td>Secret, Memorandum, February 19, 1985, 2 pp.</td><td>Memo from National Security Advisor McFarlane to the President explaining ways to ensure the Hondurans support the Contras.</td></tr>
+    <tr><td>26</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-3.pdf">Letter to Adolfo Calero Reporting on Honduran Agreement to Help Contras, Saudi Contribution of $20 Million and Other Components of Resupply Operation</a></td><td>Secret, Letter, c. February 20, 1985, 3 pp.</td><td>Letter to Mr. Calero detailing recent steps to aid the Contras and recommending next steps.</td></tr>
+    <tr><td>27</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-7.pdf">Guatemalan Aid to the Nicaraguan Resistance</a></td><td>Top Secret, Memorandum, March 5, 1985, 4 pp.</td><td>Memo from Col. North to National Security Advisor McFarlane with an update of Guatemalan aid to the Contras.</td></tr>
+    <tr><td>28</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-8.pdf">"White Propaganda" Operation</a></td><td>Confidential, Memorandum, March 13, 1985, 3 pp.</td><td>Provides background on the covert "'white propaganda' operation" executed by the State Department's Office of Public Diplomacy for Latin America and the Caribbean (S/LPD), in service of "getting the President's program for freedom fighters [sic] enacted."</td></tr>
+    <tr><td>29</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-9.pdf">Fallback Plan for the Nicaraguan Resistance</a></td><td>Top Secret, Memorandum, March 16, 1985, 4 pp.</td><td>Col. North’s fallback plan for the Nicaraguan resistance prepared for National Security Advisor McFarlane, which notes that “secrecy for the plan is paramount.”</td></tr>
+    <tr><td>30</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-10.pdf">FDN [Nicaraguan Democratic Force] Military Operations</a></td><td>Top Secret, Memorandum, April 11, 1985, 4 pp.</td><td>Col. North memo to National Security Advisor McFarlane overviewing recent Contra military activities; requests approval to approach current donors for between $15-20 million in additional funding.</td></tr>
+    <tr><td>31</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-13.pdf">Request for Presidential Appointment for Barbara Newington</a></td><td>Unclassified, Memorandum, c. June 1, 1985, 2 pp.</td><td>Memo to National Security Advisory McFarlane requesting that President Reagan take a photo-op with a large contributor to his causes, including those related to Nicaragua.</td></tr>
+    <tr><td>32</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-16.pdf">Status of Hostage Recovery Efforts</a></td><td>Top Secret, Memorandum, June 7, 1985, 8 pp.</td><td>Memo from Col. North to National Security Advisory McFarlane on the status of the various hostages and associated recovery efforts.</td></tr>
+    <tr><td>33</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-15.pdf">President Reagan Toasts Adolfo Calero for His "Courageous Struggle to Bring Freedom to the People of Nicaragua"</a></td><td>Non-Classified, Statement, July 3, 1985, 1 pp.</td><td>President Reagan’s toast to Mr. Calero for his support of the Contras against the “communist Sandinistas.”</td></tr>
+    <tr><td>34</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-20.pdf">Letter of Thanks for Support of President Reagan's Contra Policy</a></td><td>Letter, August 15, 1985, 1 pp.</td><td>Letter from Col. North to Mr. Channell expressing thanks for his donation to the “struggle for freedom” in Nicaragua and “support of the President’s program.”</td></tr>
+    <tr><td>35</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-21.pdf">The 1984 Boland Amendment</a></td><td>Unclassified, Memorandum, August 23, 1985, 6 pp.</td><td>Summary of the 1984 Boland Amendment, including its legislative history, intent, and the White House's position.</td></tr>
+    <tr><td>36</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-34.pdf">Building Air Resupply Capability in El Salvador for Contras - Document Reprinted from Felix Rodriguez Autobiography</a></td><td>Secret, Letter, September 20, 1985, 1 pp.</td><td>Details how Iran-Contra “was a highly compartment operation” with information on the materiel the resistance was purchasing.</td></tr>
+    <tr><td>37</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-44.pdf">NSC Request</a></td><td>Secret, Cable, November 23, 1985, 1 pp.</td><td>Memo from the NSC requesting military material that can be exchanges for hostages.</td></tr>
+    <tr><td>38</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-4.pdf">Private Blank Check [Instructions on Negotiations with Iran]</a></td><td>Secret, PROFS, December 4, 1985, 9 pp.</td><td>Earlier memo from Col. North to Adm. Poindexter’s memo recounting the current status of the transfer plan.</td></tr>
+    <tr><td>39</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-29.pdf">Evidence of Nicaraguan Subversion in Central America</a></td><td>Non-Classified, Press Briefing, December 19, 1985, 8 pp.</td><td>Asst. Sec. of State Abrams’ press briefing on evidence of Nicaraguan subversion in Central America.</td></tr>
+    <tr><td>40</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-2.pdf">Finding Pursuant to Section 662 of the Foreign Assistance Act of 1961 as Amended, concerning Operations Undertaken by the Central Intelligence Agency in Foreign Countries, Other Than Those Intended Solely for the Purpose of Intelligence Collection</a></td><td>Top Secret, Presidential Finding, January 9, 1986, 2 pp.</td><td>A signed finding by President Reagan authorizing actions “to induce the Sandinistas to halt their transformation of Nicaragua into a” communist state, with briefings to Congress.</td></tr>
+    <tr><td>41</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-1.pdf">Covert Action Finding Regarding Iran</a></td><td>Memorandum, January 17, 1986, 4 pp.</td><td>A signed finding and associated background memo from Adm. Poindexter (prepared by Col. North) authorizing covert action hidden from the Congress regarding Iran.</td></tr>
+    <tr><td>42</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-10.pdf">Meeting with Costa Rican Security Minister Benjamin Piza</a></td><td>Secret, Memorandum, March 17, 1986, 2 pp.</td><td>Memo from Adm. Poindexter to President Reagan with details and talking point for a scheduled Oval Office photo-op with Costa Rican official; includes request for Costa Rica to continue to support Contra resistance efforts.</td></tr>
+    <tr><td>43</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-6.pdf">Release of American Hostages in Beirut</a></td><td>Top Secret, Memorandum, c. April 4, 1986, 5 pp.</td><td>Memo detailing a plan to retrieve American hostages in Beirut by allowing Israel to sell arms to Iran with the U.S. then resupplying Israel.</td></tr>
+    <tr><td>44</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-8.pdf">Richard Secord Arrangements for First Contra Airdrop</a></td><td>Top Secret, KL-43, April 8, 1986, 1 pp.</td><td>Mr. Secord’s arrangements for first aerial supply drop to the Contras.</td></tr>
+    <tr><td>45</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-11.pdf">Report on Failure of Air Resupply Mission on April 10 and Plans to Attempt Mission on April 11</a></td><td>Top Secret, KL-43, April 11, 1986, 1 pp.</td><td>Details “asinine” procedure to resupply Contras.</td></tr>
+    <tr><td>46</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-15.pdf">Private Blank Check</a></td><td>Secret, PROFS, April 16, 1986, 1 pp.</td><td>Memo from Adm. Poindexter outlining challenges with a plan that would transfer “parts” for hostages, which the President has approved of.</td></tr>
+    <tr><td>47</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-14.pdf">V.P. Meeting with Felix Rodriguez, a Counterinsurgency Expert Visiting from El Salvador</a></td><td>Non-Classified, Memorandum, April 16, 1986, 1 pp.</td><td>Schedule proposal for CIA Officer Rodriguez’ meeting with Vice President Bush, including an opportunity for him “to brief [Bush] on the status of [the] resupply of the Contras.”</td></tr>
+    <tr><td>48</td><td><a class="content_link" href="">Oliver North Flow Chart of Contra Fundraising, Finance and Arms Procurement Network</a></td><td>Non-Classified, Chart, c. July 1986, 1 pp.</td><td>Col. North’s account of how money flowed, eventually, to the Contras and others.</td></tr>
+    <tr><td>49</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-30.pdf">Report on Meetings with Iranian Intermediaries in Brussels</a></td><td>Top Secret, KL-43, August 26, 1986, 2 pp.</td><td>Discusses three meetings held with the Iranians and recommends next steps.</td></tr>
+    <tr><td>50</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-35.pdf">Public Affairs Campaign on Central America</a></td><td>Secret, PROFS, September 25, 1986, 1 pp.</td><td>Note from Adm. Poindexter on the public affairs campaign on Central America.</td></tr>
+    <tr><td>51</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-37.pdf">Press Guidance; Background on Plane Downed in Nicaragua</a></td><td>Non-Classified, Cable San Salvador, October 7, 1986, 1 pp.</td><td>Initial information on the downed plane that led to an American hostage in Nicaragua.</td></tr>
+    <tr><td>52</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-27.pdf">Downed Plane</a></td><td>Top Secret, PROFS, October 8, 1986, 1 pp.</td><td>Memo to Adm. Poindexter concerning an American captured by the Nicaraguans referencing next steps that Col. North and Asst. Sec. of State Abrams will take.</td></tr>
+    <tr><td>53</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-38.pdf">Translation by Albert Hakim of the Farse [sic] Original of the 9 Points</a></td><td>Non-Classified, Memorandum, October 8, 1986, 4 pp.</td><td>Mr. Hakim’s translation of the among the parties whereby military equipment would ultimately led to hostages’ release.</td></tr>
+    <tr><td>54</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-all-40.pdf">Meeting on November 10, 1986, with the President, Vice President, Secretary Shultz, DCI Casey, Attorney General Meese, Don Regan, Admiral Poindexter, and Al Keel, in the Oval Office</a></td><td>Secret, Memorandum, November 10, 1986, 3 pp.</td><td>White House meeting regarding the breaking Iran-Contra story with discussion of next steps to take.</td></tr>
+    <tr><td>55</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-30.pdf">Summary of Hakim Accounting Records, Phase II</a></td><td>Accounting Records, c. December 31, 1986, 1 pp.</td><td>A chart detailing Mr. Hakim’s accounts from Aug. of ’85 through Dec. of ’86.</td></tr>
+    <tr><td>56</td><td><a class="content_link" href="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-4.pdf">Soviet Bloc Military Equipment Supplied to Nicaragua (Jul. 1979-Dec. 1988)</a></td><td>Non-Classified, Report, c. February 1989, 6 pp.</td><td>A report overviewing the military equipment the Sandinistas received from the Soviet Bloc from mid-‘79 through ’88.</td></tr>
  </table>
  <br />
  
