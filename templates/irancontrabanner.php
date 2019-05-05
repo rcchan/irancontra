@@ -10,16 +10,13 @@
 		<td background="images/irancontra_02.jpg" width="650" height="332">
 			<div style="position:relative; top: 75px; bottom: 0px; left: 0px; right: 0px">
             <ul class="dropdown dropdown-horizontal">
-            <li><a href="timeline-n-i.php" class="dir">Timelines</a>
+            <li><a href="timeline-n-i.php" class="dir">Timeline</a>
 					<ul>
                     <li><a href="timeline-n-i.php">&raquo; Nicaragua and Iran Timeline</a></li>
-                    <li><a href="timeline-nicaragua.php">&raquo; Nicaragua Timeline</a></li>
-                    <li><a href="timeline-iran.php">&raquo; Iran Timeline</a></li>
 					</ul>
                  </li>
                 <li><a href="n-background.php">Nicaragua</a>
 					<ul>
-                    <li><a href="timeline-nicaragua.php">&raquo; Nicaragua Timeline</a></li>
 					<li><a href="n-background.php">&raquo; Background</a></li>
 					<li><a href="n-sandinistas.php">&raquo; The Sandinistas</a></li>
 					<li><a href="n-contras.php">&raquo; The Contras</a></li>
@@ -30,7 +27,6 @@
               </li>
                  <li><a href="i-background.php" class="dir">Iran</a>
 					<ul>
-                    <li><a href="timeline-iran.php">&raquo; Iran Timeline</a></li>
 					<li><a href="i-background.php">&raquo; Background</a></li>
                     <li><a href="i-otherconflicts.php">&nbsp;&nbsp;&nbsp;&nbsp;&middot; Other Relevant Conflicts</a></li>
 					<li><a href="i-thebeginning.php">&raquo; The Beginning of the Affair</a></li>
