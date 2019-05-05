@@ -43,7 +43,7 @@
      <h3>May 20-27: Calero, Rodriguez</h3>
      <ul>
        <li><a href="v-ac1.php" class="content_link">Opening Statement By Calero</a></li>
-       <li><a href="v-ac2.php" class="content_link">Calero on Arms Payments in Consultation with Oliver North</a></li>
+       <li><a href="v-ac2.php" class="content_link">Calero on Arms Payments in Consultation With Oliver North</a></li>
        <li><a href="v-ac3.php" class="content_link">Calero on Reagan, Casey's Involvement</a></li>
        <li><a href="v-fr1.php" class="content_link">Rodriguez on Bush Meeting</a></li>
        </ul>
@@ -56,8 +56,8 @@
        <li><a href="v-ea5.php" class="content_link">Abrams and Sen. Inouye on Being "Immoral"</a></li>
        <li><a href="v-ah1.php" class="content_link">Hakim on the $200,000 Death Insurance for North</a></li>
        <li><a href="v-ah3.php" class="content_link">Hakim on North and the Hostages</a></li>
-       <li><a href="v-ah4.php" class="content_link">Hakim's Interactions with North and the Millions Hakim Stood to Make</a></li>
-       <li><a href="v-ah5.php" class="content_link">Hakim on War with Russia</a></li>
+       <li><a href="v-ah4.php" class="content_link">Hakim's Interactions With North and the Millions Hakim Stood to Make</a></li>
+       <li><a href="v-ah5.php" class="content_link">Hakim on War With Russia</a></li>
        <li><a href="v-ah6.php" class="content_link">Hakim Told by Sen. Inouye of the "Drastically Wrong" Situation</a></li>
        <li><a href="v-fh2.php" class="content_link">Hall on Altering Documents</a></li>
        <li><a href="v-fh3.php" class="content_link">North Talks to Hall After Resigning</a></li>
@@ -69,7 +69,7 @@
        <li><a href="v-on1.php" class="content_link">North: "What the President Knew"</a></li>
        <li><a href="v-on2.php" class="content_link">North on Shredding</a></li>
        <li><a href="v-on3.php" class="content_link">North on More Shredding</a></li>
-       <li><a href="v-on4.php" class="content_link">North on the Signed Arms-For-Hostages Finding</a></li>
+       <li><a href="v-on4.php" class="content_link">North on the Signed Arms-for-Hostages Finding</a></li>
        <li><a href="v-on5.php" class="content_link">North on Countries Who Wanted to Donate</a></li>
        <li><a href="v-on6.php" class="content_link">North on Reagan's Knowledge of Private Fundraising</a></li>
        <li><a href="v-on7.php" class="content_link">North on the "Neat Idea" of the Diversion</a></li>
@@ -101,7 +101,7 @@
        </ul>
      <h3>July 23-29: Shultz, Meese</h3>
      <ul>
-       <li><a href="v-gs1.php" class="content_link">Shultz on Opposing Arms For Hostages</a></li>
+       <li><a href="v-gs1.php" class="content_link">Shultz on Opposing Arms-for-Hostages</a></li>
        <li><a href="v-gs2.php" class="content_link">Shultz on Reagan's Insistence on Hostage Recovery</a></li>
        <li><a href="v-gs3.php" class="content_link">Shultz on Advisers Misleading Reagan</a></li>
        <li><a href="v-gs4.php" class="content_link">Shultz on How Reagan Was "Deceived and Lied To"</a></li>

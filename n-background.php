@@ -57,25 +57,25 @@
     Soon after the Sandinistas seized power, some segments of Nicaraguan society felt disenchanted with the new regime’s policies and sought to bring about change through armed rebellion.  These counterrevolutionaries, encouraged by the United States, came to be called the “Contras.”</p>
     <br /><br />
   <p><!-- Footnotes -->
-    <sup><p id="section1">1</p></sup>Greg Grandin, Empire’s Workshop (New York: Henry Holt and Company, LLC, 2006), 31.
-    <sup><p id="section2">2</p></sup>For policy intellectuals’ criticism of U.S. actions in Latin America in the second half of the Hoover administration, see the essays under the heading “Our Future Relations with Latin America,” Annals of the American Academy of Political and Social Science 156 (July 1931): 110-36.
-    <sup><p id="section3">3</p></sup>Grandin, Empire’s Workshop, 33.
-    <sup><p id="section4">4</p></sup>CQ Press, “Inter-American System,” SAGE Publishing. (http://library.cqpress.com/cqresearcher/document.php?id=cqresrre1960021000)
-    <sup><p id="section5">5</p></sup>Peter Gowan, The Global Gamble: Washington’s Faustian Bid for World Dominance, London: Verso, 1999.
-    <sup><p id="section6">6</p></sup>Grandin, Empire’s Workshop, 39-40.
-    <sup><p id="section7">7</p></sup>Leslie Bethel and Ian Roxboroug, eds., Latin America between the Second World War and the Cold War, 1944-1988, Cambridge: Cambridge University Press, 1992.
-    <sup><p id="section8">8</p></sup>David Schmitz, Thank God They’re On Our Side: The United States and Right Wing Dictatorships, 1921-1965, Chapel Hill: University of North Carolina Press, 1999, pp. 140-57.
-    <sup><p id="section9">9</p></sup>Grandin, Empire’s Workshop, 40-41.
-    <sup><p id="section10">10</p></sup>David Schmitz, Thank God They’re On Our Side: The United States and Right Wing Dictatorships, 1921-1965, p. 145.
-    <sup><p id="section11">11</p></sup>Grandin, Empire’s Workshop, 41.
-    <sup><p id="section12">12</p></sup>Walter LaFeber. “Thomas C. Mann and the Devolution of Latin American Policy: From the Good Neighbor to Military Intervention,” Behind the Throne, ed. McCormick and LaFeber, p. 174.
-    <sup><p id="section13">13</p></sup>Grandin, Empire’s Workshop, 112.
-    <sup><p id="section14">14</p></sup>Grandin, Empire’s Workshop, 110.
-    <sup><p id="section15">15</p></sup>Grandin, Empire’s Workshop, 112.
-    <sup><p id="section16">16</p></sup>Grandin, Empire’s Workshop, 113.
-    <sup><p id="section17">17</p></sup>Ibid.
-    <sup><p id="section18">18</p></sup>Grandin, Empire’s Workshop, 115.
-    <sup><p id="section19">19</p></sup>Kornbluh, “Nicaragua: U.S. Proinsurgency Warfare against the Sandinistas,” Low-Intensity Warfare, ed. Klare and Kornbluh, p. 140;</p>
+    <sup><p id="footnote1">1</sup>Greg Grandin, Empire’s Workshop (New York: Henry Holt and Company, LLC, 2006), 31.</p>
+    <sup><p id="footnote2">2</sup>For policy intellectuals’ criticism of U.S. actions in Latin America in the second half of the Hoover administration, see the essays under the heading “Our Future Relations with Latin America,” Annals of the American Academy of Political and Social Science 156 (July 1931): 110-36.</p>
+    <sup><p id="footnote3">3</sup>Grandin, Empire’s Workshop, 33.</p>
+    <sup><p id="footnote4">4</sup>CQ Press, “Inter-American System,” SAGE Publishing. (http://library.cqpress.com/cqresearcher/document.php?id=cqresrre1960021000)</p>
+    <sup><p id="footnote5">5</sup>Peter Gowan, The Global Gamble: Washington’s Faustian Bid for World Dominance, London: Verso, 1999.</p>
+    <sup><p id="footnote6">6</sup>Grandin, Empire’s Workshop, 39-40.</p>
+    <sup><p id="footnote7">7</sup>Leslie Bethel and Ian Roxboroug, eds., Latin America between the Second World War and the Cold War, 1944-1988, Cambridge: Cambridge University Press, 1992.</p>
+    <sup><p id="footnote8">8</sup>David Schmitz, Thank God They’re On Our Side: The United States and Right Wing Dictatorships, 1921-1965, Chapel Hill: University of North Carolina Press, 1999, pp. 140-57.</p>
+    <sup><p id="footnote9">9</sup>Grandin, Empire’s Workshop, 40-41.</p>
+    <sup><p id="footnote10">10</sup>David Schmitz, Thank God They’re On Our Side: The United States and Right Wing Dictatorships, 1921-1965, p. 145.</p>
+    <sup><p id="footnote11">11</sup>Grandin, Empire’s Workshop, 41.</p>
+    <sup><p id="footnote12">12</sup>Walter LaFeber. “Thomas C. Mann and the Devolution of Latin American Policy: From the Good Neighbor to Military Intervention,” Behind the Throne, ed. McCormick and LaFeber, p. 174.</p>
+    <sup><p id="footnote13">13</sup>Grandin, Empire’s Workshop, 112.</p>
+    <sup><p id="footnote14">14</sup>Grandin, Empire’s Workshop, 110.</p>
+    <sup><p id="footnote15">15</sup>Grandin, Empire’s Workshop, 112.</p>
+    <sup><p id="footnote16">16</sup>Grandin, Empire’s Workshop, 113.</p>
+    <sup><p id="footnote17">17</sup>Ibid.</p>
+    <sup><p id="footnote18">18</sup>Grandin, Empire’s Workshop, 115.</p>
+    <sup><p id="footnote19">19</sup>Kornbluh, “Nicaragua: U.S. Proinsurgency Warfare against the Sandinistas,” Low-Intensity Warfare, ed. Klare and Kornbluh, p. 140;</p>
 <div align=center class="top_link"><p><a href="#headertop">[ Return to top ]</a></p></div>
 <div><br /><br /><br />
 </div>

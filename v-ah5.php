@@ -4,10 +4,10 @@
 <? require ('templates/hearingsbanner.php'); ?>
 
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Hakim on War with Russia</div>
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Hakim on War With Russia</div>
 <table>
 <tr>
-<td colspan=2 height=75><h2>Hakim on War with Russia</h2>
+<td colspan=2 height=75><h2>Hakim on War With Russia</h2>
 <h3>Day 17: June 5, 1987</h3></td></tr>
 <td colspan=2><p>Mr. Hakim says that Gen. Secord used potential war with Russia as a "bargaining method" with Iran.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ah-4.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ah-6.php" class="content_link">Next</a> &raquo;</td></tr>

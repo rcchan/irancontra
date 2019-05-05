@@ -4,10 +4,10 @@
 <? require ('templates/hearingsbanner.php'); ?>
 
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Calero on Arms Payments in Consultation with Oliver North</div>
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; Calero on Arms Payments in Consultation With Oliver North</div>
 <table>
 <tr>
-<td colspan=2 height=75><h2>Calero on Arms Payments in Consultation with Oliver North</h2>
+<td colspan=2 height=75><h2>Calero on Arms Payments in Consultation With Oliver North</h2>
 <h3>Day 10, Part 1: May 20, 1987</h3></td></tr>
 <td colspan=2><p>Mr. Calero admits to using U.S. government funds to buy $19 million worth of arms and ammunition in consultation with Col. North.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/ac-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ac-3.php" class="content_link">Next</a> &raquo;</td></tr>

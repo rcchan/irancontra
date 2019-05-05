@@ -12,7 +12,7 @@
  <td align="center" valign="top"><a href="profile-armitage.php" class="content_link"><img src="thumbnails/p-armitage.jpg" border="0"/><br />Richard Armitage</a></td>
  <td align="center" valign="top"><a href="profile-bush.php" class="content_link"><img src="thumbnails/p-bush.jpg" border="0"/><br />George Bush</a></td>
  <td align="center" valign="top"><a href="profile-casey.php" class="content_link"><img src="thumbnails/p-casey.jpg" border="0"/><br />William Casey</a></td>
- <td align="center" valign="top"><a href="profile-channellmiller.php" class="content_link"><img src="thumbnails/profile.jpg" border=0 height=100/><br />Carl Channell</a></td>
+ <td align="center" valign="top"><a href="profile-channellmiller.php" class="content_link"><img src="thumbnails/p-channell.png" border="0" height="100"/><br />Carl Channell</a></td>
  </tr>
  <tr>
  <td align="center" valign="top"><a href="profile-clarridge.php" class="content_link"><img src="thumbnails/p-clarridge.jpg" border="0"/><br /> Duane Clarridge</a></td>
