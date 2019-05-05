@@ -16,7 +16,7 @@
   <h3>Transcripts</h3>
  <div align="center">
 
- <table cellspacing=5><tr><td width=200><a href="https://www.presidency.ucsb.edu/documents/address-the-nation-the-iran-arms-and-contra-aid-controversy" target="_" class="content_link"><img src="thumbnails/transcript.png" border=0 /></a></td><td width=200><a href="https://www.presidency.ucsb.edu/documents/address-the-nation-the-investigation-the-iran-arms-and-contra-aid-controversy" target="_" class="content_link"><img src="thumbnails/transcript.png" border=0 /></a></td></tr>
+ <table cellspacing=5><tr><td width=100><a href="https://www.presidency.ucsb.edu/documents/address-the-nation-the-iran-arms-and-contra-aid-controversy" target="_" class="content_link"><img src="thumbnails/transcript.png" border=0 /></a></td><td width=100><a href="https://www.presidency.ucsb.edu/documents/address-the-nation-the-investigation-the-iran-arms-and-contra-aid-controversy" target="_" class="content_link"><img src="thumbnails/transcript.png" border=0 /></a></td></tr>
 
  <tr><td width=200><p><a href="https://www.presidency.ucsb.edu/documents/address-the-nation-the-iran-arms-and-contra-aid-controversy" target="_" class="content_link">#1: Presidential Address to the Nation on the Iran Arms and Contra Aid Controversy | Nov. 13, 1986</a></p></td>
  <td width=200><p><a href="https://www.presidency.ucsb.edu/documents/address-the-nation-the-investigation-the-iran-arms-and-contra-aid-controversy" target="_" class="content_link">#2: Presidential Address to the Nation on the Investigation of the Iran Arms and Contra Aid Controversy | Dec. 02, 1986</a></p></td></tr></table></div>

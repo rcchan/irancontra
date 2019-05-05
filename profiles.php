@@ -24,7 +24,7 @@
  <tr>
  <td align="center" valign="top"><a href="profile-fiers.php" class="content_link"><img src="thumbnails/p-fiers.jpg" border="0"/><br />Alan Fiers, Jr.</a></td>
  <td align="center" valign="top"><a href="profile-gates.php" class="content_link"><img src="thumbnails/p-gates.jpg" border="0"/><br />Robert Gates</a></td>
- <td align="center" valign="top"><a href="profile-george.php" class="content_link"><img src="thumbnails/p-george.jpg" border="0"/><br />Clair George</a></td>
+ <td align="center" valign="top"><a href="profile-george.php" class="content_link"><img src="thumbnails/p-george.jpg" border="0" height="100"/><br />Clair George</a></td>
  <td align="center" valign="top"><a href="profile-gregg.php" class="content_link"><img src="thumbnails/p-gregg.jpg" border="0"/><br />Donald Gregg</a></td>
  <td align="center" valign="top"><a href="profile-hall.php" class="content_link"><img src="thumbnails/p-hall.jpg" border="0"/><br />Fawn Hall</a></td>
  </tr>
