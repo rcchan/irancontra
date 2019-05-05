@@ -2,7 +2,7 @@
 <title>Understanding the Iran-Contra Affairs - The Iran-Contra Affairs</title>
 </head>
 <? require ('templates/irancontrabanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
 <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo;  <a href="iran-contra-affairs.php">The Iran Contra Affairs</a> &raquo;  Iran: Background</div>
 <h2><a name="headertop" id="headertop"></a><br />
@@ -10,7 +10,7 @@ Iran</h2>
 <h3></h3>
 <div style="margin: 0px 0px 0px 20px">
   <p><strong>Early History</strong><br /></p><p>
-Iran has long been a source of international conflict between Russia and the West, predating even the name Iran. “Persia,” as it was then known, was a source of conflict between Russia and England in the 1700s, as both countries expanded their reach through colonization. Though Iran is physically close to the Russian border, it is also very close to India, one of the British Empire's most important colonies, and to parts of Africa that were colonized by England. (<strong>Map</strong> p9 Saikal). By the beginning of the 20th century, Russia controlled some of northern Persia, while the British Empire controlled the eastern region, closest to India. </p>
+Iran has long been a source of international conflict between Russia and the West, predating even the name Iran. “Persia,” as it was then known, was a source of conflict between Russia and England in the 1700s, as both countries expanded their reach through colonization. Though Iran is physically close to the Russian border, it is also very close to India, one of the British Empire's most important colonies, and to parts of Africa that were colonized by England. By the beginning of the 20th century, Russia controlled some of northern Persia, while the British Empire controlled the eastern region, closest to India. </p>
   <p><strong>Post-WWII</strong><br /></p><p>
     After World War II, many European countries— including some of the world's former superpowers—were left in ruins. The United States and the Soviet Union emerged as the world's two main superpowers, locked in a battle for absolute dominance. This rivalry played out all over the world, as the U.S. and the Soviet Union sought to impose capitalism and communism, respectively, by dominating smaller countries—including Iran and other countries throughout the Middle East. Though both the U.S. and the USSR struggled to control countries in the Middle East more than in any other region, the U.S. successfully positioned itself as an ally to Iran until 1979. </p>
   <p><strong>The Shah</strong><br /></p><p>
@@ -37,7 +37,7 @@ Iran has long been a source of international conflict between Russia and the Wes
     <div> </div>
   </div>
 </div>
-<div align=center class="top_link"><p>[ <a href="#headertop">Return to top ]</a></p></div>
+<div align=center class="top_link"><p><a href="#headertop">[ Return to top ]</a></p></div>
 <div><br /><br /><br />
 </div>
 </div>

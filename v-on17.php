@@ -2,10 +2,10 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
-    
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo;
+
 North on Plausible Deniability
 
 </div>
@@ -17,15 +17,15 @@ North on Plausible Deniability
 Day 25: July 9, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Although providing plausible deniability to superiors was one reason for Col. North's secrecy, the nature of the covert operation required keeping people unaware of details.</p></td></tr>
+<td colspan=2><p>Although providing "plausible deniability" to superiors was one reason for Col. North's secrecy, the nature of the covert operation required keeping people unaware of details.</p></td></tr>
 <tr><td align="left">&laquo; <a href="v-on16.php" class="content_link">Previous</a></td><td align="right"><a href="v-on18.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>
 <td width=350 valign="top">
 
-<iframe src="transcripts/on-17.php" style="border:none" width="350" height="500"></iframe>	
-    
+<iframe src="transcripts/on-17.php" style="border:none" width="350" height="500"></iframe>
+
 </td>
 <td align="justify" valign="top">
 

@@ -2,10 +2,10 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
-    
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo;
+
 Closing Statement by Rep. Hamilton
 
 </div>
@@ -17,15 +17,15 @@ Closing Statement by Rep. Hamilton
 Day 40: August 3, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Chmn. Hamilton criticizes the covert actions discussed in the hearings as undemocratic and states, the Constitution is not a burden in the making of policy, but a source of strength.</p></td></tr>
+<td colspan=2><p>Chmn. Hamilton criticizes the covert actions discussed in the hearings as undemocratic and states, "the Constitution is not a burden in the making of policy, but a source of strength."</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/cs-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/cs-4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>
 <td width=350 valign="top">
 
-<iframe src="transcripts/cs-3.php" style="border:none" width="350" height="500"></iframe>	
-    
+<iframe src="transcripts/cs-3.php" style="border:none" width="350" height="500"></iframe>
+
 </td>
 <td align="justify" valign="top">
 

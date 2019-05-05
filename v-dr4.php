@@ -2,10 +2,10 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
-    
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo;
+
 President Reagan Refuses to Discuss Pardoning North or Poindexter
 
 </div>
@@ -17,15 +17,15 @@ President Reagan Refuses to Discuss Pardoning North or Poindexter
 Day 39, Part 1: July 31, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Responding to Rep. Stokes, Chief of Staff Regan recalls that President Reagan refused to discuss pardoning Col. North or Adm. Poindexter as doing so would constitute a presumption of guilt.</p></td></tr>
+<td colspan=2><p>Responding to Rep. Stokes, Chief of Staff Regan recalls that President Reagan refused to discuss pardoning Col. North or Adm. Poindexter, as doing so would constitute a presumption of guilt.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/dr-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/dr-5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>
 <td width=350 valign="top">
 
-<iframe src="transcripts/dr-4.php" style="border:none" width="350" height="500"></iframe>	
-    
+<iframe src="transcripts/dr-4.php" style="border:none" width="350" height="500"></iframe>
+
 </td>
 <td align="justify" valign="top">
 

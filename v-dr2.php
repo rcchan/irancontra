@@ -2,10 +2,10 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
-    
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo;
+
 Regan on "Oil Drilling" as Cover Story and What the President Knew
 
 </div>
@@ -17,21 +17,21 @@ Regan on "Oil Drilling" as Cover Story and What the President Knew
 Day 38: July 30, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Chief of Staff Regan claims that oil-drilling equipment was just a cover story for what the President knew was an arms shipment to Iran.</p></td></tr>
+<td colspan=2><p>Chief of Staff Regan claims that "oil-drilling equipment" was just a cover story for what the President knew was an arms shipment to Iran.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/dr-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/dr-3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>
 <td width=350 valign="top">
 
-<iframe src="transcripts/dr-2.php" style="border:none" width="350" height="500"></iframe>	
-    
+<iframe src="transcripts/dr-2.php" style="border:none" width="350" height="500"></iframe>
+
 </td>
 <td align="justify" valign="top">
 
 <video controls style="max-width: 100%;"><source src="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/videos/cut/program.6273.MP4-M20.4402.70.mp4" type="video/mp4"></video>
-   
-   
+
+
 </td></tr></table><br /><br />
 </div>
 <? require ('templates/footer.php'); ?>

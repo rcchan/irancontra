@@ -2,7 +2,7 @@
 <title>Understanding the Iran-Contra Affairs - The Iran-Contra Affairs</title>
 </head>
 <? require ('templates/irancontrabanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
 <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo;  <a href="iran-contra-affairs.php">The Iran Contra Affairs</a> &raquo;  Iran: Other Relevant Conflicts</div>
 <h2><a name="headertop" id="headertop"></a><br />
@@ -35,7 +35,7 @@ The Iran-Iraq war was the main reason why Iran was so need of weapons, and thus 
     <div> </div>
   </div>
 </div>
-<div align=center class="top_link"><p>[ <a href="#headertop">Return to top ]</a></p></div>
+<div align=center class="top_link"><p><a href="#headertop">[ Return to top ]</a></p></div>
 <div><br /><br /><br />
 </div>
 </div>

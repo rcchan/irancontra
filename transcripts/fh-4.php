@@ -49,7 +49,7 @@ you had documents in your back?
 <br/><br/><strong>Ms. HALL</strong>: Yes, I did. I don't think I indicated to him that they
 were in my boots, but I did turn slightly and say, "Do you notice
 that I have them in here; can you tell? I'm unable to see that I
-have these in my back." That was the idea, and he said, "No". 
+have these in my back." That was the idea, and he said, "No." 
 
 
 </font></div>

@@ -12,7 +12,7 @@ var videos = [
 { key: 'rm1', title: 'McFarlane on Reagan\'s Meeting With Saudi Leader', duration: 428, keywords: ['Liman', 'McFarlane', 'Reagan'] },
 { key: 'rm2', title: 'McFarlane on Choosing Which Hostages Should Be Freed', duration: 126, keywords: ['Liman', 'McFarlane'] },
 { key: 'rm3', title: 'McFarlane on Legality and Shredding Documents', duration: 273, keywords: ['Liman', 'McFarlane', 'Meese', 'Reagan'] },
-{ key: 'rm4', title: 'McFarlane on Supposed “Oil-Drilling Equipment” (Hawk Missiles)', duration: 191, keywords: ['Nields', 'McFarlane', 'Poindexter', 'North'] },
+{ key: 'rm4', title: 'McFarlane on Supposed "Oil-Drilling Equipment" (Hawk Missiles)', duration: 191, keywords: ['Nields', 'McFarlane', 'Poindexter', 'North'] },
 { key: 'rm5', title: 'McFarlane Contradicting Himself', duration: 294, keywords: ['Leon', 'McFarlane'] },
 { key: 'rm6', title: 'McFarlane and Sen. Rudman on DEA Caper', duration: 274, keywords: ['McFarlane', 'Rudman'] },
 { key: 'rm7', title: 'McFarlane and Sen. Mitchell on Misleading Testimony', duration: 592, keywords: ['Mitchell', 'McFarlane', 'North', 'Meese'] },
@@ -80,7 +80,7 @@ var videos = [
 { key: 'dr4', title: 'President Reagan Refuses to Discuss Pardoning North or Poindexter', duration: 190, keywords: ['Regan', 'Stokes', 'North', 'Poindexter', 'Reagan'] },
 { key: 'dr5', title: 'Sen. Nunn Questions Regan on Wanting Neither Side to Win Iran-Iraq War', duration: 330, keywords: ['Reagan', 'Regan', 'Nunn'] },
 { key: 'cw1', title: 'Weinberger on Who Was Winning the Iran-Iraq War', duration: 170, keywords: ['Eggleston', 'Weinberger', 'Reagan', 'Poindexter'] },
-{ key: 'cw2', title: 'Secretary of Defense Weinberger Explains Why He Opposed Selling Weapons to Iran', duration: 339, keywords: ['Aspin', 'Weinberger'] },
+{ key: 'cw2', title: 'Weinberger Explains Why He Opposed Selling Weapons to Iran', duration: 339, keywords: ['Aspin', 'Weinberger'] },
 { key: 'cw3', title: 'Rep. Broomfield Questions Weinberger on Iranian Relationship', duration: 245, keywords: ['Broomfield', 'Weinberger'] },
 { key: 'cw4', title: 'Weinberger Tells Sen. Sarbanes About "People With Their Own Agenda"', duration: 162, keywords: ['Sarbanes', 'Weinberger', 'Poindexter', 'Shultz', 'Reagan', 'McFarlane'] },
 { key: 'cw5', title: 'President Reagan Takes Poindexter\'s Advice - Contrary to Opinion of Rest of Cabinet', duration: 307, keywords: ['Nunn', 'Weinberger', 'Reagan'] },
@@ -89,4 +89,3 @@ var videos = [
 { key: 'cs3', title: 'Closing Statement by Rep. Hamilton', duration: 304, keywords: ['Hamilton'] },
 { key: 'cs4', title: 'Closing Statement by Sen. Inouye', duration: 602, keywords: ['Inouye'] },
 ];
-

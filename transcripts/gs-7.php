@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
-<div style="width:325px"><font class="transcript"><strong>Mr. DEWINE</strong>:. I think it is very clear that you had and have and deserve to
+<div style="width:325px"><font class="transcript"><strong>Mr. DEWINE</strong>: I think it is very clear that you had and have and deserve to
 have good relations with the President of the United States. It is
 proper. It has been demonstrated very amply when you had what
 you describe as a barking session with the President after this

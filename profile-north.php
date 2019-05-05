@@ -2,14 +2,14 @@
 <title>Understanding the Iran-Contra Affairs - The Legal Aftermath</title>
 </head>
 <? require ('templates/legalaftermathbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 765px" align="justify" id="welcomenote">
 
 <div align="left" class="bread_crumbs"><a href="profiles.php">Profiles</a>
 &raquo; Oliver North</div>
 
 
-<h2><a name="headertop" id="headertop"></a>Oliver North&nbsp;&nbsp;<font class="position">National Security Council staff member</font></h2>
+<h2><a name="headertop" id="headertop"></a>Oliver North&nbsp;&nbsp;<font class="position">National Security Council Staffer</font></h2>
 
 <p>Lieutenant Colonel Oliver North served as the deputy director of political-military affairs for the National Security Council staff. Although he reported directly to National Security Adviser John Poindexter and to his predecessor, Robert McFarlane, he was seen as the mastermind behind the Iran-Contra Affairs.</p>
 <p>The Independent Counsel won a joint indictment against North, Poindexter, retired Air Force Major General and businessman Richard Secord, and Secord's business partner Albert Hakim in March 1988. However, because the four claimed the need for the testimony of the others in their trials, which was a problem because of their Fifth Amendment right to protect against self-incrimination, their cases were separated. Accordingly, in February 1989, North stood trial on 12 counts.</p>

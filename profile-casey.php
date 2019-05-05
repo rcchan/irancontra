@@ -2,7 +2,7 @@
 <title>Understanding the Iran-Contra Affairs - The Legal Aftermath</title>
 </head>
 <? require ('templates/legalaftermathbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 765px" align="justify" id="welcomenote">
 
 <div align="left" class="bread_crumbs"><a href="profiles.php">Profiles</a>
@@ -20,7 +20,7 @@
   <li>He      repeatedly failed to mention President Reagan's December 1985 Finding that      retroactively authorized CIA involvement in sales to Iran (although, as      Walsh noted, there was no proof Casey knew it had actually been signed).</li>
   <li>He      misleadingly said that the CIA flight crew was told arms cargo was oil-drilling      equipment; in reality, the agents realized what the cargo was and reported      to their superiors the presence of missiles.</li>
   <li>He      described the Iran initiative as a geopolitical strategy, rather than      talking about the arms-for-hostages component.</li>
-  <li>He      provided an inadequate description of the flow of funds involved in the      arms shipments, one that did not include the Enterprise.</li>
+  <li>He      provided an inadequate description of the flow of funds involved in the      arms shipments, one that did not include The Enterprise.</li>
 </ol>
 <p>&nbsp;</p>
 </div><? require ('templates/footer.php'); ?>

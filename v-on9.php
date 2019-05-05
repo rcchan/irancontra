@@ -2,10 +2,10 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
-    
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo;
+
 North on Casey's Knowledge About the Diversion
 
 </div>
@@ -17,15 +17,15 @@ North on Casey's Knowledge About the Diversion
 Day 24: July 8, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Col. North testifies he had many conversations with the late CIA Director Casey about the diversion of funds. They also discussed using the funds to support other activities in other places besides Central America and the hostage recovery operations in the future.</p></td></tr>
+<td colspan=2><p>Col. North testifies he had many conversations with the late CIA Director Casey about the diversion of funds. They also discussed using the funds to support other future activities in places besides Central America and the hostage recovery operations.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/on-8.php" class="content_link">Previous</a></td><td align="right"><a href="v-on10.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>
 <td width=350 valign="top">
 
-<iframe src="transcripts/on-9.php" style="border:none" width="350" height="500"></iframe>	
-    
+<iframe src="transcripts/on-9.php" style="border:none" width="350" height="500"></iframe>
+
 </td>
 <td align="justify" valign="top">
 

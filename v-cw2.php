@@ -2,17 +2,17 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
-    
-Secretary of Defense Weinberger Explains Why He Opposed Selling Weapons to Iran
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo;
+
+Weinberger Explains Why He Opposed Selling Weapons to Iran
 
 </div>
 
 <table>
 <tr>
-<td colspan=2 height=75><h2>Secretary of Defense Weinberger Explains Why He Opposed Selling Weapons to Iran</h2><h3>
+<td colspan=2 height=75><h2>Weinberger Explains Why He Opposed Selling Weapons to Iran</h2><h3>
 
 Day 39, Part 2: July 31, 1987
 
@@ -24,14 +24,14 @@ Day 39, Part 2: July 31, 1987
 <tr>
 <td width=350 valign="top">
 
-<iframe src="transcripts/cw-2.php" style="border:none" width="350" height="500"></iframe>	
-    
+<iframe src="transcripts/cw-2.php" style="border:none" width="350" height="500"></iframe>
+
 </td>
 <td align="justify" valign="top">
 
 <video controls style="max-width: 100%;"><source src="http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/videos/cut/program.6591.MP4-M20.5846.339.mp4" type="video/mp4"></video>
-   
-   
+
+
 </td></tr></table><br /><br />
 </div>
 <? require ('templates/footer.php'); ?>

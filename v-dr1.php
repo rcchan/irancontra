@@ -2,10 +2,10 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
-    
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo;
+
 Regan on the "Bait and Switch"
 
 </div>
@@ -17,15 +17,15 @@ Regan on the "Bait and Switch"
 Day 38: July 30, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Chief of Staff Regan states that President Reagan was aware that 1,000 TOW missiles had been shipped to Iran from the United States and had approved them in order to try to free American hostages held in Lebanon. However, when no prisoners were released, Regan states that he thought shipments should be terminated, but did not tell the President. It becomes evident to Regan that Iran pulled a bait and switch on the United States.</p></td></tr>
+<td colspan=2><p>Chief of Staff Regan states that President Reagan was aware that "1,000 TOW missiles had been shipped to Iran from the United States" and had approved them in order to try to free American hostages held in Lebanon. However, when no prisoners were released, Regan states that he thought shipments should be terminated, but did not tell the President. It becomes evident to Regan that Iran pulled a "bait and switch" on the United States.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/em-7.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/dr-2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>
 <td width=350 valign="top">
 
-<iframe src="transcripts/dr-1.php" style="border:none" width="350" height="500"></iframe>	
-    
+<iframe src="transcripts/dr-1.php" style="border:none" width="350" height="500"></iframe>
+
 </td>
 <td align="justify" valign="top">
 

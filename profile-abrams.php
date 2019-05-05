@@ -2,7 +2,7 @@
 <title>Understanding the Iran-Contra Affairs - The Legal Aftermath - Elliot Abrams</title>
 </head>
 <? require ('templates/legalaftermathbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 765px" align="justify" id="welcomenote">
 
 <div align="left" class="bread_crumbs"><a href="profiles.php">Profiles</a>
@@ -25,7 +25,7 @@
 <tr>
   <td align="center"><a href="documents/abrams.pdf" target="_window" class="content_link">Elliot Abrams' Guilty Plea Statement </a>(PDF)</td></tr></table></div>
 <center><br />
-(<a href="gallery.php#ea" class="content_link">Go to Abram's Hearings Page</a>)<br /></center>
+(<a href="gallery.php#ea" class="content_link">Go to Abrams' Hearings Page</a>)<br /></center>
 
 </div>
 

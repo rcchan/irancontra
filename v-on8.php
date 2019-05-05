@@ -2,10 +2,10 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
-    
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo;
+
 North on His Family's Safety and Meeting Abu Nidal
 
 </div>
@@ -17,15 +17,15 @@ North on His Family's Safety and Meeting Abu Nidal
 Day 24: July 8, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Col. North explains why he had a ,500 security system installed in his home. He states that he was denied protection from the U.S. government for his wife and children and was terrified that Abu Nidal would harm them.</p></td></tr>
+<td colspan=2><p>Col. North explains why he had a $8,500 security system installed in his home. He states that he was denied protection from the U.S. government for his wife and children and was terrified that Abu Nidal would harm them.</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/on-7.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/on-9.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>
 <td width=350 valign="top">
 
-<iframe src="transcripts/on-8.php" style="border:none" width="350" height="500"></iframe>	
-    
+<iframe src="transcripts/on-8.php" style="border:none" width="350" height="500"></iframe>
+
 </td>
 <td align="justify" valign="top">
 

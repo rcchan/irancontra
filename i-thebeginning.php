@@ -2,7 +2,7 @@
 <title>Understanding the Iran-Contra Affairs - The Iran-Contra Affairs</title>
 </head>
 <? require ('templates/irancontrabanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
 <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo;  <a href="iran-contra-affairs.php">The Iran Contra Affairs</a> &raquo;  Iran: The Beginning</div>
 <h2><a name="headertop" id="headertop"></a><br />
@@ -19,7 +19,7 @@ As the 1980s continued, the relationship between the U.S. and Iran worsened. In 
     <br />
     <strong>President Reagan's Approval</strong><br />
     <br />
-    On July 1, 1985, the <em>New York Times</em> quoted President Ronald Reagan: “The United States gives terrorists no rewards. We make no concessions, we make no deals.”&nbsp; However, in August 1985, McFarlane visited Reagan in the hospital, where he was recovering from abdominal surgery, to talk about the deal in the works. The President approved the plan to allow Israel to sell approximately 100 American-made TOW antitank missiles to Iran, seeing it as a chance to improve relations with Iran and to gain the release of hostages. Israel would send Iran some of their American-made TOW missiles.&nbsp; In exchange, the Iranians would release some, if not all, of the American hostages that they held. The U.S. would also send Israel replacement TOW missiles so that its arsenal would not be depleted. It is not entirely clear what was said during this discussion, as both Reagan and McFarlane have given varying accounts. However, soon after, the plan was put into motion. Iran, represented by Ghorbanifar, and Israel, represented by Kimche and Nimrodi, worked out the details of the plan. </p>
+    On July 1, 1985, <em>The New York Times</em> quoted President Ronald Reagan: “The United States gives terrorists no rewards. We make no concessions, we make no deals.”&nbsp; However, in August 1985, McFarlane visited Reagan in the hospital, where he was recovering from abdominal surgery, to talk about the deal in the works. The President approved the plan to allow Israel to sell approximately 100 American-made TOW antitank missiles to Iran, seeing it as a chance to improve relations with Iran and to gain the release of hostages. Israel would send Iran some of their American-made TOW missiles.&nbsp; In exchange, the Iranians would release some, if not all, of the American hostages that they held. The U.S. would also send Israel replacement TOW missiles so that its arsenal would not be depleted. It is not entirely clear what was said during this discussion, as both Reagan and McFarlane have given varying accounts. However, soon after, the plan was put into motion. Iran, represented by Ghorbanifar, and Israel, represented by Kimche and Nimrodi, worked out the details of the plan. </p>
   <p><strong>Shipments Begin</strong><br />
     <br />
     On August 20, the first load of 96 missiles was sent to Iran from Israel, with Ghorbanifar and Khashoggi acting as financial intermediates.&nbsp; However, no release of hostages followed. According to Ghobanifar, there had been a mix-up, but the hostages would be released if more missiles were sent, which Iran would pay for. President Reagan signed off on the second shipment from Israel, which consisted of 408 TOW missiles. On September 15, the day after the shipment arrived in Iran, Benjamin Weir, an American hostage, was released. It was at this point that Lieutenant Colonel Oliver North, the “principal action officer” for the NSC's Contra dealings, was brought into the Iran dealings when McFarlane put him in charge of working with Kimche to figure out the logistics of getting Weir from Lebanon to the U.S. Though the very few people in the U.S. aware of the plan were angry that only one hostage had been released in exchange for 500 TOWs, McFarlane and others recognized other benefits they stood to gain from the trade. Additionally, all of the money transfers were being conducted by independent intermediaries""like Ghorbanifar and Khashoggi—instead of governments, which allowed for a great deal of flexibility. They were also determined to secure the release of more hostages. </p>
@@ -43,7 +43,7 @@ As the 1980s continued, the relationship between the U.S. and Iran worsened. In 
     <div> </div>
   </div>
 </div>
-<div align=center class="top_link"><p>[ <a href="#headertop">Return to top ]</a></p></div>
+<div align=center class="top_link"><p><a href="#headertop">[ Return to top ]</a></p></div>
 <div><br /><br /><br />
 </div>
 </div>

@@ -13,10 +13,10 @@
  <tr>
  <td align="left">
 
-  <h3>Audio</h3>
+  <h3>Transcripts</h3>
  <div align="center">
 
- <table cellspacing=5><tr><td width=200><a href="https://www.presidency.ucsb.edu/documents/address-the-nation-the-iran-arms-and-contra-aid-controversy" target="_" class="content_link"><img src="thumbnails/audio.jpg" border=0 /></a></td><td width=200><a href="https://www.presidency.ucsb.edu/documents/address-the-nation-the-investigation-the-iran-arms-and-contra-aid-controversy" target="_" class="content_link"><img src="thumbnails/audio.jpg" border=0 /></a></td></tr>
+ <table cellspacing=5><tr><td width=200><a href="https://www.presidency.ucsb.edu/documents/address-the-nation-the-iran-arms-and-contra-aid-controversy" target="_" class="content_link"><img src="thumbnails/transcripts.png" border=0 /></a></td><td width=200><a href="https://www.presidency.ucsb.edu/documents/address-the-nation-the-investigation-the-iran-arms-and-contra-aid-controversy" target="_" class="content_link"><img src="thumbnails/transcripts.png" border=0 /></a></td></tr>
 
  <tr><td width=200><p><a href="https://www.presidency.ucsb.edu/documents/address-the-nation-the-iran-arms-and-contra-aid-controversy" target="_" class="content_link">#1: Presidential Address to the Nation on the Iran Arms and Contra Aid Controversy | Nov. 13, 1986</a></p></td>
  <td width=200><p><a href="https://www.presidency.ucsb.edu/documents/address-the-nation-the-investigation-the-iran-arms-and-contra-aid-controversy" target="_" class="content_link">#2: Presidential Address to the Nation on the Investigation of the Iran Arms and Contra Aid Controversy | Dec. 02, 1986</a></p></td></tr></table></div>
@@ -25,12 +25,12 @@
  <div align="center">
 
    #1
-   <br /><br />
+   <br />
    <iframe width="100%" height="480" src="https://www.youtube.com/embed/rYdvBZxPhLY" frameborder="0" gesture="media" allowfullscreen></iframe>
    <br /><br />
    #2
-   <br /><br />
-   <iframe width="100%" height="480" src="https://www.youtube.com/embed/DJ_7ZhpLS80" frameborder="0" gesture="media" allowfullscreen></iframe>
+   <br />
+   <iframe width="100%" height="480" src="https://www.youtube.com/embed/DJ_7ZhpLS80" frameborder="0" gesture="media" allowfullscreen></iframe><br />
    <i>Videos courtesy Ronald Reagan Presidential Library</i>
 
  </div>

@@ -2,10 +2,10 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
-    
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo;
+
 Sen. Inouye Compares Hearings to the Nuremberg Trials
 
 </div>
@@ -17,15 +17,15 @@ Sen. Inouye Compares Hearings to the Nuremberg Trials
 Day 28, Part 1: July 14, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Chmn. Inouye tells Col. North that listening to his testimony has been troubling and painful; after Inouye compares the hearings to the Nuremberg Trials, Norths counsel quarrels with him.</p></td></tr>
+<td colspan=2><p>Chmn. Inouye tells Col. North that listening to his testimony has been "troubling" and "painful"; after Inouye compares the hearings to the Nuremberg Trials, North's counsel quarrels with him.</p></td></tr>
 <tr><td align="left">&laquo; <a href="v-on21.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>
 <td width=350 valign="top">
 
-<iframe src="transcripts/on-22.php" style="border:none" width="350" height="500"></iframe>	
-    
+<iframe src="transcripts/on-22.php" style="border:none" width="350" height="500"></iframe>
+
 </td>
 <td align="justify" valign="top">
 

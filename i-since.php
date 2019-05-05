@@ -16,8 +16,7 @@
   Today, relations between the United States and Nicaragua are normal. Both countries maintain embassies in the other. The United States continues to push for free-market reforms, democratization, and economic improvement. Nicaragua is now part of the Central America-Dominican Republic Free Trade Agreement, a free trade agreement that includes the United States, Nicaragua, the Dominican Republic, Costa Rica, Honduras, Guatemala, and El Salvador.</p>
   <br /><br />
 <p><!-- Footnotes -->
-  <sup><p id="section1">1</p></sup>Reed Brody, Contra Terror in Nicaragua, Report of a Fact-finding Mission: September 1984-January 1985 (South End Press Collective, 1985), 17.</p>
-<div align=center class="top_link"><p>[ <a href="#headertop">Return to top ]</a></p></div>
+  <sup><p id="section1">1</sup>Reed Brody, Contra Terror in Nicaragua, Report of a Fact-finding Mission: September 1984-January 1985 (South End Press Collective, 1985), 17.</p>
 <div align=center class="top_link"><p><a href="#headertop">[ Return to top ]</a></p></div>
 <br /><br /><br />
 </div>

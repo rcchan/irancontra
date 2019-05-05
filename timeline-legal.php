@@ -3,13 +3,13 @@
 <meta name="keywords" content="iran, contra, iran-contra, scandals, iran contra affairs, iran-contra affairs"
 </head>
 <? require ('templates/mainbanner.php'); ?>
-    
+
  <div style="position:relative; margin: 10px 0px 0px 20px; width: 765px" align="center" id="welcomenote">
- 
+
  <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="timelines.php">Timelines</a>
 &raquo; Legal Aftermath Timeline</div>
 
- 
+
  <div align="left"><br />
  <h2><a name="headertop" id="headertop"></a>Legal Aftermath Timeline </h2>
  <center>
@@ -18,14 +18,14 @@
  <table border=0>
  <tr>
  <td><ul type="disc">
-   <li><strong>Nov. 13, 1986</strong>: President Ronald Reagan makes his <a href="http://www.presidency.ucsb.edu/mediaplay.php?id=36728&amp;admin=40" target="_" class="content_link">Address to the Nation on the Iran Arms and Contra Aid Controversy (Audio)</a>.</li>
+   <li><strong>Nov. 13, 1986</strong>: President Ronald Reagan makes his <a href="https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/multimedia.php" target="_" class="content_link">Address to the Nation on the Iran Arms and Contra Aid Controversy</a>.</li>
    <li><strong>Nov. 25, 1986</strong>: Reagan announces that profits from arms sales with Iran were diverted to support the Contras.</li>
    <li><strong>Nov. 26, 1986</strong>: Reagan appoints a commission, led by former Senator John Town (R-TX), to investigate the Iran-Contra Affairs.</li>
-   <li><strong>Dec. 2, 1986</strong>: Reagan makes his <a href="http://www.presidency.ucsb.edu/mediaplay.php?id=36772&amp;admin=40" target="_" class="content_link">Address to the Nation on the Investigation of the Iran Arms and Contra Aid Controversy (Audio)</a>.</li>
+   <li><strong>Dec. 2, 1986</strong>: Reagan makes his <a href="https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/multimedia.php" target="_" class="content_link">Address to the Nation on the Investigation of the Iran Arms and Contra Aid Controversy</a>.</li>
    <li><strong>Dec. 4, 1986</strong>: Attorney General Edwin Meese III requests that an independent counsel be appointed to investigate the Iran-Contra Affairs.</li>
    <li><strong>Dec. 6, 1986</strong>: To determine the flow of funds from private entities, foreign nations, and arms sales to Iran, the U.S. Department of Justice requests financial records from Albert Hakim and Richard Secord's Switzerland-based “Enterprise.”</li>
    <li><strong>Dec. 19, 1986</strong>: A panel of judges appoints Lawrence Walsh as Independent Counsel.</li>
-   <li><strong>March 4, 1987</strong>: Reagan makes his <a href="http://millercenter.org/scripps/archive/speeches/detail/3414" target="_" class="content_link">Address to the Nation on Iran-Contra (Video)</a>.</li>
+   <li><strong>March 4, 1987</strong>: Reagan makes his <a href="http://millercenter.org/scripps/archive/speeches/detail/3414" target="_" class="content_link">Address to the Nation on Iran-Contra</a>.</li>
    <li><strong>March 5, 1987</strong>: Walsh also receives an appointment as Independent Counsel from the U.S. Department of Justice. He requested this appointment because he was afraid, given other challenges to the constitutionality of the Independent Counsel Act (see <em>Morrison v. Olson</em>, which had not yet been decided in 1987), that his position would be deemed unconstitutional.</li>
    <li><strong>April 28, 1987</strong>: Walsh submits a report to Congress that details the problems to his investigation posed caused by immunity grants.</li>
    <li><strong>April 29, 1987</strong>: Carl Channell pleads guilty to conspiracy to defraud the United States.</li>
@@ -64,12 +64,12 @@
    </ul></td>
  </tr>
  </table>
- 
+
  <div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div><br /><br />
- 
+
  </div>
- 
+
  <br /><br /><br />
-    
-    
+
+
 <? require ('templates/footer.php'); ?>

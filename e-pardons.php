@@ -2,15 +2,15 @@
 <title>Understanding the Iran-Contra Affairs - Enduring Issues</title>
 </head>
 <? require ('templates/enduringissuesbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
 <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="enduringissues.php">Enduring Issues</a> &raquo; Accountability and Democracy: Pardons</div>
 <h2><a name="headertop" id="headertop"></a><br />
   Accountability and Democracy</h2>
-  
+
 <h3>Pardons</h3>
 <div style="margin: 0px 0px 0px 20px">
-  <p>The President's pardon power is contained in Article II, Section 2 of the Constitution: “The President…shall have the power to grant reprieves and pardons for offenses against the United States, except in the cases of impeachment.” (This exception has been attributed by some scholars to a 17th century English constitutional crisis that developed after King Charles II pardoned his friend, the Earl of Danby, who had been impeached by Parliament.) The pardon power is otherwise without limit. The president can pardon anyone for anything, subject only to judgment of public opinion. While it is clearly within the president's power to issue a pardon in advance of an indictment or trial, it is also true that the pardon power had virtually always been used in a post-conviction context. The Iran-Contra Affairs involved the first <em>preemptive</em> pardons. Casper Weinberger was pardoned weeks before his trial was scheduled to begin. The pardons were popular with Reagan's supporters; they were also quite controversial because they basically undid all of the work of Independent Counsel Lawrence Walsh. </p>
+  <p>The President's pardon power is contained in Article II, Section 2 of the Constitution: “The President…shall have the power to grant reprieves and pardons for offenses against the United States, except in the cases of impeachment.” (This exception has been attributed by some scholars to a 17th century English constitutional crisis that developed after King Charles II pardoned his friend, the Earl of Danby, who had been impeached by Parliament). The pardon power is otherwise without limit. The president can pardon anyone for anything, subject only to judgment of public opinion. While it is clearly within the president's power to issue a pardon in advance of an indictment or trial, it is also true that the pardon power had virtually always been used in a post-conviction context. The Iran-Contra Affairs involved the first <em>preemptive</em> pardons. Casper Weinberger was pardoned weeks before his trial was scheduled to begin. The pardons were popular with Reagan's supporters; they were also quite controversial because they basically undid all of the work of Independent Counsel Lawrence Walsh. </p>
 </div>
 <h3>Discussion Questions</h3>
 <div style="margin: 0px 0px 0px 20px">
@@ -30,7 +30,7 @@
     <li><a href="http://www.justice.gov/pardon/" class="content_link">Office of the Pardon Attorney</a>, U.S. Department of Justice. Site includes clemency regulations, clemency statistics, and clemency recipients by year. <br />
       <br />
     </li>
-    <li>“<a href="http://news.findlaw.com/hdocs/docs/clinton/pardonrpt/" class="content_link">Justice Undone</a>: Clemency Decisions in the Clinton White House,” U.S.&nbsp; Committee on Government Reform (2002). Partisan report criticizing the Clinton administration over several cases.<br />
+    <li>“<a href="http://www.worldcat.org/oclc/49871132" class="content_link">Justice Undone: Clemency Decisions in the Clinton White House</a>,” U.S. Committee on Government Reform (2002). Partisan report <a href="https://www.cbsnews.com/news/clinton-pardons-panned-in-report/" class="content_link">criticizing</a> the Clinton administration over several cases.<br />
       <br />
     </li>
     <li>Jeffrey Crouch, <em>The Presidential Pardon Power</em> (University Press of Kansas, 2009).</li>
@@ -39,6 +39,6 @@
     <li>Kathleen Dean Moore, <em>Pardons: Justice, Mercy, and the Public Interest</em> (Oxford University Press, 1997).</li>
   </ul>
 </div>
-<div align=center class="top_link"><p>[ <a href="#headertop">Return to top ]</a></p></div>
+
 </div>
 <? require ('templates/footer.php'); ?>

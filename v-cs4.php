@@ -2,10 +2,10 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
-    
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo;
+
 Closing Statement by Sen. Inouye
 
 </div>
@@ -17,15 +17,15 @@ Closing Statement by Sen. Inouye
 Day 40: August 3, 1987
 
 </h3></td></tr>
-<td colspan=2><p>The hearings showed, in the words of Chmn. Inouye, that in America, as 200 years ago, the people still rule.</p></td></tr>
+<td colspan=2><p>The hearings showed, in the words of Chmn. Inouye, that "in America, as 200 years ago, the people still rule."</p></td></tr>
 <tr><td align="left">&laquo; <a href="transcripts/cs-3.php" class="content_link">Previous</a></td><td align="right"></td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>
 <td width=350 valign="top">
 
-<iframe src="transcripts/cs-4.php" style="border:none" width="350" height="500"></iframe>	
-    
+<iframe src="transcripts/cs-4.php" style="border:none" width="350" height="500"></iframe>
+
 </td>
 <td align="justify" valign="top">
 

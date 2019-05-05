@@ -7,7 +7,8 @@
 <body>
 <div style="width:325px"><font class="transcript">
 
-<strong>Mr. LIMAN</strong>: Would it have made a difference to you in your actions if you felt that the Attorney General was proceeding on the
+<strong>Day 25: July 9, 1987</strong>
+<br/><br/><strong>Mr. LIMAN</strong>: Would it have made a difference to you in your actions if you felt that the Attorney General was proceeding on the
 specific instructions of the President as opposed to the admiral?
 <br/><br/><strong>Mr. NORTH</strong>: Would what have made a difference? That my actions be any different?
 <br/><br/><strong>Mr. LIMAN</strong>: Yes, sir.
@@ -48,7 +49,7 @@ Let the witness object if he wishes to.
 <br/><br/><strong>Mr. SULLIVAN</strong>: I'm not a potted plant. I'm here as a lawyer.
 That's my job.
 <br/><br/><strong>Chairman INOUYE</strong>: Mr. Liman, please proceed with that question.
-<br/><br/><strong>Mr. NORTH</strong>: Let me answer it with a hypothetical answer. 
+<br/><br/><strong>Mr. NORTH</strong>: Let me answer it with a hypothetical answer.
 
 
 </font></div>

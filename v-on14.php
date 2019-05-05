@@ -2,10 +2,10 @@
 <title>Understanding the Iran-Contra Affairs</title>
 </head>
 <? require ('templates/hearingsbanner.php'); ?>
-    
+
 <div style="margin: 10px 0px 0px 20px; width: 760px" align="justify" id="welcomenote">
-    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo; 
-    
+    <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="thehearings.php">The Hearings</a> &raquo; <a href="gallery.php">Video Gallery</a> &raquo;
+
 North on Shredding Embarrassing Documents
 
 </div>
@@ -17,15 +17,15 @@ North on Shredding Embarrassing Documents
 Day 25: July 9, 1987
 
 </h3></td></tr>
-<td colspan=2><p>Col. North hedges on whether he destroyed documents to avoid political embarrassment.</p></td></tr>
+<td colspan=2><p>Col. North hedges on whether he destroyed documents to avoid "political embarrassment."</p></td></tr>
 <tr><td align="left">&laquo; <a href="v-on13.php" class="content_link">Previous</a></td><td align="right"><a href="v-on15.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>
 <td width=350 valign="top">
 
-<iframe src="transcripts/on-14.php" style="border:none" width="350" height="500"></iframe>	
-    
+<iframe src="transcripts/on-14.php" style="border:none" width="350" height="500"></iframe>
+
 </td>
 <td align="justify" valign="top">
 
