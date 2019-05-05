@@ -23,60 +23,60 @@
     A large part of the Reagan administration’s strategy was to discredit the new Sandinista government. In March 1984 a “U.S. diplomat in Honduras” described the Contras’ role in this way:
     <br/ ><br />
       <p style="margin-left: 40px">The Contras are strictly an instrument of pressure. Some people around here and in Washington really thought – and still do, I guess – that they could incite an insurrection and overthrow the Sandinistas. I always thought that was a lot of crap. But in any event, the theory was that we couldn’t lose. If they took Managua, wonderful. If not, the idea was that the Sandinistas would react one of two ways. Either they’d liberalize and stop exporting revolution [sic], which is fine and dandy, or they’d tighten up, alienate their own people, their international support and their backers in the United States, in the long run making themselves much more vulnerable. In a way, that one was even better – or so the idea went.<sup><a href="#footnote6">6</a></sup></p>
-    <br /><br />
+    <br />
     At a press conference on February 12, 1985, Reagan responded to a question about whether his goal was to remove the Nicaraguan government this way: “…Remove it in the sense of its present structure, in which it is a communist, totalitarian state and it is not a government chosen by the people.” Asked if this was not tantamount to seeking its overthrow, Reagan responded,” Not if the present government would turn around and say – all right – if they’d say ‘uncle’…”<sup><a href="#footnote7">7</a></sup>
     <br /><br />
     According to Kagan, the ostensible goal of U.S. support for the contras, according to some in the Administration, was not to overthrow the Sandinistas but to compel them to stop sending arms to the Salvadoran rebels. This changed, however, with the formulation of the Reagan Doctrine in 1982, which was “a policy of supporting democratic reform or revolution everywhere.” At this point, the goal of the Reagan Administration’s policy in Nicaragua arguably became to overthrow the Sandinistas. Others, such as Draper, suggest that regime change was the goal of the Administration’s Nicaragua policy from the beginning.</p>
-    <br /><br />
+    <br />
   <p><strong>U.S. Actions in Nicaragua, August 1981 to December 1982</strong>
     <br /><br />
     In August 1981, a CIA official met with Honduran military officials, Argentine advisers, and the FDN leadership and expressed his support for the Contras’ operations. On November 1, the Director of the CIA William Casey met with the Chief of Staff of the Argentine military; the two purportedly agreed that Argentina would oversee the Contras and the United States would provide money and weapons. In late 1981, President Reagan authorized the U.S. to support the contras by giving them “money, arms, and equipment” through Argentina, with the potential for “the occasional direct involvement of the United States in supporting individual operations.” As a result, according to Kornbluh, “the frequency and destructiveness of the Contras’ attack[s] increased rapidly.” So, too, did their numbers. Toward the end of 1982, the Contras (who operated out of Honduras) were conducting attacks deep inside Nicaragua.</p>
-    <br /><br />
+    <br />
   <p><strong>The First Boland Amendment</strong>
     <br /><br />
     As Contra attacks continued throughout 1982, the U.S. press began to report on U.S. support for the rebels. Liberal members of Congress condemned the policy, arguing that it was immoral and perhaps illegal. Eventually, Congressman Edward Boland (D-MA), Chairman of the House Intelligence Committee, offered an amendment “prohibiting the use of funds ‘for the purpose of’ overthrowing the government of Nicaragua or provoking a war between Nicaragua and Honduras,” which became law on December 21, 1982. The use of funds for this purpose had actually been secretly prohibited per an agreement between Congress and the White House; thus, the amendment had no practical effect on the conduct of U.S. policy. Kagan identifies a “loophole” in the law; namely, that as long as the United States itself did not intend to overthrow the Nicaraguan government, the United States could support the Contras, who did have that intent. Indeed, according to a PBS <i>Frontline</i> documentary, the amendment did not affect the conduct of the war in Nicaragua.</p>
-    <br /><br />
+    <br />
   <p><strong>U.S. Policy between Boland I and Boland II</strong>
     <br /><br />
     After “Boland I,” Contra attacks in Nicaragua continued to grow. Despite summary executions of Sandinista soldiers and other brutal measures, the Contras often found support among the people in the countryside. The number of Contra soldiers continued to grow as well. To counter this threat, the Sandinistas received operational support from a Cuban military general and weapons from the Soviet Union. The CIA began airlifting supplies to the Contras, who conducted “spectacular” guerilla assaults on their target. During the second half of 1983, with the help of the CIA, the Contras conducted air strikes on Sandino airport near Managua and other targets.
     <br /><br />
     In 1983, CIA-directed commandos rocketed oil storage tanks in the port of Corinto, destroying fuel, medicine and other supplies, and forcing the evacuation of over 25,000 residents. Setting dangerous precedents for terrorist action, CIA-supplied aircraft bombed Nicaragua’s international airport in Managua in 1983 and CIA operatives mined Nicaraguan harbors in 1984.<sup><a href="#footnote8">8</a></sup> The Contras initially took credit for the mining, but <i>The Wall Street Journal</i> reported it to be the work of the CIA a few months later. Moreover, it was discovered that Lieutenant Colonel Oliver North, a U.S. Marine who worked on the National Security Council staff at the Reagan White House, had known of and recommended the operation.</p>
-    <br /><br />
+    <br />
   <p><strong>The Second Boland Amendment</strong>
     <br /><br />
     As the war in Nicaragua grew, many in Congress were concerned that the administration’s policies violated the Boland Amendment, prompting political wrangling involving the White House and Congress over Contra funding. The revelation that the CIA was responsible for mining Nicaragua’s harbors infuriated members of Congress of both political parties, including Senator Barry Goldwater (R-AZ), Chairman of the Senate Intelligence Committee, who felt that the CIA had failed to inform the Committee of the operation in advance as required by law. (In fact, DCI Casey may have informed the Committee, albeit in an arguably veiled way). As a result, the second Boland Amendment was passed on October 12, 1984. It read:
     <br /><br />
       <p style="margin-left: 40px">No appropriations or funds made available pursuant to this [authorization bill] to the Central Intelligence Agency, the Department of Defense, or any other agency or entity of the United States involved in intelligence activities may be obligated or expended for the purpose or which would have the effect of supporting, directly or indirectly, military or paramilitary operations in Nicaragua by any nation, group, organization, movement, or individual.</p>
-    <br /><br />
+    <br />
     For all intents and purposes, this amendment appeared to prohibit the funding of the Contras with U.S. government funds.</p>
-    <br /><br />
+    <br />
   <p><strong>U.S. Policy Framework Post-Boland</strong>
     <br /><br />
     The second Boland Amendment certainly forced the administration to change some of its policies, even as it was trying to get the amendment repealed. Draper identifies two ways in which the Administration tried to get around Boland. The first was by getting private American citizens and third-party countries to donate money to the Contras since Boland did not explicitly outlaw these parties from funding the Contras. The second was by controlling U.S. Contra policy and support from within the National Security Council (NSC), which is “the President's principal forum for considering national security and foreign policy matters with his senior national security advisors and cabinet officials.” This option was based on the fact that the NSC was not explicitly mentioned in Boland and that, since the NSC deals with policymaking, it is arguably not an “intelligence agency or entity” involved in “intelligence activities.”</p>
-    <br /><br />
-  <p><strong>Funding </strong>
-    <div style="margin: 0px 20px 0px 20px"><p>em>Third-Country Funding</em>
+    <br />
+  <p><strong>Funding</strong>
+    <div style="margin: 0px 20px 0px 20px"><p><em>Third-Country Funding</em>
       <br /><br />
       Obtaining funds for U.S. foreign policy goals from third-parties had been considered by 1983.  That spring, Robert McFarlane, before he became Reagan’s National Security Adviser, suggested that Israel could give some of the foreign aid it received from the United States to U.S. allies in Central America. Later that year, Secretary of State George Shultz suggested that “alternative benefactors” should be found to fund the Contras.
       <br /><br />
       After the passage of the second Boland Amendment, the administration again considered this plan. In March and April, McFarlane, with the support of DCI Casey, tried to get the Israelis to fund the Contras, but they refused. Secretary Shultz now objected to this option, stating that it might be illegal for the United States to get other countries, especially recipients of U.S. aid, to fund the Contras. Nevertheless, McFarlane, North, and others sought funds from other countries for the Contras. McFarlane was able to get a total of $32 million from Saudi Arabia between 1984 and 1986; McFarlane maintained that he did not solicit the money, but merely expressed that funds for the Contras would be appreciated. Later, North was able to secure two $1 million contributions to the Contras from Taiwan.
       <br /><br />
       At the end of 1985 and as part of the Intelligence Authorization Act, Congress outlawed most U.S. government agencies from soliciting money from third-party countries to fund the Contras.  However, the amendment allowed the State Department to solicit such funds for “humanitarian assistance only,” provided that the money donated was from the countries’ own funds and that the U.S. did not enter into “any express or implied arrangement making U.S. provision of assistance to the third country contingent on the third country’s assistance to the Contras.” North, Assistant Secretary of State Elliot Abrams, National Security Adviser John Poindexter, and others had the idea of getting $10 million from the Sultan of Brunei for the Contras, but the money was deposited in the wrong bank account.</p>
-      <br /><br />
+      <br />
     <p><em>Private Funds</em>
       <br /><br />
       DCI Casey was allegedly the first to suggest the solicitation of private funds for the Contras, but the CIA did not coordinate these activities. Some in the administration had the idea to set up a tax-exempt foundation to collect money for the Contras, but the individual who eventually carried out this plan was Carl R. Channell, a conservative political consultant and lobbyist. In early 1985, Channell met the public relations representative of the Nicaraguan Refugee Fund.  Channell soon found himself and Daniel Conrad, another political fundraiser, hosting a fundraising dinner for the NRF. Channell continued fundraising, and he was eventually introduced to Oliver North. North began briefing dinner guests at Channell’s fundraisers, so that they would contribute to the contra cause. With the help of others, Channell organized fundraisers that also featured other administration officials, including the President, and he even arranged for a meeting between a potential donor and Adolfo Calero. In 1985 and 1986, Channell raised over $12 million, of which $2.7 million went to the Contras. Draper notes that North had a very important role in this operation and that Reagan himself knew about it.</p></p></div>
-      <br /><br />
+      <br />
   <p><strong>Operation Support</strong>
-    <br /><br />
+    <br />
     <div style="margin: 0px 20px 0px 20px"><p><em>Arms Deals</em>
       <br /><br />
       In addition to seeking alternative funding, North and others sought to provide the Contras with arms and supplies. For this, North worked with Richard Secord and Albert Hakim. (Some weapons were obtained with North’s knowledge by John Singlaub, a retired U.S. Army general who also assisted in securing the money from Taiwan and who, with the support of Sen. Jesse Helms and Abrams, attempted to unite the Contras in the north and south of Nicaragua). Secord was a retired Air Force General who had been implicated in a scandal in which an ex-CIA agent sold arms to Libya and who had met North in 1981 regarding an unrelated matter. Hakim was an Iranian businessman who met Secord while the latter was stationed in Iran. Following Secord’s retirement in 1983, the two began to do business with one another. DCI Casey recommended Secord to North as someone who could be involved in helping the contras. North solicited Secord’s help in summer 1984, and Secord and Hakim agreed to participate. North introduced the two to Calero, and in November 1984, the three solidified their first agreement in which Secord and Hakim would obtain arms for the Contras. By the next summer, the Contras got their arms solely from Secord and Hakim, who eventually sold a total of $11 million in arms to the Contras.</p>
-      <br /><br />
+      <br />
     <p><em>Air Supply Ops</em>
       <br /><br />
       The second Boland Amendment prohibited the CIA from providing the operational support to the Contras that it once had. In order to get around this restriction, North and others set up a “miniature CIA,” in Draper’s words, to deliver arms to the Contras. In July 1985, North asked Secord “to build and oversee an air resupply operation for the Contras.” Much of the money raised for the Contras from private citizens and other countries went to this operation, and an airstrip was constructed in Costa Rica for the operation’s use.  However, due to poor equipment and other issues, there were no arms deliveries until April 1, 1986, and the initial drops only supplied Contra forces in Honduras. By May, according to Draper, Contras in both the north and south of Nicaragua were receiving air drops, although Kagan quotes an agent of the supply effort as saying that the operation was not “viable” until mid-September. On October 5, 1986, one of the supply aircraft was shot down by the Sandinistas, and crewmember Eugene Hasenfus was captured. Despite the fact that this event did not cause Congress to immediately conduct in-depth investigations into U.S. involvement in supplying the Contras, North and others in the administration decided to end the operation.</p>
-      <br /><br />
+      <br />
     <p><em>Intelligence Support</em>
       <br /><br />
       North also provided “broader strategic military advice.” He also passed along intelligence information from the CIA and Department of Defense to the Contras. He attempted to help secure the services of a British mercenary, David Walker, for the Contras, but Walker’s operations were never carried out. Furthermore, North tried to get approval for a Contra attack on a cargo ship suspected of carrying arms for the Sandinistas, although this operation never occurred.
@@ -85,33 +85,33 @@
   <p><strong>Congressional Funding </strong>
     <br /><br />
     While North and others were coordinating financial and operational support to the Contras more or less out of the public view, the administration was considering ways to secure Congressional funding for the Contras. In addition to Boland, Congress passed a provision in which $14 million in military assistance could later be given to the Contras at the behest of Congress. In June 1985, as Congress debated whether to supply the so-called “humanitarian aid” to the Contras, House Majority Leader Jim Wright warned that approval would mean, “For the first time we’re going to be saying that we are accessories to overthrowing the government of Nicaragua.”<a href="#footnote11">11</a></sup> This aide was finally released for “humanitarian purposes” in August 1985. The that same year, Congress “loosened” the Boland Amendment’s restrictions, so that the CIA could “provide training and intelligence information to the Contras” as long as it was not for the conduct of or logistics for combat operations. In June 1986, $100 million in aide to the Contras was passed by Congress.</p>
-    <br /><br />
+    <br />
   <p><strong>The Diversion</strong>
     <br /><br />
     While the Administration was discussing Contra funding in 1986, “North came upon the idea of overcharging the Iranians” for weapons sold to them by Americans “and using the surplus to fund the Contra resupply operation and other covert activities.” Manucher Ghorbanifar apparently suggested this idea to George Cave, a CIA official, in March of that year. In any event, in early April, North wrote a memo to Poindexter and Reagan in which he wrote that $12 million of the profit Secord and Hakim made from the sale of arms to Iran “will be used to purchase critically needed supplies for the Nicaraguan Democratic Resistance Forces;” this became known as the “diversion.” On November 25, 1986, in the midst of growing attention paid to the arms deals to Iran, Attorney General Edwin Meese III announced the diversion. Of all of the events of the Iran-Contra Affair, this was arguably the most explosive.</p>
-    <br /><br />
+    <br />
   <p><strong>Media Discovery and Congress' Reaction</strong>
     <br /><br />
     As early as June 1985, the media began publishing stories about U.S. ties to the Contras. North’s name first appeared in a June 24, 1985 article in the <i>Miami Herald</i> in which Edgar Chamorro was interviewed. Other newspapers, including <i>The New York Times</i> and <i>The Washington Post</i> began running with the story as well. As a result, Congress questioned McFarlane and North.  The two of them, along with Poindexter, “deceived and obstructed” Congress, according to Draper. Thus, Congress did not conduct any oversight at this point, although the answers the three gave to Congress later formed the basis for their criminal charges.
     <br /><br />
     In 1986, the media again brought attention to North’s activities. A Sandinista helicopter was shot down in December 1985, and in January, the <i>Miami Herald</i> reported that the missile used in the attack was obtained by Singlaub. In April, the newspaper again referred to North, stating that he may have broken the prohibition on aid to the Contras. The media continued with the story throughout the summer amidst White House denials. Thus, according to Draper, “By mid-1986, U.S. clandestine support for the Contras was an open secret.” Congress again sought information on these activities, but Poindexter stonewalled Congress and North was misleading, as he later admitted. Thus, Congress again exercised no real oversight function over the NSC, and further failed to do so when Hasenfus’s aircraft was shot down. It was not until the exposure of the Iran side of things that the Iran-Contra Affair became a political crisis of such magnitude.</p>
-    <br /><br />
+    <br />
   <p><strong>Impact on the Contras</strong>
     <br /><br />
     The impact of the activities of North and the others is important to consider. Secord and Hakim were interested in profiting off of their activities; thus, the Contras did not receive all of the money that North intended they receive. As Kagan writes, “For all the controversy raised about the diversion, the contras were fortunate if they received $2 million worth of tangible benefits [between January and October 1986], an amount that paled in comparison to the far less controversial $32 million they ultimately received from Saudi Arabia.” The figure of $2 million includes the estimated $600,000 that the Contras received as a result of the diversion.  Meanwhile, the accounts of Secord and Hakim, when frozen during the Iran-Contra Affair, still had $8 million.</p>
-    <br /><br />
+    <br />
   <p><!-- Footnotes -->
-    <sup><p id="section1">1</p></sup>Greg Grandin, Empire’s Workshop (New York: Henry Holt and Company, LLC, 2006), 68.
-    <sup><p id="section2">2</p></sup>Quoted in William M. LeoGrande, Our Own Backyard: The United States in Central America, 1977-1992, Chapel Hill: University of North Carolina Press, 1998, p. 82.
-    <sup><p id="section3">3</p></sup>Grandin, Empire’s Workshop, 69.
-    <sup><p id="section4">4</p></sup>Grandin, Empire’s Workshop, 70-71.
-    <sup><p id="section5">5</p></sup>Grandin, Empire’s Workshop, 71.
-    <sup><p id="section6">6</p></sup>Reed Brody, Contra Terror in Nicaragua, Report of a Fact-finding Mission: September 1984-January 1985 (South End Press Collective, 1985), 11-12.
-    <sup><p id="section7">7</p></sup>Brody, “Contra Terror,” 12.
-    <sup><p id="section8">8</p></sup>Brody, “Contra Terror,” 10.
-    <sup><p id="section9">9</p></sup>Brody, “Contra Terror,” 8.
-    <sup><p id="section10">10</p></sup>Brody, “Contra Terror,” 10.
-    <sup><p id="section11">11</p></sup>Brody, “Contra Terror,” 3.</p>
+    <sup><p id="#footnote1">1</sup>Greg Grandin, Empire’s Workshop (New York: Henry Holt and Company, LLC, 2006), 68.</p>
+    <sup><p id="footnote2">2</sup>Quoted in William M. LeoGrande, Our Own Backyard: The United States in Central America, 1977-1992, Chapel Hill: University of North Carolina Press, 1998, p. 82.</p>
+    <sup><p id="footnote3">3</sup>Grandin, Empire’s Workshop, 69.</p>
+    <sup><p id="footnote4">4</sup>Grandin, Empire’s Workshop, 70-71.</p>
+    <sup><p id="footnote5">5</sup>Grandin, Empire’s Workshop, 71.</p>
+    <sup><p id="footnote6">6</sup>Reed Brody, Contra Terror in Nicaragua, Report of a Fact-finding Mission: September 1984-January 1985 (South End Press Collective, 1985), 11-12.</p>
+    <sup><p id="footnote7">7</sup>Brody, “Contra Terror,” 12.</p>
+    <sup><p id="footnote8">8</sup>Brody, “Contra Terror,” 10.</p>
+    <sup><p id="footnote9">9</sup>Brody, “Contra Terror,” 8.</p>
+    <sup><p id="footnote10">10</sup>Brody, “Contra Terror,” 10.</p>
+    <sup><p id="footnote11">11</sup>Brody, “Contra Terror,” 3.</p>
 <div align=center class="top_link"><p><a href="#headertop">[ Return to top ]</a></p></div>
 <br /><br /><br />
 </div>
