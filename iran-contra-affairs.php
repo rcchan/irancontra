@@ -78,8 +78,6 @@
           <u>Timelines</u>
           <ul>
             <li><a href="timeline-n-i.php">Nicaragua and Iran</a></li>
-            <li><a href="timeline-nicaragua.php">Nicaragua</a></li>
-            <li><a href="timeline-iran">Iran</a></li>
           </ul>
           <u>Nicaragua</u>
           <ul>

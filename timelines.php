@@ -15,9 +15,7 @@
  <tr>
  <td align="left">
 <a href="timeline-hearings.php" class="content_link">Hearings</a> <br /><br />
-<a href="timeline-iran" class="content_link">Iran</a><br /><br />
 <a href="timeline-legal.php" class="content_link">Legal Aftermath</a> <br /><br />
-<a href="timeline-nicaragua.php" class="content_link">Nicaragua</a> <br /><br />
 <a href="timeline-n-i.php" class="content_link">Nicaragua and Iran</a><br /><br />
 <Br /></td>
  </tr>
