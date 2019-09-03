@@ -8,7 +8,7 @@
 <h2><a name="headertop" id="headertop"></a>Key Players</h2>
 
 <p><u>Major Witnesses</u> <br />
-Maj. Gen. Richard Secord (Ret.), co-founder of the Enterprise<br />
+Maj. Gen. Richard Secord (Ret.), co-founder of <a href="https://www.nytimes.com/1987/11/19/world/the-iran-contra-report-what-the-enterprise-was.html">the Enterprise</a><br />
 Robert McFarlane, former national security advisor<br />
 Adolfo Calero, leader of the Nicaraguan Democratic Force<br />
 Felix Rodriguez, former CIA agent<br />
@@ -53,7 +53,7 @@ Caspar Weinberger, secretary of defense</p>
   Sen. Paul Trible (R-VA)</p>
 <p>Arthur Liman, chief counsel<br />
   Mark Belnick, executive assistant to the chief counsel</p>
-<div align=center class="top_link"><p>[ <a href="#headertop">Return to top ]</a></p></div>
+<div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div>
 </div>
 
 <? require ('templates/footer.php'); ?>

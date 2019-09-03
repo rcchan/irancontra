@@ -20,7 +20,8 @@
  <li><a href="https://www.presidency.ucsb.edu/node/268672" target="_" class="content_link">George Bush's Clemency Statement</a></li>
  <li><a href="http://www.pbs.org/wgbh/americanexperience/features/general-article/reagan-iran/" target="_" class="content_link">PBS' The American Experience: The Iran-Contra Affair</a></li>
  <li><a href="http://www.fas.org/irp/offdocs/walsh/" target="_" class="content_link">The Walsh Report</a></li>
- <li><a href="http://projects.washingtonpost.com/top-secret-america/" target="_" class="content_link">Washington Post's "Top Secret America"</a></li>
+ <li><a href="https://web.archive.org/web/20190630205636/http://projects.washingtonpost.com/top-secret-america/" target="_" class="content_link">Washington Post's "Top Secret America"</a></li>
+              <!--Original WaPo link no longer active: http://projects.washingtonpost.com/top-secret-america/-->
  </ul>
  <p>&nbsp;</p></td>
  </tr>

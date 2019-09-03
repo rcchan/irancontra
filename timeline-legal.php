@@ -25,7 +25,7 @@
    <li><strong>Dec. 4, 1986</strong>: Attorney General Edwin Meese III requests that an independent counsel be appointed to investigate the Iran-Contra Affairs.</li>
    <li><strong>Dec. 6, 1986</strong>: To determine the flow of funds from private entities, foreign nations, and arms sales to Iran, the U.S. Department of Justice requests financial records from Albert Hakim and Richard Secord's Switzerland-based “Enterprise.”</li>
    <li><strong>Dec. 19, 1986</strong>: A panel of judges appoints Lawrence Walsh as Independent Counsel.</li>
-   <li><strong>March 4, 1987</strong>: Reagan makes his <a href="http://millercenter.org/scripps/archive/speeches/detail/3414" target="_" class="content_link">Address to the Nation on Iran-Contra</a>.</li>
+   <li><strong>March 4, 1987</strong>: Reagan makes his <a href="https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/multimedia.php" target="_" class="content_link">Address to the Nation on Iran-Contra</a>.</li>
    <li><strong>March 5, 1987</strong>: Walsh also receives an appointment as Independent Counsel from the U.S. Department of Justice. He requested this appointment because he was afraid, given other challenges to the constitutionality of the Independent Counsel Act (see <em>Morrison v. Olson</em>, which had not yet been decided in 1987), that his position would be deemed unconstitutional.</li>
    <li><strong>April 28, 1987</strong>: Walsh submits a report to Congress that details the problems to his investigation posed caused by immunity grants.</li>
    <li><strong>April 29, 1987</strong>: Carl Channell pleads guilty to conspiracy to defraud the United States.</li>

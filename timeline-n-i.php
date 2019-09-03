@@ -3,13 +3,13 @@
 <meta name="keywords" content="iran, contra, iran-contra, scandals, iran contra affairs, iran-contra affairs"
 </head>
 <? require ('templates/mainbanner.php'); ?>
-    
+
  <div style="position:relative; margin: 10px 0px 0px 20px; width: 765px" align="center" id="welcomenote">
- 
+
  <div align="left" class="bread_crumbs"><a href="index.php">Home</a> &raquo; <a href="timelines.php">Timelines</a>
 &raquo; Nicaragua and Iran Timeline</div>
 
- 
+
  <div align="left"><br />
  <h2><a name="headertop" id="headertop"></a>Nicaragua and Iran Timeline </h2>
  </div>
@@ -20,8 +20,8 @@
 <col width="90">
 <tr style="font-weight: bold;"><td>Date</td><td>Nicaragua</td><td>Iran</td></tr>
 <tr><td>1926</td><td>Augusto Sandino was a member of a revolution fighting against the Conservative ruler of Nicaragua, Adolfo Díaz (who was backed by the U.S.) and continued fighting after a cease-fire.</td><td></td></tr>
-<tr><td>1932</td><td>The outgoing liberal president appointed Anastasio Samoza García to head the National Guard; Sandino maintained some land and a small army that the new President gave him upon the departure of U.S. Marines.</td><td></td></tr>
-<tr><td>1936</td><td>García takes power after the murder of Sandino and his dynasty rules for the next 43 years.</td><td></td></tr>
+<tr><td>1932</td><td>The outgoing liberal president appointed Anastasio "Tacho" Somoza García to head the National Guard; Sandino maintained some land and a small army that the new President gave him upon the departure of U.S. Marines.</td><td></td></tr>
+<tr><td>1936</td><td>"Tacho" Somoza takes power after the murder of Sandino and his dynasty rules for the next 43 years.</td><td></td></tr>
 <tr><td>1953-1979</td><td></td><td>Mohammad Reza Shah Pahlavi is the secular and authoritarian ruler (known as the Shah) of Iran. Iran is one of the U.S.’ strongest allies in the Middle East.</td></tr>
 <tr><td>1961</td><td>The Sandinista National Liberation Front (FSLN; named after Sandino) is founded in opposition to the regime. Ideologically, it sees itself as a Marxist-Leninist vanguard organization whose goal is to create a socialist state. They were inspired by the Cuban revolution and were against U.S. intervention.</td><td></td></tr>
 <tr><td>1967</td><td>Anastasio Somoza Debayle comes to power.</td><td></td></tr>
@@ -104,12 +104,12 @@
  </td>
  </tr>
  </table>
- 
+
  <div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div><br /><br />
- 
+
  </div>
- 
+
  <br /><br /><br />
-    
-    
+
+
 <? require ('templates/footer.php'); ?>
