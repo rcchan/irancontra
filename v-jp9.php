@@ -18,7 +18,7 @@ Day 33: July 21, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Chmn. Hamilton acknowledges that there is some need for secrecy in government, but not excessive secrecy on decision-making. He tells Adm. Poindexter that the buck should not stop with the National Security Advisor, but with the President.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/jp-8.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/gs-1.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-jp8.php" class="content_link">Previous</a></td><td align="right"><a href="v-gs1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

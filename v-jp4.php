@@ -18,7 +18,7 @@ Day 29: July 15, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Adm. Poindexter explains the Boland Amendment and how he never believed it applied to National Security Council staff.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/jp-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-5.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-jp3.php" class="content_link">Previous</a></td><td align="right"><a href="v-jp5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

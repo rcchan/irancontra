@@ -18,7 +18,7 @@ Day 29: July 15, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Adm. Poindexter admits to destroying the finding because he thought it would be a "significant political embarrassment" to the President, since the media had "beaten [Reagan] around the head and shoulders for the arms-for-hostage deal." Poindexter further states it is always the responsibility of staff to protect their leader, although he also admits the President did not authorize him to destroy the Finding.</p></td></tr>
-<tr><td align="left">&laquo; <a href="v-on22.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-2.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-on22.php" class="content_link">Previous</a></td><td align="right"><a href="v-jp2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

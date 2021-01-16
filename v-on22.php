@@ -18,7 +18,7 @@ Day 28, Part 1: July 14, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Chmn. Inouye tells Col. North that listening to his testimony has been "troubling" and "painful"; after Inouye compares the hearings to the Nuremberg Trials, North's counsel quarrels with him.</p></td></tr>
-<tr><td align="left">&laquo; <a href="v-on21.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-1.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-on21.php" class="content_link">Previous</a></td><td align="right"><a href="v-jp1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

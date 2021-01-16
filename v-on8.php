@@ -18,7 +18,7 @@ Day 24: July 8, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Col. North explains why he had a $8,500 security system installed in his home. He states that he was denied protection from the U.S. government for his wife and children and was terrified that Abu Nidal would harm them.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/on-7.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/on-9.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-on7.php" class="content_link">Previous</a></td><td align="right"><a href="v-on9.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

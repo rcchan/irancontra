@@ -18,7 +18,7 @@ Day 37: July 29, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Sen. Rudman asks Atty. Gen. Meese why neither Adm. Poindexter nor Col. North was told to report to the President before the criminal investigation started. Rudman states that Poindexter and North should have written a report for the President of who did what and how money was spent before they left the White House.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/em-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/em-5.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-em3.php" class="content_link">Previous</a></td><td align="right"><a href="v-em5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

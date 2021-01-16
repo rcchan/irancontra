@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>Hakim on the $200,000 Death Insurance for North</h2>
 <h3>Day 15, Part 2: June 3, 1987</h3></td></tr>
 <td colspan=2><p>Mr. Hakim discusses how he set up death insurance for Col. North worth $200,000, which he hoped to go toward North's family.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/ea-5.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ah-2.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-ea5.php" class="content_link">Previous</a></td><td align="right"><a href="v-ah2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

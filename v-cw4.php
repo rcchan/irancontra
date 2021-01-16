@@ -18,7 +18,7 @@ Day 39, Part 2: July 31, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Sen. Sarbanes asks Sec. of Defense Weinberger how and why Adm. Poindexter kept him, Sec. of State Shultz, and President Reagan in the dark. Weinberger says that the people who wanted the President to approve of the plan tried to keep those who would disagree away, so that they could not convince the President to change it.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/cw-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/cw-5.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-cw3.php" class="content_link">Previous</a></td><td align="right"><a href="v-cw5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

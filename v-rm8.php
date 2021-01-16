@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>McFarlane and Sen. Cohen on Casey's Influence</h2>
 <h3>Day 7: May 13, 1987</h3></td></tr>
 <td colspan=2><p>National Security Advisor McFarlane tells Sen. Cohen that the late CIA Director Casey had a large influence on Col. North's decisions.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/rm-7.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ac-1.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-rm7.php" class="content_link">Previous</a></td><td align="right"><a href="v-ac1.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

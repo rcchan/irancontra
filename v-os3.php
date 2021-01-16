@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>Opening Statement by Sen. Rudman</h2>
 <h3>Day 1: May 5, 1987</h3></td></tr>
 <td colspan=2><p>Sen. Rudman opens the hearings by laying out the critical questions the hearings will investigate, saying that the affair is an "an inexcusable fiasco of the first order."</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/os-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/os-4.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-os2.php" class="content_link">Previous</a></td><td align="right"><a href="v-os4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

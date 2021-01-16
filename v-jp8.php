@@ -18,7 +18,7 @@ Day 32: July 20, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Sen. Trible questions whether the Naval Honor Code (not being evasive or misleading) applies to Adm. Poindexter's position as well as actions.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/jp-7.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-9.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-jp7.php" class="content_link">Previous</a></td><td align="right"><a href="v-jp9.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

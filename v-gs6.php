@@ -18,7 +18,7 @@ Day 35: June 24, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Sen. Mitchell asks Sec. of State Shultz about three findings President Reagan had signed, of which Shultz had not been made aware. Mitchell then posits the possibility that the President had purposefully misled Shultz, to which Shultz disagrees.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/gs-5.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/gs-7.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-gs5.php" class="content_link">Previous</a></td><td align="right"><a href="v-gs7.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

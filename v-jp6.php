@@ -18,7 +18,7 @@ Day 29: July 15, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Adm. Poindexter recalls discussing the Contras with Col. North and admits that he did not fully brief the President about all of North's activities.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/jp-5.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-7.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-jp5.php" class="content_link">Previous</a></td><td align="right"><a href="v-jp7.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

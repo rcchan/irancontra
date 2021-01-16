@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>McFarlane on Reagan's Meeting With Saudi Leader</h2>
 <h3>Day 5: May 11, 1987</h3></td></tr>
 <td colspan=2><p>National Security Advisor McFarlane admits that he did not think it was legal to solicit funds. He then states that President Reagan met with a leader from "Country 2" to discuss the "situation in Central America and funding for the Contras."</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/rs-7.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rm-2.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-rs7.php" class="content_link">Previous</a></td><td align="right"><a href="v-rm2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

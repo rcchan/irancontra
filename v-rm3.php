@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>McFarlane on Legality and Shredding Documents</h2>
 <h3>Day 5: May 11, 1987</h3></td></tr>
 <td colspan=2><p>National Security Advisor McFarlane answers questions about what he told Atty. Gen. Meese during his investigation about "shredding parties." He also answers questions about why he did not volunteer information about the diversion of funds to Meese. McFarlane also states that his understanding is that oral approval from the President can be interpreted as official approval.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/rm-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rm-4.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-rm2.php" class="content_link">Previous</a></td><td align="right"><a href="v-rm4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

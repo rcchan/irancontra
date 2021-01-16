@@ -18,7 +18,7 @@ Day 36: July 28, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Atty. Gen. Messe could not recall whether the Justice Department was asked if the Boland Amendment applied to the National Security Council. He also stated that whether a NSC covert operation would need to be reported to Congress would depend on the details.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/em-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/em-4.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-em2.php" class="content_link">Previous</a></td><td align="right"><a href="v-em4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

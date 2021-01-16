@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>McFarlane on Supposed "Oil-Drilling Equipment" (Hawk Missiles)</h2>
 <h3>Day 5: May 11, 1987</h3></td></tr>
 <td colspan=2><p>National Security Advisor McFarlane admits that he, Adm. Poindexter, and Col. North created a misleading chronology stating the United States was purchasing oil drilling equipment, when really they were purchasing Hawk missiles.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/rm-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rm-5.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-rm3.php" class="content_link">Previous</a></td><td align="right"><a href="v-rm5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

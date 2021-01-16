@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>Opening Statement By Calero</h2>
 <h3>Day 10, Part 1: May 20, 1987</h3></td></tr>
 <td colspan=2><p>Mr. Calero compares the fight for freedom to the American Revolution, and says "God bless all of the Americas."</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/rm-8.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ac-2.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-rm8.php" class="content_link">Previous</a></td><td align="right"><a href="v-ac2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

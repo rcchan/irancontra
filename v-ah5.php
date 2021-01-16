@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>Hakim on War With Russia</h2>
 <h3>Day 17: June 5, 1987</h3></td></tr>
 <td colspan=2><p>Mr. Hakim says that Gen. Secord used potential war with Russia as a "bargaining method" with Iran.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/ah-4.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ah-6.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-ah4.php" class="content_link">Previous</a></td><td align="right"><a href="v-ah6.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

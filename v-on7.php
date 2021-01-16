@@ -18,7 +18,7 @@ Day 24: July 8, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Col. North thought the idea of using Ayatollah Khomeini's money to support the Nicaraguan Freedom Fighters was a good idea. He did not think it was wrong, and admits to doing it on three occasions in February, May, and October.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/on-6.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/on-8.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-on6.php" class="content_link">Previous</a></td><td align="right"><a href="v-on8.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

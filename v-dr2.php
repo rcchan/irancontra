@@ -18,7 +18,7 @@ Day 38: July 30, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Chief of Staff Regan claims that "oil-drilling equipment" was just a cover story for what the President knew was an arms shipment to Iran.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/dr-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/dr-3.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-dr1.php" class="content_link">Previous</a></td><td align="right"><a href="v-dr3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

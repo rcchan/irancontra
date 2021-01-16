@@ -18,7 +18,7 @@ Day 38: July 30, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Chief of Staff Regan says that President Reagan looked stunned when Atty. Gen. Meese told him about the diversion of funds. Regan says he knew nothing about the fact that there was a markup on the cost of missiles when they were being shipped to Iran, because he thought they were selling them to Israel and that they were a direct cost transaction.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/dr-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/dr-4.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-dr2.php" class="content_link">Previous</a></td><td align="right"><a href="v-dr4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

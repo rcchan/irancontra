@@ -18,7 +18,7 @@ Day 23: July 7, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Chief House Counsel Nields questions Col. North about why he decided to shred documents when he found out the Attorney General's people were coming that weekend to look through his documents. North does not deny that he shredded some documents because the Attorney General's people were coming, and says he shredded them with "increased intensity" than when he usually shreds papers.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/on-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/on-4.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-on2.php" class="content_link">Previous</a></td><td align="right"><a href="v-on4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

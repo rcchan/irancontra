@@ -18,7 +18,7 @@ Day 18, Part 2: June 8, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Hall recalls her typo that improperly transferred  million.</p><br /><br /></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/ah-6.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/fh-2.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-ah6.php" class="content_link">Previous</a></td><td align="right"><a href="v-fh2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

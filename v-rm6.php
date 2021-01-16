@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>McFarlane and Sen. Rudman on DEA Caper</h2>
 <h3>Day 7: May 13, 1987</h3></td></tr>
 <td colspan=2><p>National Security Advisor McFarlane discusses a "DEA caper" with Sen. Rudman. McFarlane explains why Congress was never notified of this activity, and why it was the right thing to do. (Note that the sound cuts out for a small portion at the end).</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/rm-5.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/rm-7.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-rm5.php" class="content_link">Previous</a></td><td align="right"><a href="v-rm7.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

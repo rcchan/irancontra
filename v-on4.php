@@ -18,7 +18,7 @@ Day 23: July 7, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Col. North testifies that he thinks he saw a signed presidential Finding to send arms to Iran in Adm. Poindexter's office. North states Poindexter knew it was a false version of the facts, because it separated the United States and Israel on the activity. North testifies that he believes there was good reason for not putting out the true facts.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/on-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/on-5.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-on3.php" class="content_link">Previous</a></td><td align="right"><a href="v-on5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>Abrams Arguing With Rep. Brooks</h2>
 <h3>Day 15, Part 1: June 3, 1987</h3></td></tr>
 <td colspan=2><p>Rep. Brooks engages in banter with Asst. Sec. of State Abrams over whether Abrams is intentionally misleading the committee or if Abrams was purposefully kept uninformed.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/ea-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ea-4.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-ea2.php" class="content_link">Previous</a></td><td align="right"><a href="v-ea4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

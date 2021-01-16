@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>Opening Statement by Sen. Inouye</h2>
 <h3>Day 1: May 5, 1987</h3></td></tr>
   <td colspan=2><p>Chmn. Inouye opens the hearings with a statement of purpose and explains why the affair frustrated Americans, noting that "trust is the lubricant of our [American] system." This story, he says, "is not a pretty one."</p></td></tr>
-<tr><td align="left"></td><td align="right"><a href="transcripts/os-2.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left"></td><td align="right"><a href="v-os2.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
       <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

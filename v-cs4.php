@@ -18,7 +18,7 @@ Day 40: August 3, 1987
 
 </h3></td></tr>
 <td colspan=2><p>The hearings showed, in the words of Chmn. Inouye, that "in America, as 200 years ago, the people still rule."</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/cs-3.php" class="content_link">Previous</a></td><td align="right"></td></tr>
+<tr><td align="left">&laquo; <a href="v-cs3.php" class="content_link">Previous</a></td><td align="right"></td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

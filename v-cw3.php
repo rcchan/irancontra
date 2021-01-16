@@ -18,7 +18,7 @@ Day 39, Part 2: July 31, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Responding to Rep. Broomfield, Sec. of Defense Weinberger says he tried all that he could to prevent an arms sale to Iran.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/cw-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/cw-4.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-cw2.php" class="content_link">Previous</a></td><td align="right"><a href="v-cw4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

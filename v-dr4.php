@@ -18,7 +18,7 @@ Day 39, Part 1: July 31, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Responding to Rep. Stokes, Chief of Staff Regan recalls that President Reagan refused to discuss pardoning Col. North or Adm. Poindexter, as doing so would constitute a presumption of guilt.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/dr-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/dr-5.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-dr3.php" class="content_link">Previous</a></td><td align="right"><a href="v-dr5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

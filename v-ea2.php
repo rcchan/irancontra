@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>Abrams on Soliciting Brunei</h2>
 <h3>Day 14: June 2, 1987</h3></td></tr>
 <td colspan=2><p>Asst. Sec. of State Abrams talks about a $10 million donation from Brunei that did not end up in the Contra's Swiss bank account. He asked Col. North and Brunei what had happened to the money, but he did not ask the Contras.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/ea-1.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ea-3.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-ea1.php" class="content_link">Previous</a></td><td align="right"><a href="v-ea3.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

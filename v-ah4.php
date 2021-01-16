@@ -10,7 +10,7 @@
 <td colspan=2 height=75><h2>Hakim's Interactions With North and the Millions Hakim Stood to Make</h2>
 <h3>Day 15, Part 2: June 3, 1987</h3></td></tr>
 <td colspan=2><p>Mr. Hakim claims that Col. North would often invoke President Reagan's name to achieve his objectives. Hakim also admits to having a better understanding of what was occurring than the Secretary of State and to the fact that he stood to gain millions of dollars from these transactions.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/ah-3.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/ah-5.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-ah3.php" class="content_link">Previous</a></td><td align="right"><a href="v-ah5.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

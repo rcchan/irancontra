@@ -18,7 +18,7 @@ Day 29: July 15, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Adm. Poindexter explains how he briefed the President on discussions and got approval for the next steps to take, including the use of proceeds for the Contras.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/jp-4.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-6.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-jp4.php" class="content_link">Previous</a></td><td align="right"><a href="v-jp6.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

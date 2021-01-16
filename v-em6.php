@@ -18,7 +18,7 @@ Day 37: July 29, 1987
 
 </h3></td></tr>
 <td colspan=2><p>The attorney general testifies that it “did not occur” to him to secure National Security Council documents that were accessible to North.</p><br /><br /></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/em-5.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/em-7.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-em5.php" class="content_link">Previous</a></td><td align="right"><a href="v-em7.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>

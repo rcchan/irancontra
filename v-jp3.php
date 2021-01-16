@@ -18,7 +18,7 @@ Day 29: July 15, 1987
 
 </h3></td></tr>
 <td colspan=2><p>Adm. Poindexter explains how he insulated President Reagan from the operation in order to prevent the President from being embarrassed, but he believes that if he had asked Reagan, Reagan would have approved. Poindexter also claims that the "buck stops with me" because he was the one who ultimately made the decision.</p></td></tr>
-<tr><td align="left">&laquo; <a href="transcripts/jp-2.php" class="content_link">Previous</a></td><td align="right"><a href="transcripts/jp-4.php" class="content_link">Next</a> &raquo;</td></tr>
+<tr><td align="left">&laquo; <a href="v-jp2.php" class="content_link">Previous</a></td><td align="right"><a href="v-jp4.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
 <tr>
