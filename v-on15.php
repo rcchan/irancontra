@@ -17,7 +17,7 @@ North's Lawyer Objecting to "Dreamland" Scenarios
 Day 25: July 9, 1987
 
 </h3></td></tr>
-<td colspan=2><p>During an exchange with Co-Chairman Inouye, North's counsel Sullivan says, “I'm not a potted plant.  I'm here as a lawyer.”</p><br /><br /></td></tr>
+<td colspan=2><p>Col. North's counsel Brendan Sullivan says in a back-and-forth with Chmn. Inouye, “I'm not a potted plant. I'm here as a lawyer.”</p></td></tr>
 <tr><td align="left">&laquo; <a href="v-on14.php" class="content_link">Previous</a></td><td align="right"><a href="v-on16.php" class="content_link">Next</a> &raquo;</td></tr>
 <tr><td colspan=2>
 <br /><strong>TRANSCRIPT:</strong></td></tr>
