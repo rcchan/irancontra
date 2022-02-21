@@ -23,6 +23,7 @@ Donald Regan, former chief of staff<br />
 Caspar Weinberger, secretary of defense</p>
 <p><u>House Select Committee to Investigate Covert Arms Transactions with Iran</u> <br />
   Rep. Lee Hamilton (D-IN), chairman<br />
+  Rep. Dante Fascell (D-FL), vice chairman<br />
   Rep. Thomas Foley (D-WA)<br />
   Rep. Peter Rodino, Jr. (D-NJ)<br />
   Rep. Jack Brooks (D-TX)<br />
@@ -30,8 +31,7 @@ Caspar Weinberger, secretary of defense</p>
   Rep. Les Aspin (D-WI)<br />
   Rep. Edward Boland (D-MA)<br />
   Rep. Ed Jenkins (D-GA)</p>
-<p>Rep. Dante Fascell (R-FL), vice chairman<br />
-  Rep. Dick Cheney (R-WY), ranking member<br />
+<p>Rep. Dick Cheney (R-WY), ranking member<br />
   Rep. William Broomfield (R-MI)<br />
   Rep. Henry Hyde (R-IL)<br />
   Rep. Jim Courter (R-NJ)<br />
@@ -50,7 +50,7 @@ Caspar Weinberger, secretary of defense</p>
   Sen. James McClure (R-ID)<br />
   Sen. Orrin Hatch (R-UT)<br />
   Sen. William Cohen (R-ME)<br />
-  Sen. Paul Trible (R-VA)</p>
+  Sen. Paul Trible, Jr. (R-VA)</p>
 <p>Arthur Liman, chief counsel<br />
   Mark Belnick, executive assistant to the chief counsel</p>
 <div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div>
