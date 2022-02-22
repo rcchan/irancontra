@@ -38,8 +38,8 @@ Caspar Weinberger, secretary of defense</p>
   Rep. Bill McCollum (R-FL)<br />
   Rep. Michael DeWine (R-OH)</p>
 <p>John Nields, Jr., chief counsel<br />
-  W. Neil Eggleston, deputy chief counsel</p>
-  George Van Cleve, chief minority counsel</p>
+  W. Neil Eggleston, deputy chief counsel<br />
+  George Van Cleve, chief minority counsel<br />
   Richard Leon, deputy chief minority counsel</p>
 <p><u>Senate Select Committee on Secret Military Assistance to Iran and the Nicaraguan Opposition</u> <br />
   Sen. Daniel Inouye (D-HI), chairman<br />
@@ -54,7 +54,7 @@ Caspar Weinberger, secretary of defense</p>
   Sen. William Cohen (R-ME)<br />
   Sen. Paul Trible, Jr. (R-VA)</p>
 <p>Arthur Liman, chief counsel<br />
-  Mark Belnick, executive assistant to the chief counsel</p>
+  Mark Belnick, executive assistant to the chief counsel<br />
   Paul Barbadoro, deputy chief counsel</p>
 <div align=center class="top_link"><p>[ <a href="#headertop">Return to top</a> ]</p></div>
 </div>
